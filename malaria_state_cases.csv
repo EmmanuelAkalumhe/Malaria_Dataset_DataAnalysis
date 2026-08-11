@@ -1,0 +1,4501 @@
+state_name,month_reported,reported_cases,weather_notes,extra_column
+Taraba,Sep,1355,Heavy rain,###
+Adamawa,May,1748,flooded!!!,
+katsina,Jan,262,123,###
+Benue,Jul,157,,###
+Kaduba,Nov,1453,Dry season,irrelevant
+G0mbe,Dec,1605,,irrelevant
+Abuja,Jan,1763,Dry season,
+Nasarawa,Apr,391,123,
+Anambra,Jul,1109,,
+Enugu,Nov,451,123,
+Delta,Aug,1591,flooded!!!,###
+katsina,Jul,853,123,irrelevant
+Ogun,Aug,1369,,
+Abla,Sep,957,Dry season,
+lagos ,May,1121,123,irrelevant
+Delta,Dec,1500,123,###
+Adamawa,Nov,38,flooded!!!,
+Kebbis,Jan,1334,123,irrelevant
+lagos ,May,1842,,###
+Bayelsa,May,79,Heavy rain,###
+Bayelsa,???,1198,Heavy rain,###
+Zamfara,Oct,1921,Heavy rain,irrelevant
+G0mbe,Dec,1002,Heavy rain,irrelevant
+Adamawa,Feb,1291,Dry season,
+Enugu,???,552,flooded!!!,###
+Jigawa,???,284,,###
+Rivers,Jun,1317,Dry season,
+Taraba,???,418,Heavy rain,irrelevant
+Delta,Sep,376,Dry season,###
+Rivers,???,1404,Heavy rain,
+benue,Sep,1314,flooded!!!,irrelevant
+Enugu,Oct,762,Dry season,
+Yobe,???,1455,flooded!!!,###
+Osun,Jan,1781,123,###
+katsina,,574,123,###
+Kebbis,Feb,255,Dry season,###
+Yobe,Aug,414,flooded!!!,
+Delta,Oct,250,,###
+Yobe,Jul,1048,flooded!!!,irrelevant
+Osun,Feb,1814,Heavy rain,###
+Cross River,Oct,1957,,###
+Kwara,Aug,580,Heavy rain,
+Benue,Sep,845,Heavy rain,###
+katsina,Jan,961,123,irrelevant
+kogi,,987,Heavy rain,###
+Anambra,Jun,1777,flooded!!!,irrelevant
+Kebbis,Oct,1305,,irrelevant
+Borno,Aug,420,,irrelevant
+Zamfara,Mar,1244,Dry season,
+??Rivers,Sep,500,Dry season,###
+Ogun,Aug,1379,flooded!!!,irrelevant
+KAN0,Jul,998,Heavy rain,
+Taraba,,978,,
+Rivers,???,1187,123,irrelevant
+Osun,Feb,1505,flooded!!!,
+Adamawa,Aug,1404,Dry season,###
+??Rivers,Dec,1064,Dry season,
+Ekiti,Jun,1406,123,
+kogi,Aug,727,Heavy rain,
+Rivers,Aug,1668,123,
+Lagos,Jan,1192,123,
+Abla,,128,,irrelevant
+KAN0,Jun,1824,Heavy rain,
+Lagos,???,295,123,
+kogi,May,477,Heavy rain,irrelevant
+Jigawa,Dec,364,123,
+Lagos,Oct,1985,,
+Yobe,Aug,1782,,irrelevant
+katsina,Jan,947,flooded!!!,irrelevant
+katsina,Feb,554,flooded!!!,irrelevant
+Cross River,Dec,792,flooded!!!,
+Oyo,Dec,1969,flooded!!!,irrelevant
+Anambra,Jan,1938,flooded!!!,irrelevant
+Lagos,Jul,571,Dry season,###
+Ogun,Nov,637,Heavy rain,irrelevant
+Abla,Dec,1312,flooded!!!,irrelevant
+Osun,Jan,462,Dry season,###
+gombe,May,709,flooded!!!,irrelevant
+Bauchi,Mar,131,Dry season,irrelevant
+Anambra,Feb,156,,
+Kaduba,???,1671,Dry season,###
+Rivers,Sep,299,Dry season,irrelevant
+Jigawa,Aug,608,flooded!!!,irrelevant
+Ogun,Feb,1630,Dry season,###
+lagos ,Jul,1406,Dry season,irrelevant
+Benue,,1867,Dry season,###
+G0mbe,Jun,1822,123,
+Nasarawa,Feb,985,123,###
+Oyo,Jul,414,flooded!!!,irrelevant
+benue,Oct,885,flooded!!!,###
+Ogun,???,684,flooded!!!,irrelevant
+crossriver,May,1226,,
+KAN0,Nov,1746,,irrelevant
+Cross River,Aug,1452,flooded!!!,###
+Imo,Jul,1424,flooded!!!,###
+Bayelsa,???,1554,Heavy rain,
+Taraba,Dec,643,flooded!!!,###
+Enugu,,1395,123,
+Ekiti,Jun,223,,irrelevant
+Plateau,Mar,1332,Dry season,
+Cross River,???,1758,,###
+crossriver,Oct,1931,,###
+Niger,Dec,1718,,###
+Abla,,1234,flooded!!!,
+Taraba,Dec,285,Heavy rain,
+??Rivers,Sep,482,Heavy rain,###
+Kano,???,1789,123,###
+Bauchi,Sep,1157,123,irrelevant
+Ebonyi,Oct,144,flooded!!!,###
+Kwara,,478,flooded!!!,irrelevant
+Bauchi,May,1553,123,irrelevant
+Abla,???,1957,,
+Imo,Apr,427,flooded!!!,###
+Ekiti,Sep,1398,123,
+Kaduna,May,14,123,
+Taraba,Jun,747,Dry season,###
+Plateau,May,231,Heavy rain,
+G0mbe,Oct,299,Dry season,
+lagos ,,1327,Dry season,
+Bauchi,Jan,1120,flooded!!!,irrelevant
+crossriver,Nov,1771,,irrelevant
+Jigawa,Apr,1493,,
+Adamawa,Dec,1858,Dry season,###
+Ed0o,Oct,982,Dry season,
+Anambra,Aug,1987,flooded!!!,irrelevant
+lagos ,Feb,1223,Heavy rain,###
+G0mbe,May,885,Dry season,
+Kwara,,1052,,###
+lagos ,May,642,flooded!!!,###
+Yobe,Mar,1513,Heavy rain,###
+Kaduna,Jul,661,Dry season,###
+lagos ,Sep,241,Heavy rain,
+gombe,Mar,1751,,
+Ogun,Mar,513,Dry season,irrelevant
+Rivers,Sep,532,flooded!!!,
+gombe,Apr,1482,,
+Borno,Dec,1760,123,###
+Cross River,Nov,1726,flooded!!!,###
+katsina,Mar,1476,Dry season,irrelevant
+Abuja,,1548,flooded!!!,irrelevant
+Kaduna,Jan,821,Heavy rain,
+Zamfara,Apr,1367,flooded!!!,
+Kaduna,Apr,1460,Dry season,
+Osun,Sep,23,flooded!!!,###
+S0koto,Oct,1829,123,irrelevant
+Taraba,Dec,1613,Heavy rain,irrelevant
+Rivers,Feb,1974,123,###
+Zamfara,Jun,1550,,
+??Rivers,Nov,929,,irrelevant
+Yobe,Apr,1787,Dry season,irrelevant
+Anambra,Jul,824,123,
+Osun,Aug,966,,
+Kano,Dec,966,,###
+Imo,Mar,1701,Dry season,###
+Borno,,1589,Heavy rain,###
+Ed0o,Mar,449,123,irrelevant
+Ogun,Jun,82,Dry season,
+Plateau,Jul,1072,flooded!!!,irrelevant
+Abla,Nov,1567,,irrelevant
+Ekiti,Aug,646,flooded!!!,
+Taraba,Aug,1395,123,
+Osun,Sep,128,123,
+Jigawa,Feb,1574,123,irrelevant
+Adamawa,Mar,1222,123,
+Yobe,Feb,301,123,irrelevant
+Enugu,Jul,559,123,
+Oyo,Mar,709,Dry season,irrelevant
+gombe,Jul,1334,Heavy rain,
+Ogun,May,342,Heavy rain,irrelevant
+Lagos,Apr,1789,123,
+Abuja,Mar,23,Heavy rain,###
+kogi,Jul,213,Dry season,###
+Kaduba,Mar,1219,flooded!!!,irrelevant
+Enugu,???,628,Heavy rain,irrelevant
+Osun,May,101,Dry season,###
+Nasarawa,,620,Dry season,###
+Zamfara,Dec,1133,123,###
+Lagos,Aug,1320,flooded!!!,###
+Anambra,Feb,1774,123,irrelevant
+Plateau,???,625,Heavy rain,
+Kaduba,Jul,991,,
+Kwara,Mar,1815,flooded!!!,###
+Bayelsa,???,1371,flooded!!!,
+katsina,Oct,1396,flooded!!!,irrelevant
+gombe,Sep,252,Dry season,irrelevant
+Ekiti,???,708,Heavy rain,irrelevant
+Delta,Dec,1323,123,irrelevant
+Osun,Feb,1417,Heavy rain,###
+Cross River,Jun,674,123,###
+Plateau,Jul,1337,123,###
+benue,Jun,1109,,###
+KAN0,Jan,240,flooded!!!,irrelevant
+Rivers,May,989,Heavy rain,
+Jigawa,Sep,1463,Dry season,
+Taraba,Jun,1496,Dry season,###
+Taraba,Jul,1483,Dry season,irrelevant
+Nasarawa,,1491,flooded!!!,irrelevant
+Lagos,Jan,1999,123,irrelevant
+Nasarawa,Oct,711,,
+Kwara,Jun,792,123,irrelevant
+Ondo,Feb,1240,,irrelevant
+Abla,Jul,93,123,
+Adamawa,Oct,1709,Dry season,
+benue,Nov,1342,123,
+lagos ,Aug,1148,flooded!!!,###
+Kaduba,,935,flooded!!!,irrelevant
+Rivers,Apr,1154,Dry season,irrelevant
+Niger,Mar,241,123,irrelevant
+Bauchi,Jun,174,flooded!!!,###
+Kwara,Aug,225,123,###
+Plateau,Aug,1606,123,###
+Enugu,Jan,189,Dry season,
+kogi,Jul,286,Dry season,###
+kogi,Apr,1019,Heavy rain,
+G0mbe,Jun,915,Heavy rain,
+KAN0,,1302,flooded!!!,###
+Delta,???,1928,,
+Plateau,Apr,1403,123,irrelevant
+??Rivers,Aug,1243,,###
+Zamfara,Mar,561,123,###
+Rivers,???,992,Heavy rain,irrelevant
+Osun,Sep,1575,Dry season,irrelevant
+Delta,Mar,1414,Heavy rain,
+Ekiti,Jul,362,Dry season,irrelevant
+KAN0,Sep,637,Dry season,irrelevant
+Plateau,Jul,1836,Heavy rain,###
+S0koto,Sep,536,Dry season,
+KAN0,Sep,1585,Heavy rain,irrelevant
+Bayelsa,Jan,72,Heavy rain,###
+Kaduna,Feb,1074,,
+Rivers,Jan,1006,,
+Enugu,Oct,1350,Dry season,irrelevant
+??Rivers,Jun,1781,flooded!!!,###
+Plateau,May,1346,123,###
+Ogun,???,1573,Dry season,###
+S0koto,,1107,Dry season,###
+Bayelsa,Oct,597,,
+Abuja,,670,flooded!!!,
+Rivers,Dec,605,flooded!!!,irrelevant
+Enugu,Nov,1759,Dry season,
+Enugu,May,348,,
+Nasarawa,Jul,560,flooded!!!,irrelevant
+Rivers,Oct,1402,,###
+Ekiti,,332,Heavy rain,irrelevant
+Taraba,Mar,857,,
+S0koto,Jul,694,Heavy rain,irrelevant
+lagos ,Jan,1413,flooded!!!,###
+Anambra,Feb,46,Dry season,
+Ogun,Jun,24,123,irrelevant
+Enugu,Apr,130,Dry season,
+Kaduba,Sep,1211,Heavy rain,irrelevant
+Rivers,Aug,689,,
+Ed0o,???,646,Heavy rain,###
+Niger,Jun,1981,,###
+Enugu,May,628,,irrelevant
+Oyo,Apr,677,,irrelevant
+Enugu,,1549,flooded!!!,irrelevant
+Oyo,Apr,866,Dry season,irrelevant
+Kano,???,117,123,irrelevant
+Benue,May,120,flooded!!!,irrelevant
+Anambra,May,1309,,###
+Kaduna,Dec,793,flooded!!!,###
+benue,Jan,736,flooded!!!,###
+Enugu,Aug,1499,123,###
+Enugu,Jun,397,,
+G0mbe,Jul,972,flooded!!!,
+Bayelsa,May,1914,Heavy rain,
+lagos ,Mar,1310,flooded!!!,irrelevant
+S0koto,Jul,1185,flooded!!!,###
+Imo,Mar,952,123,
+Ebonyi,May,1372,,
+Benue,Aug,149,Dry season,###
+Benue,???,45,Dry season,
+Enugu,Aug,319,123,
+gombe,Jan,463,flooded!!!,
+katsina,May,1267,,irrelevant
+Benue,Aug,1712,Heavy rain,irrelevant
+Bayelsa,Mar,1758,flooded!!!,###
+Imo,Apr,500,Dry season,###
+Yobe,May,46,,
+Yobe,,1343,flooded!!!,irrelevant
+Kebbis,Jan,1792,Heavy rain,irrelevant
+Osun,Aug,527,123,irrelevant
+Benue,May,949,Heavy rain,irrelevant
+Kano,Feb,1745,,irrelevant
+Benue,Oct,403,flooded!!!,
+Ekiti,Sep,1334,Dry season,irrelevant
+kogi,Apr,1423,,###
+Niger,Oct,1474,,irrelevant
+kogi,Jul,1580,,
+Borno,Oct,1162,,
+Yobe,Jun,907,Heavy rain,
+KAN0,Oct,1,flooded!!!,irrelevant
+Abla,Apr,1312,,
+Ed0o,Dec,1071,flooded!!!,
+Cross River,???,1169,Heavy rain,###
+Kaduba,Aug,1825,flooded!!!,
+Cross River,???,89,Heavy rain,
+Kaduna,Mar,1099,,irrelevant
+gombe,May,1467,,###
+Kebbis,Jun,32,Heavy rain,irrelevant
+Kaduba,???,355,Dry season,###
+Osun,May,1535,,
+G0mbe,Jun,1074,Dry season,###
+Bayelsa,,610,Dry season,
+G0mbe,Jun,43,Heavy rain,
+lagos ,Oct,802,flooded!!!,
+lagos ,Dec,299,,###
+Taraba,Jan,1409,Dry season,irrelevant
+Bauchi,???,1963,Dry season,###
+Enugu,Dec,283,Dry season,irrelevant
+S0koto,Oct,1027,Heavy rain,
+gombe,Sep,766,Dry season,irrelevant
+Yobe,Dec,24,Dry season,irrelevant
+Kaduna,Jan,1320,Heavy rain,###
+Imo,Apr,336,,
+Osun,Aug,1768,Heavy rain,###
+Yobe,Jun,1852,flooded!!!,###
+Enugu,Jun,61,123,
+Osun,Apr,1081,Heavy rain,irrelevant
+Nasarawa,Aug,180,Dry season,irrelevant
+gombe,Oct,1711,flooded!!!,
+Adamawa,Nov,1705,Dry season,irrelevant
+Imo,Apr,942,Heavy rain,###
+Bauchi,???,91,Heavy rain,###
+Niger,Mar,858,,irrelevant
+Delta,Jan,428,,
+Delta,Jan,1977,,irrelevant
+gombe,Jan,781,,irrelevant
+Rivers,Mar,402,,irrelevant
+Yobe,Jul,1613,Dry season,irrelevant
+Nasarawa,Apr,502,123,###
+Ebonyi,,1544,123,###
+Rivers,Feb,1824,,###
+Ekiti,Sep,1833,,###
+kogi,Jun,1531,Heavy rain,
+Ebonyi,Feb,538,Dry season,
+Borno,Apr,800,123,irrelevant
+Abuja,???,747,Heavy rain,irrelevant
+Anambra,Apr,1905,,irrelevant
+Kano,May,1447,flooded!!!,###
+Kebbis,Dec,233,Heavy rain,
+Abuja,Oct,493,123,
+Enugu,Jul,1774,,
+Bauchi,Nov,254,Heavy rain,irrelevant
+Kano,???,1137,Dry season,irrelevant
+Osun,Feb,1649,Heavy rain,
+lagos ,Mar,1353,Dry season,###
+Rivers,Jan,1830,123,
+benue,Mar,1113,flooded!!!,irrelevant
+Taraba,May,1275,123,irrelevant
+crossriver,Jul,179,,irrelevant
+kogi,,860,123,###
+Ogun,,11,,###
+Kaduba,May,620,Heavy rain,irrelevant
+crossriver,Dec,1816,123,###
+Jigawa,Oct,1812,,irrelevant
+Imo,Jun,1031,flooded!!!,irrelevant
+Anambra,Apr,689,123,irrelevant
+Bauchi,,1782,Dry season,irrelevant
+Borno,Nov,972,Dry season,###
+Kebbis,May,1125,Dry season,
+Ebonyi,Jan,1387,flooded!!!,###
+Imo,Oct,36,,###
+Abla,Sep,1204,Heavy rain,
+Imo,Jul,1926,,###
+Taraba,May,1483,flooded!!!,###
+Bauchi,Aug,863,Dry season,###
+Jigawa,Mar,1775,flooded!!!,###
+Delta,Feb,776,123,irrelevant
+G0mbe,Mar,24,flooded!!!,###
+Kwara,Jan,894,Heavy rain,###
+Adamawa,Oct,68,flooded!!!,###
+kogi,Mar,720,Heavy rain,###
+Plateau,May,1903,,###
+Jigawa,Feb,1811,,###
+Ed0o,Oct,857,,
+Anambra,Nov,1142,Dry season,
+Cross River,Feb,1271,flooded!!!,###
+Taraba,Jul,608,,###
+KAN0,,1875,,
+Zamfara,Jan,1449,Dry season,irrelevant
+kogi,Sep,1143,flooded!!!,###
+Abla,Oct,8,Dry season,###
+Delta,Jan,1995,,
+Benue,???,144,Dry season,irrelevant
+Zamfara,???,1717,flooded!!!,irrelevant
+Ebonyi,Jul,1116,flooded!!!,irrelevant
+Cross River,Sep,1949,flooded!!!,irrelevant
+Anambra,Jul,1000,flooded!!!,###
+Ekiti,Jul,568,Heavy rain,###
+Niger,Mar,1306,Heavy rain,###
+Bauchi,May,282,Heavy rain,###
+G0mbe,Jul,1166,Dry season,irrelevant
+Yobe,Nov,449,Heavy rain,
+Cross River,???,520,,###
+S0koto,???,1153,Heavy rain,irrelevant
+crossriver,May,717,Heavy rain,
+Kebbis,???,1008,Dry season,irrelevant
+Imo,Nov,1188,flooded!!!,
+Kwara,Nov,407,flooded!!!,###
+Kebbis,Mar,403,flooded!!!,irrelevant
+Borno,Jun,129,,irrelevant
+Enugu,,1872,Dry season,###
+Benue,Feb,868,123,irrelevant
+Kaduna,Jan,1450,,irrelevant
+Abuja,Feb,1893,,
+katsina,Jun,1294,123,irrelevant
+katsina,Sep,1753,123,
+gombe,Jul,1439,Heavy rain,irrelevant
+Enugu,Feb,1209,flooded!!!,
+Plateau,Jan,1860,Heavy rain,irrelevant
+Kaduna,Oct,1425,Dry season,###
+Borno,Apr,959,123,###
+Kaduna,Apr,1728,Heavy rain,irrelevant
+Adamawa,Feb,1611,flooded!!!,###
+Oyo,Sep,783,flooded!!!,irrelevant
+Bauchi,Aug,969,123,
+katsina,Aug,38,Heavy rain,
+gombe,Feb,1147,Dry season,irrelevant
+Yobe,Nov,203,Heavy rain,irrelevant
+Anambra,,1512,123,###
+Borno,Jul,1979,,irrelevant
+Ed0o,Jan,1101,123,###
+G0mbe,Aug,1132,Heavy rain,
+Jigawa,Apr,1421,123,
+Abuja,Sep,1499,Heavy rain,###
+Zamfara,Dec,1099,Heavy rain,
+Kebbis,Oct,1814,Heavy rain,
+??Rivers,Jul,1874,Heavy rain,
+S0koto,Jul,1072,flooded!!!,
+kogi,Feb,614,123,###
+Kwara,Jul,1889,,
+Ed0o,Dec,682,123,###
+KAN0,Sep,1599,Heavy rain,irrelevant
+Enugu,Jan,1554,,irrelevant
+Bauchi,Mar,1944,flooded!!!,###
+Taraba,May,110,123,###
+Enugu,Mar,1355,123,###
+kogi,Sep,0,Heavy rain,###
+Nasarawa,???,1885,Heavy rain,irrelevant
+Enugu,Apr,1467,flooded!!!,
+Kaduna,Dec,407,,###
+Delta,Jun,1610,Heavy rain,###
+Kaduba,Dec,881,123,irrelevant
+Lagos,Apr,1817,Dry season,irrelevant
+Kano,Jan,1709,123,
+Kwara,,1978,,
+S0koto,Jan,711,123,irrelevant
+Kaduna,Jan,686,123,
+Ekiti,Oct,1765,flooded!!!,###
+Yobe,,765,Heavy rain,
+Anambra,May,1993,flooded!!!,
+crossriver,,971,Dry season,irrelevant
+Anambra,Aug,1688,Dry season,
+Ekiti,Dec,828,flooded!!!,###
+Borno,Jan,180,flooded!!!,
+Kaduna,Oct,631,flooded!!!,###
+Yobe,Mar,1038,,
+katsina,Nov,728,Heavy rain,
+Anambra,Apr,1381,Heavy rain,
+gombe,Feb,569,Dry season,
+??Rivers,May,1794,flooded!!!,
+Enugu,Dec,713,,irrelevant
+Kaduna,Mar,1179,Dry season,
+Zamfara,Jun,1284,Dry season,###
+Abuja,Mar,1921,Dry season,###
+Bauchi,???,1791,flooded!!!,###
+Bauchi,Dec,1249,Dry season,
+Abla,Jul,1054,,irrelevant
+Borno,Aug,962,Heavy rain,irrelevant
+Ogun,Jun,431,,irrelevant
+G0mbe,Aug,1353,Dry season,
+Ondo,Apr,1096,123,###
+Yobe,Sep,910,,###
+Lagos,Nov,662,Dry season,###
+Ekiti,Sep,381,123,irrelevant
+Enugu,Apr,1722,,irrelevant
+Ogun,Sep,1559,flooded!!!,###
+??Rivers,Aug,542,Heavy rain,###
+Bayelsa,Apr,1561,,irrelevant
+Jigawa,Aug,1522,123,
+Anambra,Aug,405,Heavy rain,###
+Kebbis,Nov,1233,Heavy rain,
+G0mbe,Jul,430,,
+Borno,Aug,1203,123,###
+Bayelsa,,399,,irrelevant
+Kaduna,Nov,669,123,###
+G0mbe,Dec,155,Heavy rain,irrelevant
+Enugu,,1574,Heavy rain,irrelevant
+benue,Jul,1268,flooded!!!,
+crossriver,Dec,1783,flooded!!!,irrelevant
+gombe,Oct,1301,,
+Adamawa,Feb,744,Dry season,
+Enugu,Sep,1921,Dry season,###
+Jigawa,Sep,829,,
+benue,Mar,1980,,###
+crossriver,May,1972,Heavy rain,
+kogi,Jan,1310,Dry season,###
+Taraba,Jun,1832,Dry season,irrelevant
+Nasarawa,Oct,1561,flooded!!!,irrelevant
+Niger,,1759,Dry season,
+Anambra,Jan,543,123,
+Kebbis,May,1280,Dry season,
+Ebonyi,Jul,1739,123,###
+Anambra,Jan,306,flooded!!!,irrelevant
+Kaduna,,38,123,
+Plateau,Aug,652,123,irrelevant
+Abla,Oct,1800,Dry season,irrelevant
+Kaduba,Sep,280,Heavy rain,###
+Niger,Apr,1255,Dry season,###
+Adamawa,Feb,1244,,irrelevant
+Taraba,Oct,128,Dry season,irrelevant
+Jigawa,???,490,123,
+Ekiti,May,1928,123,###
+Kwara,Apr,621,,###
+Bauchi,Dec,1736,,###
+Enugu,Jan,701,Dry season,
+??Rivers,Jun,1980,flooded!!!,
+Kebbis,,1434,123,
+Abla,Oct,10,flooded!!!,
+katsina,???,913,,irrelevant
+Zamfara,Jan,1167,123,###
+Cross River,Feb,1640,Dry season,
+Plateau,???,160,,
+Enugu,Dec,991,,###
+gombe,Mar,1226,flooded!!!,irrelevant
+Ondo,Jun,1904,Dry season,###
+Kano,Dec,1000,Heavy rain,irrelevant
+G0mbe,Jul,429,Dry season,###
+Imo,Nov,156,Dry season,irrelevant
+Ogun,Jun,387,Dry season,###
+Kano,,404,Heavy rain,###
+benue,Jul,625,123,
+Bayelsa,Apr,1601,,###
+Abla,Dec,732,Heavy rain,
+Ondo,May,1853,,
+benue,Dec,468,,###
+Zamfara,Nov,1225,,
+Kaduna,Oct,695,,irrelevant
+Abla,Jan,1447,Dry season,###
+Cross River,Oct,1545,Dry season,
+katsina,???,450,Heavy rain,###
+Kaduba,Mar,1124,flooded!!!,###
+G0mbe,Aug,766,Dry season,irrelevant
+Zamfara,Oct,671,Dry season,
+Kaduna,Nov,830,flooded!!!,
+KAN0,,1445,123,
+Delta,,892,Heavy rain,
+Kaduna,Dec,445,,
+Ekiti,???,622,flooded!!!,
+Ondo,???,412,123,###
+katsina,Sep,1233,123,
+Jigawa,Nov,1282,123,
+kogi,Mar,1785,flooded!!!,###
+Niger,Jan,978,Heavy rain,
+Ekiti,Jun,885,Heavy rain,
+Borno,May,1676,Dry season,###
+crossriver,Jan,299,123,irrelevant
+Kaduna,Aug,1336,123,irrelevant
+Lagos,Mar,170,Heavy rain,
+Imo,Feb,1018,Dry season,
+Enugu,Oct,,Heavy rain,###
+Kaduba,Mar,1034,123,###
+Ondo,,279,,irrelevant
+Nasarawa,Apr,842,,irrelevant
+crossriver,Oct,837,Heavy rain,###
+Borno,Mar,1131,,
+Abla,Aug,1582,,
+gombe,Feb,,Dry season,
+Ebonyi,Apr,161,Heavy rain,
+Ebonyi,Apr,1528,,###
+Imo,Oct,85,Dry season,###
+Kano,Sep,1627,,irrelevant
+Ed0o,,1091,,
+Osun,Feb,1867,123,###
+Enugu,Jan,335,Heavy rain,irrelevant
+Abla,Jan,617,Dry season,
+Taraba,Dec,1682,flooded!!!,irrelevant
+benue,Apr,787,123,
+Bauchi,Dec,1810,Dry season,
+Niger,Feb,1621,Heavy rain,###
+Kebbis,Nov,1823,Dry season,###
+Bauchi,Jul,1783,Dry season,
+Abuja,Sep,97,123,
+katsina,Feb,1962,Dry season,irrelevant
+Plateau,Aug,1061,flooded!!!,###
+Ogun,Oct,1816,Heavy rain,###
+crossriver,Sep,750,123,###
+Kwara,Jun,1179,,###
+Ondo,Jun,1193,flooded!!!,###
+Enugu,Jul,841,123,
+Anambra,Dec,984,Heavy rain,###
+Kaduna,Feb,1510,Dry season,
+Ebonyi,Jun,1033,,irrelevant
+Delta,May,1462,Dry season,
+Enugu,May,644,flooded!!!,irrelevant
+Nasarawa,,623,flooded!!!,
+Jigawa,Nov,485,flooded!!!,###
+S0koto,May,1697,Heavy rain,###
+Enugu,Nov,1554,,###
+Enugu,Sep,1884,,
+KAN0,Mar,757,flooded!!!,###
+KAN0,Jul,356,Heavy rain,###
+Bayelsa,Jun,933,123,
+Kaduba,Dec,259,123,###
+S0koto,Nov,375,,###
+Abla,Nov,806,Heavy rain,###
+Kebbis,Jan,15,123,
+Oyo,,804,123,irrelevant
+Osun,Nov,352,Dry season,irrelevant
+Kebbis,Oct,1588,Heavy rain,###
+Abla,Dec,515,flooded!!!,
+Plateau,Mar,800,Dry season,###
+Niger,Jun,268,Dry season,irrelevant
+Niger,???,1252,Heavy rain,
+Anambra,Jul,255,Heavy rain,
+Kaduna,Oct,1971,123,###
+G0mbe,,101,flooded!!!,
+S0koto,Jul,78,Heavy rain,
+gombe,Apr,1529,Heavy rain,###
+lagos ,Sep,1116,123,irrelevant
+Adamawa,Aug,951,flooded!!!,irrelevant
+Lagos,May,1320,Heavy rain,
+Plateau,Mar,1097,Dry season,
+Anambra,Feb,1452,Dry season,
+Bauchi,Oct,590,Dry season,###
+Imo,May,1271,Heavy rain,irrelevant
+crossriver,Dec,315,123,###
+Kwara,???,932,Dry season,
+Imo,Jul,284,123,###
+Plateau,Aug,628,flooded!!!,irrelevant
+Oyo,???,21,123,irrelevant
+Cross River,Jun,1681,123,irrelevant
+Kaduna,Oct,1194,Heavy rain,
+Enugu,???,396,flooded!!!,irrelevant
+Anambra,Aug,1879,,
+Benue,Aug,678,,irrelevant
+KAN0,Jan,1806,123,irrelevant
+Ed0o,Jun,1901,flooded!!!,irrelevant
+Rivers,,127,flooded!!!,
+Bayelsa,???,1788,123,###
+Nasarawa,Jul,896,Dry season,
+Anambra,Mar,1688,Heavy rain,
+Bauchi,Feb,1450,Dry season,
+Borno,Feb,344,Heavy rain,
+Adamawa,Nov,1632,123,irrelevant
+Kebbis,,1533,123,
+gombe,Jun,1472,flooded!!!,
+Kwara,Nov,874,flooded!!!,###
+Kebbis,Sep,1568,,
+Plateau,Aug,741,Dry season,
+Kebbis,,136,flooded!!!,irrelevant
+Zamfara,Jul,324,123,
+KAN0,Nov,409,Dry season,irrelevant
+Kaduba,Jun,983,123,###
+Kaduba,Dec,545,Heavy rain,
+S0koto,Apr,1636,Heavy rain,###
+S0koto,Nov,831,Heavy rain,irrelevant
+Rivers,Aug,769,Dry season,###
+??Rivers,Jun,1517,Heavy rain,
+Abuja,Oct,711,123,irrelevant
+katsina,Nov,1554,Heavy rain,irrelevant
+Abuja,Jul,1326,123,
+Jigawa,Dec,628,Dry season,irrelevant
+Anambra,Apr,1683,flooded!!!,###
+Enugu,Dec,492,123,irrelevant
+Zamfara,Jul,1179,flooded!!!,###
+Kaduna,Jul,522,Heavy rain,irrelevant
+Kaduna,Mar,544,Heavy rain,###
+Ogun,Sep,234,flooded!!!,
+S0koto,???,372,Dry season,irrelevant
+Nasarawa,Dec,520,,irrelevant
+Enugu,Mar,1719,Heavy rain,
+Delta,Mar,418,,###
+Ondo,Sep,1515,flooded!!!,irrelevant
+Kebbis,Jun,1228,Dry season,
+Kebbis,Jan,182,Dry season,###
+Ebonyi,Feb,1176,Dry season,irrelevant
+benue,???,863,Heavy rain,irrelevant
+Plateau,Aug,483,Dry season,###
+Ogun,Feb,639,,irrelevant
+Benue,Dec,1889,Dry season,###
+Cross River,???,476,,irrelevant
+Anambra,Oct,1404,Dry season,irrelevant
+Benue,Mar,417,flooded!!!,###
+Abuja,May,1078,123,
+crossriver,Nov,386,Dry season,###
+Yobe,Jul,1256,123,
+Ebonyi,???,190,Heavy rain,###
+gombe,May,1032,flooded!!!,
+Kebbis,Jul,127,123,###
+Kwara,Jan,1828,flooded!!!,###
+Cross River,Oct,1974,123,
+Anambra,Jan,1630,,irrelevant
+Delta,Jan,145,flooded!!!,
+benue,Aug,1784,flooded!!!,irrelevant
+Anambra,Oct,1266,123,irrelevant
+Anambra,???,383,Heavy rain,###
+Abuja,Sep,28,Dry season,irrelevant
+Yobe,Jan,1822,,###
+Abla,Nov,389,Dry season,irrelevant
+Adamawa,Feb,243,,
+Niger,Mar,1999,123,irrelevant
+Kaduna,Mar,1831,flooded!!!,###
+Rivers,Oct,1833,Dry season,###
+Ekiti,Jun,920,,
+Ogun,Aug,1483,Heavy rain,###
+Lagos,Oct,719,Dry season,###
+Taraba,Jul,1301,Dry season,
+Niger,Dec,871,,irrelevant
+Anambra,Jun,1393,Heavy rain,irrelevant
+Yobe,Oct,1373,,###
+Abuja,Sep,735,Heavy rain,
+Ondo,Nov,867,flooded!!!,
+Osun,Nov,956,flooded!!!,irrelevant
+Kebbis,,1912,Dry season,###
+Yobe,Jan,1054,flooded!!!,irrelevant
+Oyo,,789,flooded!!!,###
+Ogun,Jan,67,,
+Ondo,???,1963,Dry season,irrelevant
+Kaduna,Jun,555,123,###
+Imo,Apr,258,,###
+Kano,???,1573,Dry season,irrelevant
+Abla,???,1827,Dry season,irrelevant
+Kwara,Mar,270,flooded!!!,irrelevant
+kogi,Jan,337,flooded!!!,irrelevant
+Cross River,Aug,790,Dry season,irrelevant
+Jigawa,Apr,1510,123,###
+Kano,Sep,1922,,irrelevant
+Ebonyi,Oct,88,,irrelevant
+Adamawa,???,1563,,###
+Rivers,Aug,1549,flooded!!!,
+Lagos,Feb,1323,flooded!!!,
+gombe,???,1756,123,
+Taraba,Nov,559,Heavy rain,###
+gombe,Aug,946,Dry season,irrelevant
+Ogun,Mar,666,Dry season,
+Bauchi,???,1790,123,###
+Imo,Dec,793,,
+Zamfara,Jan,440,Heavy rain,###
+Abuja,???,714,Dry season,irrelevant
+Anambra,???,21,Dry season,irrelevant
+Ekiti,Feb,753,123,###
+Kaduna,Jun,1777,,###
+katsina,Dec,1457,Heavy rain,
+Abla,Jun,1021,123,irrelevant
+Taraba,Dec,1695,flooded!!!,###
+Ekiti,Nov,1224,,
+Adamawa,Dec,1475,Dry season,###
+??Rivers,Jun,55,,
+kogi,Jan,1769,Dry season,irrelevant
+Kaduna,Feb,92,123,###
+Kwara,Feb,1849,flooded!!!,
+Rivers,Sep,1101,Dry season,###
+Bauchi,Apr,1260,flooded!!!,
+Abuja,???,1913,,
+Bayelsa,Jun,1968,Dry season,
+Zamfara,Dec,1053,Dry season,
+Kebbis,Oct,234,Heavy rain,
+Plateau,Jan,1043,flooded!!!,###
+Ondo,,1740,flooded!!!,###
+Ogun,???,1072,flooded!!!,
+Anambra,Sep,1313,Dry season,irrelevant
+Cross River,Sep,1312,Dry season,
+Ondo,Apr,1514,Dry season,###
+Anambra,Jul,1539,Dry season,
+Benue,Apr,155,,irrelevant
+Anambra,Feb,196,,###
+Adamawa,Mar,226,flooded!!!,###
+S0koto,???,802,Dry season,###
+Enugu,Oct,1783,123,###
+benue,???,223,,
+Yobe,Feb,99,Dry season,###
+katsina,Jul,118,Heavy rain,###
+katsina,Jan,555,123,irrelevant
+Oyo,Aug,1560,Heavy rain,
+Borno,Dec,1466,Heavy rain,###
+Anambra,Sep,,123,irrelevant
+Bayelsa,Mar,1419,Heavy rain,
+Niger,Feb,519,flooded!!!,irrelevant
+Adamawa,Jan,210,,###
+Anambra,Jun,1840,123,irrelevant
+Enugu,Oct,1902,123,###
+gombe,Oct,1555,123,
+crossriver,Dec,321,Dry season,irrelevant
+??Rivers,Oct,511,,irrelevant
+Bauchi,Apr,392,Dry season,
+Kano,???,970,123,
+Kano,Apr,1778,Dry season,
+Abla,Dec,104,flooded!!!,
+Taraba,Jun,201,123,###
+Lagos,Nov,1048,123,
+Jigawa,,926,Heavy rain,
+Rivers,Aug,1755,Heavy rain,irrelevant
+Ondo,Jan,1188,Heavy rain,
+Ondo,,1485,,irrelevant
+Kaduna,Sep,394,Heavy rain,
+Yobe,???,83,flooded!!!,irrelevant
+Bayelsa,Oct,91,Dry season,
+G0mbe,Jul,1019,123,irrelevant
+Abla,Aug,663,flooded!!!,irrelevant
+benue,May,1140,,
+Borno,Jul,1884,,
+Bauchi,Dec,806,Dry season,
+kogi,Jan,1906,flooded!!!,irrelevant
+lagos ,???,172,,irrelevant
+Kaduna,May,1592,Dry season,###
+kogi,,1728,Dry season,irrelevant
+Zamfara,Jul,119,123,irrelevant
+katsina,Dec,1692,,###
+Borno,,622,,
+Kano,Jan,1678,Heavy rain,###
+Niger,Sep,67,123,irrelevant
+Cross River,Feb,563,123,###
+Enugu,???,1550,,
+Imo,Jul,955,flooded!!!,
+Anambra,Feb,1300,flooded!!!,###
+Benue,Sep,529,flooded!!!,###
+katsina,???,7,Heavy rain,irrelevant
+G0mbe,Feb,1053,123,irrelevant
+Oyo,Aug,660,Dry season,###
+Osun,???,1202,,###
+lagos ,,1067,,
+KAN0,Oct,1329,Heavy rain,
+crossriver,Oct,97,Dry season,
+kogi,Jun,920,123,irrelevant
+Ekiti,Jun,1611,Dry season,irrelevant
+Kano,Jan,1691,,
+Zamfara,,1627,,irrelevant
+Anambra,Jan,1791,flooded!!!,irrelevant
+Niger,???,1174,123,###
+Kano,May,1783,,irrelevant
+Zamfara,Nov,559,Dry season,irrelevant
+Enugu,Aug,665,Dry season,###
+Lagos,Nov,286,Heavy rain,irrelevant
+Rivers,Nov,2,Dry season,###
+Yobe,Nov,25,flooded!!!,irrelevant
+G0mbe,Aug,774,,irrelevant
+Jigawa,May,327,Dry season,
+Abla,Jul,629,Dry season,irrelevant
+Ed0o,Dec,994,Dry season,###
+Yobe,Feb,1796,Heavy rain,irrelevant
+Imo,May,1071,123,
+Niger,Aug,1072,flooded!!!,
+kogi,May,663,flooded!!!,###
+Plateau,Aug,1943,Heavy rain,
+gombe,Feb,278,flooded!!!,
+G0mbe,Dec,1341,flooded!!!,irrelevant
+Rivers,Dec,922,Heavy rain,###
+Anambra,,1996,,
+G0mbe,Dec,1840,123,###
+Abuja,Feb,1210,flooded!!!,irrelevant
+Bauchi,Dec,1905,,irrelevant
+Kaduna,Nov,462,123,irrelevant
+Kaduba,Sep,332,Dry season,irrelevant
+Kano,Oct,83,Dry season,###
+Niger,Nov,498,,###
+Osun,May,1292,Heavy rain,
+Kaduba,Feb,1113,123,###
+Kwara,Sep,1619,flooded!!!,irrelevant
+Yobe,Dec,1309,Dry season,###
+Adamawa,Apr,780,flooded!!!,
+katsina,Dec,886,,irrelevant
+Cross River,Oct,209,,
+Cross River,Dec,484,Heavy rain,
+??Rivers,Apr,1678,flooded!!!,
+Abuja,???,1736,123,
+Cross River,Aug,1812,123,###
+lagos ,Oct,1642,Dry season,
+Ebonyi,Jun,993,flooded!!!,###
+Kano,Apr,909,Dry season,irrelevant
+Anambra,Jan,1896,flooded!!!,
+Oyo,Feb,1369,Dry season,
+Kano,Mar,1414,Dry season,irrelevant
+Ondo,Jul,390,,###
+Oyo,Feb,1952,Dry season,irrelevant
+Lagos,Jul,1810,123,irrelevant
+Benue,Oct,725,Heavy rain,
+Jigawa,Apr,504,Heavy rain,###
+Kaduna,Oct,194,,
+Imo,Dec,317,Heavy rain,irrelevant
+Rivers,Dec,651,Heavy rain,irrelevant
+Lagos,Dec,1137,Heavy rain,irrelevant
+Ebonyi,Apr,1331,,###
+Kano,May,780,Heavy rain,###
+Lagos,Aug,880,Heavy rain,irrelevant
+Anambra,Dec,1538,Heavy rain,irrelevant
+Oyo,Mar,1275,Dry season,irrelevant
+Adamawa,Apr,1707,Dry season,###
+Osun,Jan,1151,123,
+Plateau,Nov,533,123,irrelevant
+Ebonyi,Jun,231,,
+G0mbe,Sep,1794,123,irrelevant
+Ekiti,Sep,160,flooded!!!,irrelevant
+Anambra,Mar,1980,123,###
+Kebbis,Jun,481,,###
+Kaduna,Sep,1783,123,
+Bauchi,Dec,195,Heavy rain,irrelevant
+??Rivers,May,87,Dry season,irrelevant
+Enugu,Aug,519,,irrelevant
+Kaduna,Oct,1896,,###
+Kano,,444,,
+Benue,,260,Dry season,###
+S0koto,Dec,24,flooded!!!,
+Kebbis,Dec,431,flooded!!!,
+Kebbis,Jan,1740,Heavy rain,###
+Borno,Dec,1329,flooded!!!,###
+Niger,Mar,801,,irrelevant
+Oyo,Mar,1657,123,
+Oyo,Feb,441,Heavy rain,irrelevant
+Kaduna,Sep,800,flooded!!!,
+katsina,Apr,401,Heavy rain,###
+Jigawa,May,1612,flooded!!!,irrelevant
+kogi,Apr,237,Dry season,
+Osun,???,682,Heavy rain,
+Delta,Oct,297,123,###
+Benue,,917,flooded!!!,###
+Taraba,???,1674,,irrelevant
+Anambra,Nov,432,123,###
+Borno,Jan,1100,Heavy rain,irrelevant
+Cross River,Sep,60,Dry season,###
+Enugu,Nov,1625,,###
+Delta,Sep,486,,
+Taraba,May,1831,,
+lagos ,May,210,123,###
+KAN0,Oct,1655,flooded!!!,
+Ekiti,Mar,642,123,
+gombe,Dec,856,flooded!!!,
+Kano,???,1048,123,###
+Kaduna,Nov,1295,,irrelevant
+Borno,Apr,1032,123,
+Enugu,Jan,675,Heavy rain,###
+Oyo,Jul,527,123,
+Kebbis,???,506,Heavy rain,###
+benue,,534,123,###
+Ogun,,864,Heavy rain,irrelevant
+Kaduna,Oct,1598,flooded!!!,irrelevant
+Abla,Aug,1612,,###
+Yobe,Mar,1794,Dry season,irrelevant
+Ed0o,Apr,1584,,irrelevant
+gombe,Nov,299,Heavy rain,irrelevant
+Adamawa,Jul,1047,123,
+Nasarawa,Mar,1989,,###
+benue,Oct,1225,,
+Niger,May,1894,123,irrelevant
+Abla,Jun,437,,
+Zamfara,???,488,Heavy rain,irrelevant
+Kano,Aug,1243,,irrelevant
+Osun,Oct,1955,Heavy rain,###
+katsina,Oct,492,123,###
+Abuja,Apr,567,Dry season,###
+Enugu,,543,Dry season,irrelevant
+Kaduna,Dec,954,Dry season,irrelevant
+gombe,Feb,1621,flooded!!!,###
+Zamfara,May,1108,123,
+Delta,Apr,338,Dry season,
+Rivers,Jul,932,123,irrelevant
+S0koto,Dec,1347,,irrelevant
+Ed0o,Jun,222,123,
+Lagos,Mar,1835,,###
+Benue,???,489,,###
+Delta,Jan,534,Heavy rain,
+Taraba,Sep,1709,,###
+Ed0o,Nov,684,Heavy rain,###
+Bayelsa,Dec,611,Dry season,###
+Delta,Sep,1071,flooded!!!,###
+KAN0,,1019,123,irrelevant
+KAN0,Aug,620,,irrelevant
+Rivers,Dec,1271,123,irrelevant
+Ondo,,598,Heavy rain,irrelevant
+Abuja,Sep,1819,flooded!!!,
+Osun,Feb,1628,123,###
+Osun,Dec,1622,Dry season,###
+Ed0o,,47,123,###
+Enugu,Oct,501,Heavy rain,
+Osun,Jan,241,Heavy rain,
+Ebonyi,,1426,Dry season,irrelevant
+Delta,May,734,Heavy rain,irrelevant
+Ed0o,Apr,794,Heavy rain,
+Osun,Nov,1767,Heavy rain,
+benue,Nov,1520,flooded!!!,###
+kogi,Jan,1194,123,
+Zamfara,,95,Heavy rain,###
+Ondo,Sep,1449,,
+Osun,Jun,948,flooded!!!,irrelevant
+Abla,Jan,113,flooded!!!,irrelevant
+Nasarawa,Aug,1157,123,irrelevant
+Jigawa,Jun,922,Heavy rain,###
+G0mbe,Jul,1870,123,###
+gombe,Aug,485,123,
+Kano,???,1843,,
+Enugu,May,1806,123,###
+Taraba,Dec,104,123,irrelevant
+Anambra,Sep,1580,123,irrelevant
+Zamfara,Apr,1664,,###
+Niger,Jul,825,Dry season,###
+Osun,Jul,1414,Dry season,
+Benue,Jul,1728,Dry season,
+Niger,Oct,1904,Dry season,irrelevant
+crossriver,Jan,1783,123,
+Kano,Jun,351,flooded!!!,irrelevant
+katsina,Feb,647,123,###
+Kaduba,Apr,62,123,
+Osun,Feb,426,123,irrelevant
+Enugu,???,334,flooded!!!,irrelevant
+Abuja,Sep,1207,Dry season,###
+Adamawa,Jun,188,Heavy rain,irrelevant
+benue,,3,,###
+Anambra,Nov,471,,
+Kano,Jan,1802,Dry season,###
+G0mbe,Aug,1774,Dry season,###
+gombe,Nov,153,Dry season,###
+Benue,Sep,805,Dry season,###
+S0koto,,405,Heavy rain,
+Ogun,???,868,,irrelevant
+Kebbis,Feb,940,Dry season,
+Anambra,Oct,1730,Heavy rain,###
+Kaduba,Mar,773,flooded!!!,###
+Kaduna,Jul,1219,,
+Plateau,May,1129,Heavy rain,###
+Ed0o,Jun,971,123,###
+??Rivers,Apr,1527,,###
+Adamawa,,589,Heavy rain,###
+Kano,Jan,403,,irrelevant
+Kaduna,May,1703,,
+Bauchi,???,1700,,
+Kebbis,Oct,397,Dry season,
+Bayelsa,Nov,926,Dry season,###
+Kano,Jan,736,123,
+Abuja,Oct,302,Dry season,
+Adamawa,Jun,965,123,###
+Jigawa,???,1234,Dry season,irrelevant
+Rivers,Sep,1835,123,###
+gombe,Feb,1089,,
+lagos ,Jun,43,,###
+Kaduba,???,764,flooded!!!,
+Kaduna,,300,123,irrelevant
+Kwara,,973,flooded!!!,irrelevant
+Kwara,Aug,743,Dry season,###
+Rivers,Jun,1873,Heavy rain,###
+Ondo,Feb,1051,Heavy rain,irrelevant
+lagos ,Mar,724,,irrelevant
+Cross River,???,1618,123,###
+Enugu,Sep,292,flooded!!!,
+Borno,,139,flooded!!!,irrelevant
+Cross River,Mar,343,123,irrelevant
+Bayelsa,Sep,33,,###
+Jigawa,Jun,724,flooded!!!,###
+Ebonyi,???,455,flooded!!!,
+Cross River,Sep,1449,flooded!!!,###
+Enugu,Nov,122,123,###
+Ogun,Nov,998,flooded!!!,
+crossriver,???,296,Heavy rain,
+Imo,???,540,,###
+Kaduba,,1124,flooded!!!,
+Bayelsa,Mar,792,123,###
+Plateau,Nov,828,Heavy rain,###
+Kebbis,May,1439,123,###
+Delta,Jan,643,123,###
+Ed0o,Jun,363,123,irrelevant
+benue,Sep,622,Heavy rain,
+Bauchi,Sep,583,flooded!!!,irrelevant
+Abla,May,585,Heavy rain,irrelevant
+Imo,Mar,1387,Heavy rain,irrelevant
+Nasarawa,Jun,93,Heavy rain,
+Niger,Dec,82,flooded!!!,
+Rivers,???,431,flooded!!!,###
+Kaduna,Apr,1052,flooded!!!,irrelevant
+Osun,Jun,1203,flooded!!!,
+Bauchi,Jan,1763,flooded!!!,irrelevant
+Kwara,Aug,1589,Dry season,###
+Taraba,Feb,580,Heavy rain,###
+G0mbe,Jul,1918,Dry season,
+Delta,Feb,710,,irrelevant
+Kebbis,Jul,799,flooded!!!,###
+Taraba,Feb,196,123,irrelevant
+Ekiti,Mar,727,Dry season,
+Enugu,Jun,472,Heavy rain,
+Taraba,Dec,1501,Dry season,irrelevant
+Abla,Nov,564,,###
+crossriver,,568,123,
+katsina,,1976,123,###
+Bauchi,Jul,97,,irrelevant
+Kaduba,,255,,irrelevant
+crossriver,Dec,665,,###
+Osun,Mar,1287,Dry season,###
+Zamfara,Mar,1752,flooded!!!,irrelevant
+Cross River,Oct,1464,,irrelevant
+Enugu,Dec,1118,flooded!!!,###
+Kano,Apr,853,123,###
+Ebonyi,May,1259,123,
+Benue,Jul,431,,
+Adamawa,Apr,605,123,
+Benue,Oct,695,Heavy rain,
+Rivers,Sep,1341,flooded!!!,
+Lagos,Oct,909,123,irrelevant
+Abla,???,1991,Dry season,###
+Jigawa,Aug,541,flooded!!!,
+gombe,Nov,335,,
+Jigawa,,1795,flooded!!!,irrelevant
+Ebonyi,Mar,1349,123,irrelevant
+Adamawa,Mar,571,flooded!!!,irrelevant
+benue,Mar,1850,Dry season,irrelevant
+Imo,Mar,1,Dry season,
+Plateau,Apr,934,123,irrelevant
+Kaduba,May,455,flooded!!!,###
+Adamawa,May,1427,flooded!!!,irrelevant
+S0koto,Feb,1649,,
+Imo,Jun,1591,Heavy rain,###
+??Rivers,Nov,146,flooded!!!,
+Oyo,Aug,1789,Heavy rain,irrelevant
+Cross River,Aug,1246,,###
+Kwara,Apr,1018,,###
+Bauchi,Dec,1053,Dry season,###
+Ekiti,Nov,1373,,###
+gombe,Nov,1061,,###
+Anambra,???,1896,,
+Kaduna,,1355,Dry season,irrelevant
+Niger,Jul,1632,123,irrelevant
+Osun,Feb,926,Heavy rain,irrelevant
+Ogun,Oct,786,123,
+Cross River,Jun,1894,123,
+katsina,Jul,1505,Dry season,
+Taraba,Oct,581,flooded!!!,
+Delta,Sep,1958,,irrelevant
+kogi,Dec,1040,,irrelevant
+Kaduna,Oct,923,Heavy rain,###
+gombe,Dec,1541,flooded!!!,
+Taraba,Mar,1983,Heavy rain,
+Benue,Sep,756,Dry season,
+crossriver,Mar,378,Dry season,irrelevant
+Ebonyi,Aug,1616,123,irrelevant
+Abuja,Nov,1558,Heavy rain,###
+Rivers,Nov,898,,
+Kebbis,Feb,1851,,irrelevant
+Bayelsa,May,1999,Dry season,###
+Cross River,Feb,1881,123,irrelevant
+Taraba,Feb,1365,Heavy rain,###
+S0koto,Oct,262,Dry season,###
+Plateau,Dec,1527,Heavy rain,
+Kaduna,Jul,770,Heavy rain,irrelevant
+Oyo,Feb,1156,,irrelevant
+Delta,Oct,1972,123,###
+Abuja,Jun,1046,flooded!!!,###
+Nasarawa,Aug,1953,Heavy rain,irrelevant
+??Rivers,Oct,635,Dry season,irrelevant
+Ed0o,,665,Dry season,###
+Jigawa,Nov,484,123,irrelevant
+G0mbe,???,77,flooded!!!,###
+Delta,Jul,1478,123,###
+Benue,Oct,853,,irrelevant
+Borno,Feb,521,,irrelevant
+Benue,,1348,Dry season,
+Taraba,???,701,flooded!!!,
+Kebbis,Jul,1222,flooded!!!,
+Rivers,Sep,578,Dry season,irrelevant
+Ed0o,Aug,480,flooded!!!,irrelevant
+Abuja,Nov,812,flooded!!!,###
+Bauchi,Dec,904,,###
+Kwara,Nov,1752,123,irrelevant
+katsina,Aug,724,Heavy rain,irrelevant
+Yobe,Jan,1531,flooded!!!,###
+Rivers,Aug,870,Dry season,###
+Ekiti,Nov,859,Dry season,irrelevant
+Benue,Jan,1971,Dry season,
+kogi,,1956,,irrelevant
+Plateau,May,36,Heavy rain,
+Lagos,,429,flooded!!!,irrelevant
+Kaduna,Jun,645,Heavy rain,
+lagos ,???,1680,Heavy rain,irrelevant
+Kano,Jun,1842,flooded!!!,
+KAN0,,1037,Heavy rain,irrelevant
+lagos ,Aug,126,123,###
+Kebbis,Oct,1954,123,###
+KAN0,Oct,1501,,irrelevant
+Kano,,1814,123,irrelevant
+Bayelsa,Jan,1005,Dry season,
+Kebbis,???,1963,,irrelevant
+benue,Mar,553,flooded!!!,
+Lagos,May,1055,123,###
+katsina,Dec,196,,###
+??Rivers,Apr,1050,flooded!!!,irrelevant
+Bayelsa,Jan,493,,irrelevant
+Kano,Jun,1594,Dry season,irrelevant
+Kano,Sep,1085,,irrelevant
+Yobe,May,1986,flooded!!!,irrelevant
+Imo,Mar,1344,flooded!!!,###
+S0koto,Oct,1221,,###
+Kaduba,May,103,Heavy rain,###
+Enugu,Jun,1037,Dry season,
+Imo,Aug,1940,Dry season,irrelevant
+Rivers,Apr,1230,Heavy rain,irrelevant
+Kwara,???,1421,Heavy rain,irrelevant
+Bayelsa,Oct,605,123,
+Yobe,Aug,68,Dry season,irrelevant
+Imo,Mar,1442,,###
+Anambra,Mar,1320,123,irrelevant
+Kwara,Jan,1574,,irrelevant
+Plateau,,1081,,
+benue,Dec,1216,Heavy rain,###
+Ed0o,Jun,1201,Heavy rain,irrelevant
+Kaduna,Mar,1969,flooded!!!,irrelevant
+Bayelsa,Oct,1428,Dry season,###
+Kwara,Apr,1637,123,irrelevant
+Ondo,Oct,3,,###
+Enugu,Mar,1918,Heavy rain,irrelevant
+Cross River,Sep,593,flooded!!!,
+G0mbe,,1576,Dry season,###
+Cross River,Dec,1198,flooded!!!,
+Kebbis,???,239,flooded!!!,###
+gombe,Sep,1801,Dry season,
+Kaduna,Aug,491,Heavy rain,irrelevant
+Enugu,Apr,1371,Heavy rain,
+benue,???,992,Dry season,###
+Delta,Jan,1119,Dry season,###
+Bauchi,Mar,1506,123,
+Enugu,Jan,296,Dry season,###
+Bauchi,Aug,265,Heavy rain,
+Ogun,Sep,1854,flooded!!!,irrelevant
+Niger,Jul,1581,flooded!!!,###
+Yobe,Jun,1777,,irrelevant
+Kwara,Oct,341,,irrelevant
+Kaduna,,1723,,
+Plateau,Dec,1863,Dry season,
+Oyo,Sep,1397,Heavy rain,irrelevant
+Plateau,Jan,1052,flooded!!!,###
+kogi,Nov,275,,###
+Kaduna,Jun,913,Dry season,
+Lagos,Jun,1876,123,irrelevant
+Bayelsa,May,1135,Dry season,
+Benue,Mar,415,,irrelevant
+Yobe,Jun,618,,
+Kebbis,Nov,619,,
+Imo,Jul,131,Dry season,irrelevant
+Osun,Feb,1257,Dry season,irrelevant
+Yobe,Oct,453,,###
+crossriver,Nov,1964,Heavy rain,###
+Ondo,Aug,949,flooded!!!,###
+Bauchi,Jul,1506,123,
+Kebbis,Sep,881,flooded!!!,irrelevant
+Ebonyi,,1538,Heavy rain,irrelevant
+Anambra,Jun,877,Dry season,###
+Cross River,May,1522,123,irrelevant
+Abla,May,1429,123,irrelevant
+Oyo,Oct,855,flooded!!!,###
+Imo,Feb,588,123,irrelevant
+gombe,,202,,irrelevant
+katsina,Dec,1180,Dry season,
+Cross River,Mar,459,123,###
+Benue,Jul,536,Dry season,irrelevant
+Ed0o,Jun,751,Dry season,
+Ondo,Jun,1607,flooded!!!,irrelevant
+Yobe,Mar,887,123,###
+Adamawa,Apr,1326,Heavy rain,irrelevant
+Ondo,Aug,743,,
+Bauchi,Sep,1740,Heavy rain,irrelevant
+Bauchi,Mar,1569,,irrelevant
+Cross River,Jul,1050,Dry season,
+Bauchi,Feb,1755,flooded!!!,irrelevant
+crossriver,Dec,496,,###
+Ogun,Oct,926,Dry season,
+Niger,Nov,930,Dry season,irrelevant
+Oyo,Dec,1155,flooded!!!,irrelevant
+Kano,Jun,144,Dry season,irrelevant
+kogi,Jul,1031,123,
+gombe,Nov,1845,flooded!!!,
+Anambra,Sep,1158,Heavy rain,###
+Ogun,Oct,1243,Dry season,irrelevant
+Niger,May,64,Dry season,irrelevant
+Ebonyi,Nov,126,Heavy rain,
+Osun,Feb,346,Dry season,###
+Anambra,Dec,548,123,irrelevant
+S0koto,Oct,1540,Dry season,
+Yobe,Jun,253,,irrelevant
+katsina,Aug,1401,Heavy rain,irrelevant
+Kaduba,Oct,435,Heavy rain,###
+Niger,Mar,1102,Heavy rain,irrelevant
+Niger,,1743,,###
+Abuja,,1737,Heavy rain,###
+G0mbe,Nov,1883,,###
+Abla,,409,flooded!!!,###
+KAN0,Dec,1512,Dry season,
+Anambra,Jun,578,123,###
+gombe,Sep,1464,Dry season,irrelevant
+Ed0o,Jan,1781,Heavy rain,###
+Oyo,Nov,744,,irrelevant
+Yobe,,1474,,###
+S0koto,Jul,906,123,###
+Taraba,Jan,1886,Heavy rain,
+Niger,Jan,383,flooded!!!,irrelevant
+Enugu,???,547,,###
+Enugu,May,42,,
+Borno,???,1262,123,irrelevant
+Niger,???,539,,irrelevant
+Kaduba,,1397,Dry season,
+crossriver,Apr,1492,Heavy rain,irrelevant
+lagos ,Nov,253,,irrelevant
+Rivers,Dec,1606,Dry season,
+Bauchi,Sep,334,,###
+??Rivers,Dec,528,flooded!!!,irrelevant
+S0koto,May,432,Heavy rain,
+Plateau,Jan,485,Dry season,irrelevant
+Niger,Apr,404,,
+Lagos,Jul,1672,Dry season,###
+Ekiti,Feb,858,Dry season,
+Cross River,???,1484,123,
+Ebonyi,Nov,1768,Dry season,
+Ekiti,Mar,1641,flooded!!!,
+Plateau,Sep,920,Heavy rain,irrelevant
+S0koto,Nov,948,Dry season,
+Zamfara,May,138,Heavy rain,
+Benue,Jan,357,Heavy rain,###
+kogi,Sep,1247,Heavy rain,irrelevant
+Borno,???,1500,,irrelevant
+benue,Nov,575,123,
+Ebonyi,May,1148,123,
+Plateau,Sep,602,flooded!!!,irrelevant
+Benue,Jan,410,Dry season,
+crossriver,Nov,779,,###
+Cross River,Jul,832,123,
+Enugu,Jul,1618,,###
+G0mbe,Dec,77,flooded!!!,
+??Rivers,Nov,31,Dry season,###
+Abuja,,,,irrelevant
+Jigawa,Nov,1775,Dry season,###
+??Rivers,Dec,1521,Dry season,###
+katsina,Jul,1597,flooded!!!,irrelevant
+Delta,Feb,556,Dry season,###
+Bayelsa,Feb,462,123,irrelevant
+Delta,Jul,824,,
+gombe,???,726,Dry season,###
+Borno,Feb,1826,Heavy rain,irrelevant
+Abuja,May,141,,###
+Adamawa,Oct,574,123,###
+Adamawa,May,1549,123,
+Anambra,Jun,1093,flooded!!!,
+Abla,May,1467,Heavy rain,irrelevant
+Kaduna,May,1551,123,
+Adamawa,Oct,1823,flooded!!!,
+Bayelsa,Oct,1471,123,###
+Kwara,Feb,753,,
+Ekiti,Sep,705,123,###
+Imo,Feb,1825,Dry season,###
+Bauchi,Feb,883,,###
+Ed0o,Apr,691,Dry season,irrelevant
+KAN0,???,901,123,
+S0koto,Sep,19,,irrelevant
+Kaduna,Oct,928,,###
+Ogun,May,1768,123,irrelevant
+Ebonyi,Jan,881,,###
+Borno,May,885,,###
+Rivers,Mar,924,Dry season,
+S0koto,Apr,1017,flooded!!!,irrelevant
+Nasarawa,Jul,1373,,irrelevant
+S0koto,Mar,529,,###
+Taraba,May,1431,123,
+Bayelsa,Jul,1140,123,
+Jigawa,Nov,90,,###
+gombe,May,523,,###
+Yobe,Aug,597,flooded!!!,
+S0koto,Apr,1100,Heavy rain,###
+Kaduna,Sep,824,Heavy rain,irrelevant
+katsina,Oct,980,Heavy rain,###
+crossriver,Oct,1413,,irrelevant
+Kebbis,Jul,1620,Heavy rain,irrelevant
+Ebonyi,???,1633,123,irrelevant
+Benue,May,62,flooded!!!,irrelevant
+Abla,Jan,140,Dry season,###
+??Rivers,May,826,123,###
+lagos ,,1688,Dry season,irrelevant
+G0mbe,Oct,731,,
+Adamawa,Oct,426,,###
+Niger,Mar,912,123,###
+Lagos,Feb,1391,flooded!!!,
+KAN0,Mar,438,flooded!!!,###
+Ogun,May,831,Dry season,###
+Enugu,Feb,276,Dry season,
+Osun,Feb,116,Dry season,irrelevant
+katsina,May,860,Dry season,
+Ondo,Aug,1367,Heavy rain,
+Abuja,???,1871,Heavy rain,###
+Nasarawa,May,1164,Heavy rain,
+Bayelsa,Dec,1362,123,###
+Enugu,Dec,629,,###
+Oyo,Jun,1386,Dry season,
+Adamawa,Dec,1640,flooded!!!,###
+Bauchi,Nov,1886,,###
+Ebonyi,Nov,1201,,
+Taraba,Apr,1813,flooded!!!,###
+gombe,Oct,1323,flooded!!!,irrelevant
+Kebbis,Apr,1131,Dry season,
+kogi,Mar,1060,Heavy rain,
+Enugu,Nov,417,,irrelevant
+Kaduna,Aug,462,123,irrelevant
+Kano,Dec,1547,Heavy rain,###
+Kebbis,Jan,1850,,
+Kano,Feb,322,Dry season,###
+Ekiti,Jul,412,Dry season,irrelevant
+Enugu,Jan,1914,flooded!!!,###
+S0koto,Jun,1577,flooded!!!,###
+Ogun,,1681,123,
+Anambra,Jul,840,Dry season,irrelevant
+Kano,May,1243,Dry season,###
+Nasarawa,Apr,166,,irrelevant
+Kano,Mar,1204,flooded!!!,
+Ebonyi,,1293,Dry season,###
+Taraba,Jan,893,Heavy rain,irrelevant
+Abla,Jan,413,,###
+katsina,Mar,890,Dry season,###
+kogi,Jun,1048,,
+benue,May,1123,Dry season,irrelevant
+Anambra,Jul,1769,Dry season,irrelevant
+Ekiti,Feb,1401,flooded!!!,###
+Yobe,Jul,31,Heavy rain,
+Ondo,Jul,564,,irrelevant
+Osun,Mar,1100,flooded!!!,###
+katsina,,1082,Heavy rain,
+Niger,Jun,1904,Heavy rain,###
+Kaduna,,343,123,
+crossriver,Aug,1189,123,irrelevant
+Kaduba,Jul,1711,flooded!!!,irrelevant
+Benue,Mar,1747,123,
+Anambra,Apr,63,Dry season,
+Enugu,Jul,1577,Dry season,irrelevant
+Zamfara,Apr,414,,###
+Delta,Jun,816,Heavy rain,irrelevant
+gombe,Nov,265,flooded!!!,###
+gombe,Nov,1560,flooded!!!,###
+Kaduna,Apr,1812,123,###
+Kano,Sep,1232,,irrelevant
+Ondo,Feb,1181,123,irrelevant
+Benue,Feb,1517,Heavy rain,###
+Adamawa,Sep,1421,Heavy rain,irrelevant
+Osun,Oct,283,Heavy rain,
+Cross River,Jul,1915,123,
+G0mbe,,141,Heavy rain,###
+Bayelsa,,1197,123,irrelevant
+Ondo,Jun,639,Dry season,###
+Cross River,May,1094,,
+Kano,???,1228,,###
+Ogun,Oct,1731,Dry season,
+Yobe,Feb,182,Dry season,
+Yobe,Aug,80,Dry season,irrelevant
+Ed0o,???,1267,123,###
+Anambra,Nov,1757,123,
+Abuja,Apr,625,Heavy rain,irrelevant
+Kaduba,???,1501,Heavy rain,irrelevant
+Anambra,Feb,1278,Heavy rain,irrelevant
+S0koto,Jun,350,flooded!!!,
+benue,Apr,739,123,
+Kaduna,Apr,1868,Dry season,###
+Borno,???,1958,flooded!!!,
+Ogun,Feb,2,123,###
+KAN0,May,854,Dry season,
+Jigawa,Aug,1457,flooded!!!,irrelevant
+Bayelsa,Oct,935,Heavy rain,###
+S0koto,Aug,420,123,###
+katsina,Jun,1791,Dry season,irrelevant
+Ogun,Oct,1063,123,###
+Anambra,Dec,1281,Dry season,irrelevant
+Anambra,Jan,506,Heavy rain,###
+lagos ,Aug,529,123,###
+S0koto,Dec,588,flooded!!!,###
+Nasarawa,Sep,401,123,###
+Niger,Apr,1356,,###
+Kaduna,Jul,1481,,
+Bauchi,Jan,1754,123,irrelevant
+Ondo,Oct,1061,flooded!!!,
+Lagos,Apr,692,Dry season,###
+Kebbis,May,1078,Dry season,
+kogi,Feb,247,flooded!!!,###
+Enugu,Dec,825,flooded!!!,irrelevant
+Bauchi,Apr,985,Heavy rain,###
+Imo,Jul,1265,Heavy rain,
+Adamawa,Mar,1815,123,irrelevant
+Adamawa,Aug,189,,irrelevant
+Abuja,Sep,1341,Dry season,
+Borno,Jul,1645,123,irrelevant
+Anambra,Mar,1661,123,
+crossriver,May,873,Dry season,irrelevant
+Oyo,,1051,Heavy rain,irrelevant
+Ebonyi,Dec,914,Heavy rain,###
+Nasarawa,Sep,1308,123,###
+G0mbe,Apr,775,123,
+Kaduba,Jan,1525,,irrelevant
+KAN0,May,1632,Heavy rain,
+Enugu,Feb,222,123,###
+Enugu,Mar,1063,,
+benue,May,292,,
+lagos ,Aug,1215,Heavy rain,###
+gombe,Sep,1792,flooded!!!,###
+Oyo,Oct,1692,Heavy rain,###
+S0koto,???,1913,,
+Cross River,Sep,890,123,###
+Lagos,Jun,1149,,###
+Abuja,Sep,1083,flooded!!!,###
+Jigawa,,267,flooded!!!,###
+Plateau,Dec,573,Heavy rain,
+Adamawa,Nov,1700,Dry season,
+Jigawa,Sep,372,,
+Enugu,???,1048,Heavy rain,irrelevant
+Kwara,Aug,438,Dry season,###
+Osun,Apr,627,123,
+Imo,???,1244,123,###
+Taraba,Jul,344,Heavy rain,
+katsina,,117,Heavy rain,
+Kaduba,Nov,1905,Dry season,irrelevant
+Borno,Dec,1405,,
+Niger,Nov,663,,
+Cross River,Apr,863,Dry season,
+Delta,Nov,915,flooded!!!,
+Plateau,Nov,1643,123,irrelevant
+Niger,,950,Dry season,###
+S0koto,???,767,,irrelevant
+Ondo,Jan,873,Dry season,###
+Kano,Jul,986,Heavy rain,irrelevant
+Anambra,Oct,1921,123,
+crossriver,???,1440,Heavy rain,irrelevant
+lagos ,May,1402,,
+Kano,Dec,137,Dry season,###
+Niger,Sep,630,flooded!!!,irrelevant
+??Rivers,Oct,1076,123,
+Borno,May,43,flooded!!!,irrelevant
+Delta,Feb,1465,Dry season,
+Ogun,Jan,1989,123,###
+Ondo,Nov,1913,flooded!!!,###
+Imo,Jan,411,,###
+Bauchi,Dec,809,,irrelevant
+lagos ,Nov,1812,123,irrelevant
+S0koto,Dec,1064,Heavy rain,
+Niger,Apr,1568,,irrelevant
+katsina,Dec,1475,,
+Bauchi,???,1656,Heavy rain,irrelevant
+KAN0,,514,Heavy rain,###
+Kebbis,Dec,1019,,irrelevant
+kogi,Jan,945,Heavy rain,irrelevant
+Benue,May,603,Dry season,irrelevant
+benue,Mar,622,123,irrelevant
+Yobe,Apr,1385,,irrelevant
+Enugu,Jan,1701,,
+Anambra,Nov,750,123,irrelevant
+Ebonyi,Jul,1044,flooded!!!,irrelevant
+lagos ,Feb,1993,flooded!!!,###
+kogi,Jul,815,Dry season,###
+Kaduba,Dec,229,123,###
+Taraba,May,1962,Heavy rain,irrelevant
+Taraba,Feb,1161,Heavy rain,
+katsina,Feb,26,Heavy rain,###
+KAN0,Apr,317,123,irrelevant
+Imo,Jul,1694,,###
+Niger,,1192,flooded!!!,###
+Borno,???,417,Dry season,irrelevant
+Ondo,Jul,24,123,
+benue,Jun,668,,irrelevant
+Kaduba,Jan,1357,Dry season,
+benue,Nov,1876,123,
+crossriver,May,76,flooded!!!,###
+gombe,Dec,889,Heavy rain,###
+G0mbe,Nov,1966,123,
+Lagos,Jul,1505,,
+Yobe,Oct,1136,Heavy rain,###
+Delta,Mar,544,flooded!!!,###
+Yobe,Nov,1143,Dry season,
+Lagos,???,1866,,irrelevant
+Yobe,Aug,1801,Heavy rain,
+S0koto,Mar,1078,flooded!!!,irrelevant
+Imo,Jul,881,123,irrelevant
+Cross River,Feb,1458,flooded!!!,
+Adamawa,Jan,21,123,###
+Kaduba,Feb,1757,flooded!!!,
+katsina,Feb,1133,flooded!!!,irrelevant
+Imo,Dec,1987,,
+lagos ,Jun,915,123,###
+S0koto,Mar,1973,Heavy rain,irrelevant
+KAN0,???,755,Dry season,irrelevant
+Oyo,Oct,1938,Dry season,
+Bayelsa,Aug,1813,123,irrelevant
+Kwara,Jun,1146,Dry season,###
+G0mbe,Mar,133,Heavy rain,###
+Cross River,Jan,1907,,###
+kogi,Sep,603,Dry season,irrelevant
+Jigawa,Dec,1701,,irrelevant
+Taraba,Apr,1897,Heavy rain,irrelevant
+Enugu,Apr,716,Dry season,
+lagos ,Oct,332,,irrelevant
+??Rivers,May,1589,123,###
+Kano,,1256,Dry season,irrelevant
+Ekiti,May,449,123,
+Anambra,Jul,1682,Dry season,irrelevant
+Oyo,Mar,952,123,
+S0koto,Apr,669,,irrelevant
+Ed0o,Feb,1382,flooded!!!,
+Taraba,May,52,123,
+Bayelsa,Apr,211,Heavy rain,irrelevant
+Taraba,Apr,673,,
+Ed0o,Feb,1931,Heavy rain,
+S0koto,Aug,651,Heavy rain,###
+Borno,Feb,582,Dry season,###
+??Rivers,Apr,1055,123,###
+Kaduba,Oct,628,123,irrelevant
+Enugu,Jan,917,Heavy rain,
+Plateau,Jul,591,flooded!!!,
+Borno,Aug,1698,123,irrelevant
+Niger,Apr,1639,flooded!!!,
+benue,,1769,Dry season,
+Delta,Mar,110,flooded!!!,###
+gombe,Nov,1095,flooded!!!,###
+Yobe,Nov,1625,flooded!!!,###
+Oyo,Nov,1067,,###
+Rivers,Jul,1713,Dry season,irrelevant
+Abla,Feb,114,,
+Ekiti,Oct,1183,123,
+G0mbe,Sep,103,flooded!!!,irrelevant
+benue,Nov,779,flooded!!!,
+Kebbis,???,734,,irrelevant
+Plateau,Nov,935,,###
+Kaduna,Sep,1751,flooded!!!,###
+Bauchi,Apr,56,,
+Abuja,???,771,flooded!!!,
+Benue,Jul,1484,,irrelevant
+Kaduna,Jun,1580,Heavy rain,###
+Ed0o,Dec,576,123,###
+Oyo,Mar,458,flooded!!!,irrelevant
+Nasarawa,Mar,1669,Heavy rain,
+Adamawa,Oct,366,,irrelevant
+Yobe,Aug,807,flooded!!!,irrelevant
+Ebonyi,Dec,61,Dry season,###
+Rivers,Jan,25,Heavy rain,irrelevant
+Kano,May,1423,Heavy rain,irrelevant
+katsina,Dec,1523,Dry season,irrelevant
+Kano,Jul,487,Dry season,###
+Ed0o,Feb,1649,,irrelevant
+Niger,Nov,977,Dry season,###
+Benue,Mar,376,,irrelevant
+Borno,Oct,1613,Heavy rain,irrelevant
+Taraba,Apr,786,123,irrelevant
+Bayelsa,Mar,144,Heavy rain,###
+Oyo,Mar,1801,Dry season,
+Bauchi,Sep,631,flooded!!!,
+Plateau,Sep,342,Dry season,###
+Oyo,Oct,1826,,
+KAN0,Jan,490,Dry season,irrelevant
+Rivers,Sep,60,,###
+Delta,Mar,784,flooded!!!,###
+Ebonyi,Aug,544,Dry season,
+lagos ,Sep,1501,Heavy rain,irrelevant
+Adamawa,Jan,20,123,irrelevant
+katsina,Aug,424,,irrelevant
+Kaduba,Jul,1169,flooded!!!,irrelevant
+benue,May,146,flooded!!!,###
+Ondo,Mar,946,Dry season,irrelevant
+Ondo,Feb,1562,123,###
+Kaduna,Mar,177,,
+Plateau,,1110,123,irrelevant
+Enugu,Feb,29,Heavy rain,
+Plateau,,577,123,###
+Enugu,Nov,84,Heavy rain,irrelevant
+??Rivers,Dec,1606,Heavy rain,irrelevant
+Imo,Mar,1098,flooded!!!,irrelevant
+Cross River,Nov,206,123,irrelevant
+Ekiti,Aug,1590,Heavy rain,irrelevant
+Kaduna,,989,Heavy rain,
+Kaduna,Jul,1944,flooded!!!,irrelevant
+crossriver,Aug,196,123,###
+lagos ,Dec,446,Heavy rain,
+??Rivers,Jan,296,flooded!!!,
+??Rivers,Feb,1295,Dry season,irrelevant
+Ogun,???,349,,###
+Plateau,Apr,1814,flooded!!!,###
+Abla,Apr,1368,,irrelevant
+Plateau,May,1983,123,irrelevant
+Imo,Jul,788,Dry season,###
+kogi,Jan,1251,Dry season,irrelevant
+Abuja,Jan,287,,irrelevant
+Anambra,Jun,1026,,irrelevant
+benue,Apr,355,Heavy rain,irrelevant
+Adamawa,May,1493,Heavy rain,
+Cross River,Feb,844,flooded!!!,
+Taraba,,952,flooded!!!,irrelevant
+Anambra,,719,Heavy rain,
+Lagos,Jul,1699,Dry season,
+??Rivers,Dec,29,,irrelevant
+Niger,Sep,1442,flooded!!!,irrelevant
+Osun,Aug,998,Heavy rain,###
+Cross River,Dec,235,Heavy rain,irrelevant
+Kebbis,Apr,1591,Dry season,###
+Plateau,???,1587,Dry season,###
+Kano,Feb,1909,123,###
+Kaduna,Feb,349,,###
+Kano,Oct,1174,Dry season,###
+Bauchi,Jan,1206,Dry season,
+Jigawa,Aug,908,123,
+Taraba,Feb,44,123,irrelevant
+Rivers,Dec,697,123,irrelevant
+Kebbis,Apr,255,Heavy rain,irrelevant
+benue,Mar,1996,Dry season,###
+Rivers,Sep,1390,flooded!!!,irrelevant
+Jigawa,Aug,1984,123,
+crossriver,Oct,99,,###
+Ebonyi,,1549,,
+Anambra,Oct,1642,,###
+Bauchi,Oct,1561,flooded!!!,irrelevant
+Abuja,May,325,,
+Bauchi,???,1542,,
+Cross River,May,488,123,irrelevant
+Borno,Feb,320,Dry season,
+Nasarawa,Apr,537,flooded!!!,irrelevant
+KAN0,,1075,,
+Abla,Dec,1436,Dry season,
+Ed0o,Jul,1459,Dry season,###
+benue,Jan,405,,###
+Adamawa,Jan,1719,123,###
+Ed0o,Sep,1516,123,###
+Kaduna,Feb,1337,flooded!!!,###
+Kaduna,Jan,1960,,irrelevant
+G0mbe,Sep,1442,flooded!!!,###
+Zamfara,Aug,1043,123,irrelevant
+Ogun,Jun,1042,flooded!!!,
+Ebonyi,Jun,1273,Dry season,
+Kebbis,May,923,123,###
+Borno,Aug,863,123,
+Bauchi,Jun,1495,123,irrelevant
+Imo,Jun,231,Heavy rain,irrelevant
+S0koto,Mar,888,,###
+katsina,Oct,1909,Heavy rain,irrelevant
+Ed0o,Dec,1849,,###
+Bayelsa,Jun,537,flooded!!!,###
+Kaduna,Mar,1873,flooded!!!,irrelevant
+Ed0o,???,1284,flooded!!!,###
+gombe,Dec,1726,Dry season,irrelevant
+gombe,May,1624,flooded!!!,
+Delta,May,0,Dry season,irrelevant
+KAN0,Apr,120,Heavy rain,
+Niger,Jan,1684,123,###
+Kaduna,Feb,928,Heavy rain,irrelevant
+Kebbis,Jul,1440,123,
+Abla,Aug,1909,flooded!!!,irrelevant
+gombe,Jan,411,Dry season,###
+Abuja,Oct,648,Dry season,
+Benue,Dec,661,Heavy rain,###
+Jigawa,Feb,1265,Dry season,###
+Kebbis,Nov,779,123,irrelevant
+Enugu,Sep,1028,,
+Ekiti,Sep,1614,,irrelevant
+Bauchi,Jun,425,123,###
+gombe,Sep,1302,Heavy rain,irrelevant
+??Rivers,Oct,178,123,###
+Plateau,Apr,1391,Dry season,
+lagos ,Jul,1885,flooded!!!,irrelevant
+Enugu,???,1159,flooded!!!,irrelevant
+Rivers,Dec,1760,Heavy rain,
+benue,May,21,Dry season,###
+Ed0o,Sep,1829,flooded!!!,irrelevant
+crossriver,Feb,1572,,irrelevant
+Imo,Jul,276,123,
+Abla,Sep,1567,Heavy rain,irrelevant
+Enugu,Sep,-100,Dry season,
+Niger,Oct,1092,123,irrelevant
+Kwara,Jun,1106,123,
+S0koto,???,267,,
+Ekiti,Jun,1921,123,###
+Ebonyi,Dec,696,Dry season,irrelevant
+??Rivers,Oct,231,Heavy rain,
+Adamawa,Nov,1786,Heavy rain,###
+Abuja,Aug,488,123,irrelevant
+Osun,Jul,1412,123,irrelevant
+Abla,Jan,1175,,###
+Niger,Sep,1605,Dry season,irrelevant
+Osun,Feb,1520,,
+Ondo,Sep,496,Heavy rain,
+Anambra,Aug,1308,123,###
+Ebonyi,Jan,90,Dry season,
+lagos ,Jun,639,Heavy rain,irrelevant
+G0mbe,Oct,1169,flooded!!!,irrelevant
+Ondo,Feb,832,Dry season,irrelevant
+Niger,Nov,15,123,irrelevant
+Enugu,Jul,1488,,irrelevant
+Bayelsa,Jan,1508,flooded!!!,###
+Oyo,May,920,flooded!!!,###
+Anambra,Sep,834,,
+Enugu,Jan,143,123,
+Bauchi,Jun,688,flooded!!!,
+Adamawa,Sep,210,flooded!!!,
+lagos ,Nov,1735,Dry season,###
+Oyo,Jul,1670,flooded!!!,irrelevant
+Ondo,???,456,,###
+Borno,Jan,1621,123,
+kogi,Apr,1790,,
+Kaduba,Jun,678,Dry season,
+Kano,Jun,1879,flooded!!!,
+Taraba,Aug,80,,###
+Kano,Sep,104,Heavy rain,
+Imo,Jan,1311,Dry season,irrelevant
+Kebbis,May,1049,,irrelevant
+Enugu,???,-100,flooded!!!,
+Niger,Nov,751,Heavy rain,
+Kaduna,Feb,1463,,irrelevant
+lagos ,Feb,973,flooded!!!,irrelevant
+Plateau,Jan,1284,Heavy rain,###
+Anambra,Jul,1606,123,###
+Anambra,Apr,28,Heavy rain,irrelevant
+lagos ,Feb,1070,Heavy rain,irrelevant
+Bauchi,Feb,1786,123,irrelevant
+Niger,Sep,71,flooded!!!,
+benue,Oct,1703,,
+Kaduna,May,285,Dry season,###
+Abla,,1003,Dry season,irrelevant
+S0koto,Sep,621,Dry season,irrelevant
+crossriver,Mar,1626,Heavy rain,
+Zamfara,Apr,1412,123,
+??Rivers,Mar,419,123,irrelevant
+Kaduba,Oct,1693,123,
+Kaduna,Jun,1731,flooded!!!,
+Kebbis,Dec,1847,flooded!!!,###
+Anambra,Aug,1084,flooded!!!,
+lagos ,Jan,1633,,irrelevant
+Kano,Aug,896,123,###
+Yobe,Apr,111,,
+Kwara,Oct,1175,,irrelevant
+Bauchi,Jan,1564,Dry season,
+??Rivers,Jun,884,flooded!!!,
+Taraba,Mar,1674,Heavy rain,###
+Niger,Apr,1812,flooded!!!,###
+Nasarawa,Aug,316,Dry season,
+Kano,,355,Dry season,
+Kebbis,Jun,3,Heavy rain,irrelevant
+Osun,Feb,1501,,irrelevant
+Zamfara,Jun,1304,Heavy rain,irrelevant
+Ekiti,???,893,,
+Anambra,Nov,472,Heavy rain,irrelevant
+Enugu,Mar,432,flooded!!!,irrelevant
+gombe,May,1292,123,
+Kano,Aug,128,Dry season,
+crossriver,Feb,474,123,###
+Jigawa,May,1204,flooded!!!,irrelevant
+KAN0,Aug,1893,123,###
+Delta,Oct,493,flooded!!!,###
+KAN0,Feb,529,Heavy rain,
+Anambra,,453,Dry season,
+Kaduna,,507,Dry season,irrelevant
+gombe,,621,,
+katsina,Jun,789,Dry season,###
+Kebbis,Aug,1209,123,
+katsina,???,1206,flooded!!!,###
+Osun,Jun,1361,123,irrelevant
+Niger,Feb,1585,,###
+Osun,Apr,319,Heavy rain,###
+Jigawa,Feb,768,flooded!!!,irrelevant
+gombe,Jul,1553,flooded!!!,###
+Kaduba,Sep,857,Dry season,
+benue,Oct,1349,Dry season,irrelevant
+kogi,Dec,1628,Heavy rain,irrelevant
+gombe,Aug,827,Heavy rain,
+Abla,May,1805,123,###
+Osun,Sep,1625,,irrelevant
+Taraba,Jul,660,,irrelevant
+Zamfara,Sep,1145,,
+Enugu,,132,Dry season,###
+Imo,Mar,269,123,irrelevant
+Ebonyi,Jan,1712,flooded!!!,
+Kwara,Sep,911,flooded!!!,###
+crossriver,May,358,123,###
+Nasarawa,,214,123,###
+Bauchi,???,1399,123,
+Zamfara,Oct,188,Heavy rain,
+Zamfara,Mar,1159,Heavy rain,irrelevant
+Bauchi,Aug,331,Heavy rain,irrelevant
+crossriver,Dec,726,123,irrelevant
+S0koto,Nov,483,123,
+Osun,???,595,flooded!!!,
+Kano,Oct,1564,Dry season,irrelevant
+KAN0,Aug,459,flooded!!!,irrelevant
+??Rivers,Jun,536,flooded!!!,
+Bauchi,Jan,536,123,
+Abla,Jan,346,flooded!!!,
+gombe,May,1399,Dry season,
+Bauchi,Sep,1228,flooded!!!,###
+Adamawa,May,1226,123,irrelevant
+Ogun,Nov,690,Heavy rain,###
+Ebonyi,May,1238,Dry season,irrelevant
+Nasarawa,Feb,761,flooded!!!,
+Anambra,Aug,1384,flooded!!!,
+Rivers,Jul,393,Dry season,irrelevant
+Enugu,Apr,565,123,###
+Adamawa,Jul,74,flooded!!!,###
+crossriver,Dec,266,Dry season,###
+Taraba,Oct,1363,Dry season,irrelevant
+Bauchi,Oct,868,Heavy rain,###
+Osun,Dec,830,flooded!!!,
+Taraba,Jun,1496,Dry season,irrelevant
+Bauchi,Jan,393,123,irrelevant
+Niger,Sep,1633,123,irrelevant
+crossriver,Jul,798,123,
+lagos ,Aug,296,Heavy rain,
+Anambra,Dec,820,,
+Ondo,May,44,flooded!!!,irrelevant
+Bauchi,Jun,1082,Dry season,###
+Ondo,Sep,794,123,irrelevant
+Zamfara,Apr,1941,flooded!!!,
+KAN0,Oct,1814,flooded!!!,
+Plateau,May,177,Heavy rain,irrelevant
+crossriver,Jul,1099,Dry season,
+Rivers,Jan,511,123,irrelevant
+Kebbis,Jun,560,Dry season,###
+Niger,Nov,123,flooded!!!,###
+Enugu,Jan,1660,123,irrelevant
+Kaduna,Aug,1464,123,
+crossriver,,1349,Heavy rain,###
+Zamfara,Feb,22,Heavy rain,irrelevant
+Ogun,Mar,1374,123,
+Bayelsa,Nov,139,123,###
+Anambra,Oct,866,Heavy rain,irrelevant
+KAN0,Jul,368,,###
+Abla,Jun,1412,Dry season,###
+kogi,Jan,1080,123,
+S0koto,???,1489,Dry season,irrelevant
+Bauchi,Jul,802,,irrelevant
+Yobe,Jan,122,123,###
+Yobe,Oct,492,123,###
+Ed0o,Mar,367,123,
+Delta,???,1570,flooded!!!,irrelevant
+Anambra,Aug,6,flooded!!!,###
+Delta,Sep,1058,flooded!!!,irrelevant
+lagos ,,1278,Heavy rain,irrelevant
+Bayelsa,Sep,1108,123,
+Kaduna,May,1594,Dry season,
+Lagos,Dec,148,Dry season,irrelevant
+Anambra,Apr,1250,Dry season,###
+lagos ,Apr,123,flooded!!!,irrelevant
+Taraba,Jul,1451,flooded!!!,###
+G0mbe,Jun,919,Dry season,irrelevant
+Abuja,Jul,161,Heavy rain,
+Benue,???,438,flooded!!!,
+Ebonyi,May,1129,,###
+Abla,Jan,505,flooded!!!,irrelevant
+Benue,???,1209,123,###
+Kano,,1678,Dry season,irrelevant
+Adamawa,Aug,1308,Heavy rain,###
+lagos ,Jul,1051,flooded!!!,irrelevant
+Abla,Apr,1708,,irrelevant
+gombe,,648,123,irrelevant
+katsina,,543,,###
+Kaduba,Apr,1325,Dry season,###
+Oyo,Oct,245,flooded!!!,
+Enugu,,1322,,###
+Lagos,???,256,,###
+Ekiti,Jul,753,flooded!!!,###
+Kaduba,Apr,1076,Dry season,irrelevant
+Taraba,Jun,1812,123,irrelevant
+Nasarawa,Jul,298,,
+Plateau,Aug,594,,
+S0koto,Sep,161,Heavy rain,
+Enugu,May,172,,
+Bayelsa,Dec,679,flooded!!!,
+Ondo,Feb,679,Dry season,
+Enugu,Nov,1666,Dry season,
+Imo,,544,,
+Ebonyi,Aug,87,flooded!!!,irrelevant
+Rivers,Sep,1290,Dry season,irrelevant
+Anambra,Sep,1482,123,
+Cross River,Feb,1036,,
+Niger,May,1878,flooded!!!,irrelevant
+Imo,Oct,249,,
+katsina,Nov,1978,Heavy rain,
+Plateau,Apr,58,123,irrelevant
+Kaduba,,1612,123,irrelevant
+Bayelsa,Sep,1433,Dry season,###
+Bayelsa,Nov,1809,,
+Plateau,Nov,321,123,
+Ebonyi,Aug,725,123,###
+Cross River,May,249,flooded!!!,
+benue,May,1607,,irrelevant
+Abla,Sep,1627,,###
+Adamawa,Jan,1866,123,
+Kwara,Feb,1448,,
+Rivers,Oct,210,Dry season,
+Ogun,May,921,Dry season,irrelevant
+Benue,,336,123,irrelevant
+Enugu,Feb,1431,123,
+Bauchi,Jul,1451,123,
+Kebbis,Sep,30,123,irrelevant
+Cross River,Mar,31,Dry season,
+Cross River,Jul,461,flooded!!!,###
+Benue,Sep,1882,,
+Ogun,Jan,1538,Dry season,
+Imo,Jan,1999,123,
+benue,Jun,1431,123,###
+Plateau,,1586,flooded!!!,###
+Yobe,Jan,833,Dry season,irrelevant
+Delta,Apr,219,Dry season,irrelevant
+Adamawa,Aug,1200,Heavy rain,
+Anambra,Feb,44,Heavy rain,irrelevant
+Abuja,Apr,729,Heavy rain,irrelevant
+gombe,Jun,1760,,###
+Abla,Mar,493,Heavy rain,
+Delta,Nov,1698,,irrelevant
+??Rivers,Feb,1128,123,
+Rivers,,1904,flooded!!!,
+Kano,Jul,1530,flooded!!!,irrelevant
+Bauchi,Oct,1099,,###
+Jigawa,Jun,984,Dry season,irrelevant
+Anambra,Apr,1390,123,irrelevant
+Anambra,Jun,1349,Dry season,###
+Benue,Jun,1136,Dry season,
+Enugu,Mar,603,123,
+Oyo,Jul,522,Dry season,
+Borno,Jan,840,Dry season,irrelevant
+Adamawa,???,1373,Heavy rain,###
+Abuja,Jul,251,Heavy rain,irrelevant
+Kaduna,Mar,266,Heavy rain,###
+Kaduna,Jan,214,,irrelevant
+crossriver,Aug,301,Heavy rain,
+Ed0o,Oct,336,Dry season,
+Delta,Jun,635,,irrelevant
+Lagos,Apr,1381,,
+Kaduba,,41,123,###
+Ebonyi,Apr,928,,
+lagos ,Apr,1658,flooded!!!,
+Taraba,Jul,1464,flooded!!!,irrelevant
+KAN0,Dec,1449,Dry season,irrelevant
+Imo,Dec,153,Heavy rain,
+Kaduba,???,264,123,###
+Kaduba,Dec,227,Dry season,
+Enugu,Feb,561,123,###
+Borno,???,1806,123,irrelevant
+Kaduba,Nov,1393,flooded!!!,
+Yobe,Feb,1320,flooded!!!,###
+Kaduba,Nov,644,,
+Borno,Mar,265,,irrelevant
+Delta,Aug,564,Dry season,
+Borno,Dec,280,123,
+Delta,Mar,848,123,irrelevant
+Plateau,Jun,1188,flooded!!!,irrelevant
+Yobe,Jun,1228,123,
+gombe,Aug,1146,123,
+Oyo,Jun,499,123,###
+Kano,Feb,720,,###
+Delta,Jun,690,123,
+Oyo,May,658,,irrelevant
+Kebbis,Mar,43,Heavy rain,###
+Kano,May,328,Heavy rain,
+lagos ,Feb,1767,flooded!!!,irrelevant
+Adamawa,Mar,25,Heavy rain,irrelevant
+Osun,Jul,852,,
+Benue,Mar,1786,flooded!!!,irrelevant
+Ondo,Nov,570,flooded!!!,irrelevant
+Anambra,Jun,695,Dry season,
+Taraba,Oct,1108,Dry season,###
+Oyo,Nov,901,flooded!!!,irrelevant
+Plateau,Apr,481,,###
+Anambra,Oct,804,Dry season,irrelevant
+Kaduna,???,1250,123,
+Anambra,May,464,flooded!!!,###
+S0koto,May,1697,Dry season,
+Kaduna,Oct,1501,123,irrelevant
+Kebbis,May,512,flooded!!!,irrelevant
+Lagos,???,146,123,irrelevant
+benue,???,420,flooded!!!,
+Niger,,968,Heavy rain,###
+Imo,Jan,1779,Heavy rain,###
+Imo,Sep,395,Heavy rain,irrelevant
+gombe,Sep,1434,123,irrelevant
+??Rivers,May,160,Heavy rain,
+Osun,Oct,1429,flooded!!!,###
+Zamfara,???,101,123,###
+Kaduba,Jan,1677,Dry season,irrelevant
+gombe,,1128,123,###
+Niger,Oct,1036,flooded!!!,
+Ondo,Aug,770,Dry season,irrelevant
+lagos ,,1027,Dry season,
+Adamawa,Jul,1163,123,###
+Benue,Jun,1276,flooded!!!,###
+Abuja,Jul,156,Heavy rain,###
+Abuja,Jul,498,,
+G0mbe,Nov,104,Dry season,irrelevant
+Anambra,Jul,577,Dry season,irrelevant
+Zamfara,,349,Dry season,###
+Enugu,???,1890,123,irrelevant
+Rivers,Dec,104,,
+Borno,,1478,,###
+Cross River,,1422,Heavy rain,
+Oyo,Feb,422,Dry season,###
+katsina,Sep,668,123,
+Kaduna,Dec,802,,
+Rivers,Oct,1969,123,###
+Anambra,Sep,1253,Dry season,irrelevant
+Niger,Mar,98,,###
+Ekiti,Nov,557,123,
+Rivers,Jan,1033,flooded!!!,
+Ogun,Nov,1512,Heavy rain,
+kogi,Jul,382,flooded!!!,
+katsina,Feb,1010,,###
+gombe,Nov,641,,
+Benue,Oct,1310,Dry season,###
+Ekiti,Oct,207,flooded!!!,irrelevant
+benue,,1476,123,irrelevant
+gombe,Jul,1973,,
+Ogun,Nov,1583,flooded!!!,irrelevant
+S0koto,Jan,1741,,
+Kwara,Jul,1486,Dry season,###
+benue,,1209,flooded!!!,irrelevant
+Bayelsa,???,136,,irrelevant
+KAN0,???,680,flooded!!!,
+Borno,Apr,695,,###
+Anambra,Sep,632,,irrelevant
+Nasarawa,Mar,542,,
+G0mbe,Jun,1311,,irrelevant
+Anambra,Apr,765,Dry season,irrelevant
+Cross River,Jan,156,Heavy rain,
+Kebbis,Feb,569,flooded!!!,###
+Ed0o,Aug,282,flooded!!!,
+Anambra,Jan,351,,###
+Anambra,???,1603,123,###
+Kebbis,Sep,1279,Dry season,###
+KAN0,Jul,859,,irrelevant
+Kwara,Sep,138,123,
+Lagos,Sep,1919,123,
+Taraba,???,314,Dry season,###
+Kebbis,Nov,1710,flooded!!!,###
+Kaduna,Jul,264,flooded!!!,irrelevant
+lagos ,Jun,512,,###
+Oyo,Jun,1871,,
+Yobe,,1641,Heavy rain,
+Abla,Jun,1102,flooded!!!,
+S0koto,Jun,190,Heavy rain,###
+Abuja,May,771,,
+Rivers,May,1912,Heavy rain,###
+Ed0o,May,804,Heavy rain,irrelevant
+Oyo,Aug,188,flooded!!!,
+Adamawa,???,775,Dry season,###
+Kwara,Dec,375,123,
+katsina,Jul,1983,Dry season,irrelevant
+Rivers,Aug,163,flooded!!!,###
+Benue,Apr,1993,flooded!!!,
+Abla,May,567,,irrelevant
+Abuja,May,1131,flooded!!!,irrelevant
+Ed0o,Feb,45,Heavy rain,irrelevant
+Anambra,May,1056,123,
+Yobe,Oct,444,,irrelevant
+Nasarawa,Apr,306,Heavy rain,
+Taraba,Dec,262,123,irrelevant
+kogi,Oct,212,,
+Anambra,Mar,1880,flooded!!!,###
+Ekiti,Jan,689,123,irrelevant
+Anambra,Sep,798,,###
+Kaduba,Oct,304,Heavy rain,irrelevant
+Bayelsa,Jun,732,Dry season,###
+Kano,???,1321,,irrelevant
+Ogun,Nov,739,Dry season,irrelevant
+S0koto,Jul,1142,flooded!!!,###
+Kano,Oct,1152,,
+Kano,May,1404,Dry season,irrelevant
+Kano,May,753,,
+Lagos,,1811,123,
+Imo,Mar,1692,123,
+Jigawa,Apr,1748,123,irrelevant
+Rivers,,764,123,
+Cross River,Jul,1631,,
+Taraba,Aug,997,,
+katsina,???,317,Dry season,irrelevant
+benue,Oct,906,flooded!!!,###
+Taraba,,128,Heavy rain,irrelevant
+Kebbis,,985,Dry season,irrelevant
+Kaduna,Mar,18,flooded!!!,
+Cross River,Mar,1195,123,###
+gombe,Apr,721,Heavy rain,###
+Osun,Mar,701,flooded!!!,
+Cross River,Jul,1392,Heavy rain,irrelevant
+Jigawa,Nov,1645,,###
+Kaduna,Apr,208,,irrelevant
+Delta,Sep,295,flooded!!!,irrelevant
+Kaduna,???,968,123,###
+Kaduna,Nov,88,Heavy rain,irrelevant
+Anambra,Sep,671,,irrelevant
+Ebonyi,Sep,1507,Heavy rain,irrelevant
+KAN0,Dec,939,,
+kogi,Aug,949,flooded!!!,
+G0mbe,May,834,123,
+Bauchi,Jun,1572,,irrelevant
+Kaduna,Aug,716,,###
+crossriver,,705,Dry season,
+Ondo,Nov,1037,123,
+KAN0,Mar,623,,irrelevant
+Plateau,Aug,554,123,irrelevant
+Plateau,May,939,Heavy rain,
+Cross River,Dec,1618,,irrelevant
+gombe,Mar,646,123,###
+benue,May,980,123,irrelevant
+benue,Jan,1046,Dry season,###
+Kaduba,???,204,,###
+Plateau,Apr,1374,Heavy rain,
+KAN0,???,576,123,###
+Enugu,Dec,1860,,###
+Kano,Nov,589,,
+Borno,Jan,258,Heavy rain,
+Kaduba,Jul,1178,,
+KAN0,Feb,306,Heavy rain,
+Delta,Jun,1587,Heavy rain,###
+Ebonyi,Sep,559,Heavy rain,irrelevant
+Abuja,Feb,1757,flooded!!!,
+lagos ,Oct,36,Dry season,irrelevant
+Zamfara,Nov,637,flooded!!!,irrelevant
+Anambra,Dec,1804,Heavy rain,
+Kaduba,Sep,609,,###
+Cross River,Oct,1844,,
+Imo,Jan,1436,123,
+Bayelsa,,1948,,irrelevant
+Jigawa,Oct,876,,###
+Adamawa,Oct,1924,123,###
+Kwara,Jul,301,Dry season,
+kogi,Mar,66,Heavy rain,
+gombe,Aug,728,Dry season,
+Plateau,Oct,1129,,irrelevant
+Plateau,,1993,123,###
+Rivers,Jun,1163,123,irrelevant
+Kano,Aug,1969,123,irrelevant
+Kebbis,Feb,1739,Dry season,irrelevant
+kogi,Jun,1877,Heavy rain,###
+Enugu,May,590,flooded!!!,
+Ebonyi,Mar,1225,Heavy rain,
+Anambra,,1347,123,###
+Imo,???,612,Heavy rain,irrelevant
+benue,Nov,3,Dry season,irrelevant
+Enugu,May,1350,flooded!!!,irrelevant
+lagos ,May,666,,###
+Imo,Feb,594,,###
+Anambra,Nov,1936,Dry season,###
+Adamawa,Nov,1653,flooded!!!,
+Abuja,Oct,1656,,
+Plateau,May,1874,Heavy rain,###
+Borno,,971,,###
+Delta,Aug,1947,flooded!!!,irrelevant
+Plateau,Jan,768,,###
+Anambra,Feb,494,flooded!!!,###
+Enugu,Nov,78,123,
+Anambra,Sep,1320,Dry season,###
+Imo,Feb,686,Dry season,irrelevant
+Bayelsa,???,1705,flooded!!!,###
+Delta,Mar,379,Dry season,###
+Abla,Aug,757,Heavy rain,irrelevant
+Plateau,Nov,1145,,irrelevant
+Kaduba,May,620,flooded!!!,###
+Ondo,,1189,Heavy rain,
+KAN0,Apr,461,Heavy rain,
+Nasarawa,Jan,313,,###
+Oyo,May,1543,flooded!!!,irrelevant
+Anambra,Nov,774,Heavy rain,###
+gombe,???,530,Dry season,###
+Kano,???,852,flooded!!!,irrelevant
+katsina,,971,,###
+Ogun,Feb,888,,
+Ed0o,Jan,212,flooded!!!,###
+Yobe,Nov,1466,flooded!!!,irrelevant
+Ebonyi,May,468,123,###
+Osun,Jun,1826,,###
+Ed0o,Aug,1636,,###
+Lagos,???,1837,Dry season,irrelevant
+Ogun,Aug,799,123,irrelevant
+Cross River,,1641,Dry season,irrelevant
+Borno,Apr,1893,,
+Anambra,Mar,627,,###
+Borno,Feb,604,Heavy rain,irrelevant
+Plateau,Dec,425,Dry season,###
+??Rivers,Oct,1116,Heavy rain,irrelevant
+Kano,Nov,1884,flooded!!!,irrelevant
+Imo,Apr,981,Heavy rain,irrelevant
+Jigawa,???,302,flooded!!!,###
+katsina,,471,Dry season,###
+Osun,May,115,Dry season,
+Lagos,Jul,1262,Dry season,
+Ed0o,Jun,32,flooded!!!,###
+Ed0o,Feb,120,123,irrelevant
+Imo,Aug,1221,123,irrelevant
+??Rivers,Jul,1203,,
+Ogun,Mar,1744,123,###
+??Rivers,Jun,1231,123,
+gombe,Aug,1147,flooded!!!,
+gombe,Nov,1186,Heavy rain,
+lagos ,Aug,1102,Dry season,###
+Kaduna,???,679,Dry season,irrelevant
+kogi,Dec,342,123,###
+Kaduna,Mar,1401,Heavy rain,irrelevant
+Bayelsa,Jun,1722,flooded!!!,irrelevant
+katsina,Oct,640,Heavy rain,###
+crossriver,Sep,1971,Dry season,###
+Ogun,Feb,42,Dry season,
+Borno,Sep,184,,
+Jigawa,Feb,1939,Heavy rain,
+lagos ,Mar,432,Dry season,irrelevant
+Kwara,Jun,1133,,
+Borno,,1008,Dry season,###
+Borno,Jan,995,Dry season,
+G0mbe,Apr,423,,irrelevant
+Niger,Oct,110,Heavy rain,###
+KAN0,Oct,1647,Heavy rain,###
+Jigawa,Nov,1050,Heavy rain,irrelevant
+Ebonyi,,1306,flooded!!!,###
+Enugu,May,1030,flooded!!!,###
+S0koto,May,24,123,
+Anambra,???,528,123,
+gombe,Aug,1115,Heavy rain,
+Oyo,???,466,123,irrelevant
+lagos ,Apr,178,Heavy rain,###
+lagos ,Jan,1790,123,
+Rivers,Aug,1157,,###
+Ogun,,233,flooded!!!,###
+Abuja,Nov,1831,,irrelevant
+Adamawa,Feb,1715,Heavy rain,irrelevant
+KAN0,Jul,1808,flooded!!!,
+Plateau,Sep,472,Heavy rain,irrelevant
+crossriver,Mar,1256,123,irrelevant
+Nasarawa,Oct,392,123,###
+Anambra,Sep,242,Heavy rain,
+katsina,Oct,931,123,###
+Taraba,Jul,702,123,irrelevant
+Bayelsa,Jul,1753,123,###
+Nasarawa,Jan,1000,,
+Ekiti,Sep,1159,Heavy rain,
+Zamfara,May,1370,,###
+Plateau,Nov,1035,Dry season,###
+Abla,Dec,944,Heavy rain,
+??Rivers,???,1745,Dry season,irrelevant
+benue,???,1026,flooded!!!,###
+Yobe,,523,,irrelevant
+gombe,Jul,290,123,
+Kebbis,Sep,1991,,irrelevant
+Yobe,Sep,1556,Heavy rain,###
+??Rivers,Sep,778,flooded!!!,
+Adamawa,Oct,361,Dry season,irrelevant
+??Rivers,Aug,1036,flooded!!!,
+Kano,Jun,1006,flooded!!!,###
+Kano,???,1018,Heavy rain,###
+Kwara,,650,flooded!!!,
+Kaduba,Dec,1022,Dry season,###
+Jigawa,May,62,Dry season,
+Lagos,Mar,1092,123,irrelevant
+Ogun,Jun,1875,flooded!!!,irrelevant
+Ekiti,Aug,1978,flooded!!!,irrelevant
+Kano,Mar,589,,###
+Ondo,Mar,1710,,irrelevant
+Kaduba,Oct,564,Heavy rain,irrelevant
+Enugu,Aug,510,Dry season,irrelevant
+Kebbis,,1138,123,
+Kaduna,Sep,1155,flooded!!!,###
+Kebbis,Nov,1529,flooded!!!,
+Yobe,Aug,120,flooded!!!,###
+KAN0,???,122,123,###
+S0koto,Nov,675,,
+kogi,Mar,1985,,###
+Abuja,Nov,130,Dry season,###
+S0koto,Feb,555,Heavy rain,irrelevant
+Kaduna,Jun,1795,,irrelevant
+Enugu,???,1835,flooded!!!,
+Adamawa,Dec,1434,flooded!!!,###
+Yobe,Feb,514,flooded!!!,
+Plateau,Jul,1425,,
+KAN0,Aug,453,flooded!!!,
+Kaduba,???,826,123,
+Ondo,Aug,1661,123,irrelevant
+Benue,Jun,220,Heavy rain,
+Kaduna,,72,123,
+Anambra,Mar,1960,flooded!!!,
+Taraba,Jul,1306,Heavy rain,###
+Plateau,Mar,1606,Heavy rain,
+Benue,Jun,1014,Dry season,###
+Benue,Oct,1603,,
+Enugu,May,102,flooded!!!,
+Kano,Oct,399,123,irrelevant
+Bauchi,Jan,307,,###
+Kaduna,Jul,1867,flooded!!!,###
+S0koto,Jan,242,,
+lagos ,Jan,1840,flooded!!!,irrelevant
+Bauchi,Oct,545,Heavy rain,###
+Bayelsa,???,1038,,irrelevant
+Imo,Mar,1440,Dry season,irrelevant
+Abla,Feb,1890,,irrelevant
+Kaduna,Sep,1765,Heavy rain,irrelevant
+Bayelsa,May,90,Dry season,
+Bayelsa,Mar,817,flooded!!!,
+Ekiti,???,477,flooded!!!,
+Abuja,May,683,123,
+S0koto,Sep,855,Dry season,
+Bayelsa,May,198,,###
+Ebonyi,May,1601,Dry season,
+Adamawa,Sep,1547,123,###
+crossriver,Jul,795,flooded!!!,###
+Ekiti,,307,Dry season,irrelevant
+Lagos,Oct,712,Dry season,
+Oyo,Apr,893,Dry season,###
+Zamfara,Nov,375,Dry season,###
+Enugu,Jan,812,Heavy rain,
+benue,Jun,1055,Dry season,###
+Bayelsa,Aug,227,,irrelevant
+Lagos,Sep,1665,,
+Benue,Aug,1758,flooded!!!,irrelevant
+Kwara,Aug,1797,123,###
+Oyo,Apr,261,Heavy rain,###
+Bayelsa,Jan,743,Heavy rain,###
+Kebbis,May,1977,123,
+Kano,May,553,Heavy rain,###
+kogi,,467,,
+Benue,Feb,1485,Heavy rain,
+Enugu,???,1037,123,###
+Delta,Dec,1479,,irrelevant
+KAN0,Mar,1023,flooded!!!,###
+Enugu,May,1188,123,irrelevant
+Kaduna,Sep,258,flooded!!!,
+Taraba,May,270,123,
+lagos ,Nov,1589,Heavy rain,###
+Kaduna,Jan,1945,flooded!!!,###
+Lagos,Aug,530,Dry season,
+Oyo,Jul,744,flooded!!!,irrelevant
+Kaduna,Dec,775,Dry season,###
+Taraba,Sep,36,flooded!!!,irrelevant
+Kaduna,Sep,289,Heavy rain,
+G0mbe,Oct,250,Heavy rain,
+katsina,Mar,766,Heavy rain,
+KAN0,Aug,1070,flooded!!!,###
+Bauchi,Sep,1501,,irrelevant
+S0koto,,1342,Heavy rain,
+lagos ,Sep,1909,Dry season,###
+Bayelsa,Nov,1095,flooded!!!,###
+crossriver,Jan,1729,123,irrelevant
+kogi,Apr,145,Heavy rain,###
+Enugu,Nov,1922,123,irrelevant
+KAN0,Apr,329,,irrelevant
+Rivers,May,1446,,
+benue,Mar,626,123,
+Oyo,May,1685,flooded!!!,###
+Kaduna,May,1373,Dry season,###
+Yobe,Oct,203,,irrelevant
+Kano,Apr,1134,123,###
+Kaduna,Nov,1303,123,
+lagos ,Nov,1443,123,irrelevant
+Bayelsa,Mar,1355,Dry season,###
+lagos ,May,737,Dry season,###
+Taraba,Oct,1147,,###
+Kebbis,Dec,1024,Heavy rain,irrelevant
+Jigawa,Jun,1867,flooded!!!,###
+Enugu,Feb,1568,,
+Bauchi,???,1055,123,###
+kogi,???,1322,Dry season,
+Abla,Feb,1425,Dry season,
+kogi,Sep,484,123,irrelevant
+Osun,,492,,###
+Niger,Mar,809,flooded!!!,irrelevant
+Ondo,Nov,1955,123,irrelevant
+Nasarawa,Oct,145,Dry season,
+Abla,Feb,748,Dry season,irrelevant
+Cross River,Apr,1270,Heavy rain,###
+Niger,Jul,347,Dry season,
+??Rivers,Dec,1325,Dry season,###
+Enugu,Aug,23,,irrelevant
+Kano,Dec,758,Heavy rain,
+??Rivers,Feb,1117,Dry season,###
+Kaduna,Oct,1602,Dry season,irrelevant
+Borno,Feb,1795,Dry season,irrelevant
+Taraba,Jun,573,Dry season,
+Abla,Sep,1817,Heavy rain,
+Cross River,???,878,123,
+Kebbis,Sep,1979,Dry season,###
+Taraba,Feb,333,flooded!!!,
+lagos ,???,387,123,###
+Niger,Jun,724,123,
+crossriver,Sep,1539,123,irrelevant
+Oyo,Feb,1,Heavy rain,
+G0mbe,May,1403,flooded!!!,###
+Kano,,1911,Dry season,###
+benue,Jul,794,Dry season,###
+Zamfara,Jul,1241,,
+Plateau,Apr,1330,Heavy rain,
+lagos ,Sep,573,flooded!!!,###
+Ebonyi,Apr,1700,Dry season,###
+??Rivers,Jun,1423,flooded!!!,###
+lagos ,Oct,684,Heavy rain,irrelevant
+Jigawa,Mar,31,123,###
+Yobe,Mar,62,Dry season,###
+Kwara,Jun,1016,Heavy rain,irrelevant
+Abla,,1538,Heavy rain,irrelevant
+gombe,Sep,774,,irrelevant
+Ondo,Mar,717,Heavy rain,
+Cross River,Jul,1330,123,###
+Kano,Jan,189,Dry season,###
+Benue,Nov,1825,,irrelevant
+Ekiti,???,176,Dry season,irrelevant
+gombe,May,932,Heavy rain,irrelevant
+lagos ,Jun,500,123,
+Anambra,Aug,147,123,
+Yobe,,602,flooded!!!,###
+Lagos,Jul,1547,flooded!!!,###
+Cross River,,1406,flooded!!!,irrelevant
+Kaduna,Dec,1010,123,###
+Oyo,Nov,1786,Dry season,
+Benue,Oct,370,123,###
+Nasarawa,Aug,1753,,
+Anambra,Dec,993,flooded!!!,
+??Rivers,,958,123,###
+katsina,Feb,1928,flooded!!!,irrelevant
+Kebbis,Mar,590,,###
+Benue,Oct,97,Dry season,
+Abuja,Jul,1906,Dry season,###
+Enugu,Nov,1727,Heavy rain,
+Niger,Jan,1433,Heavy rain,irrelevant
+Ekiti,,189,123,
+crossriver,Oct,555,Dry season,###
+Bayelsa,May,1132,flooded!!!,
+crossriver,Jan,1293,Heavy rain,###
+Niger,Dec,615,Dry season,###
+G0mbe,Nov,1962,flooded!!!,###
+Kebbis,Sep,727,Dry season,###
+Cross River,Jul,1217,Heavy rain,irrelevant
+gombe,Nov,683,,irrelevant
+Taraba,Jan,1184,,irrelevant
+Enugu,Aug,773,Dry season,irrelevant
+Kaduba,Dec,82,,
+Cross River,Oct,13,123,irrelevant
+Anambra,Mar,1674,,###
+Abla,Jan,119,Heavy rain,irrelevant
+Cross River,Sep,1700,123,###
+Imo,Sep,1777,,irrelevant
+Kwara,Sep,1524,Heavy rain,###
+Delta,,689,flooded!!!,irrelevant
+Jigawa,Mar,1579,Heavy rain,irrelevant
+Anambra,May,1351,Dry season,
+Ed0o,Jul,1350,,
+Benue,Oct,995,flooded!!!,irrelevant
+Kaduna,,1119,,###
+Adamawa,Dec,554,Heavy rain,###
+Anambra,Jun,1586,,irrelevant
+Bauchi,Apr,104,,###
+benue,Nov,888,123,
+??Rivers,Jun,123,,
+benue,May,86,Heavy rain,
+kogi,Aug,1553,123,irrelevant
+Ondo,Sep,888,123,
+Bayelsa,???,1676,Dry season,irrelevant
+Adamawa,,1759,,
+Kwara,Apr,744,Heavy rain,
+lagos ,Nov,170,Heavy rain,irrelevant
+Enugu,Nov,1754,,irrelevant
+Enugu,Oct,1773,123,irrelevant
+kogi,Jan,141,,
+Nasarawa,Dec,1511,Heavy rain,###
+Yobe,Mar,1414,Dry season,
+Anambra,Apr,1947,Heavy rain,irrelevant
+Yobe,???,236,123,irrelevant
+Cross River,Dec,624,flooded!!!,
+Plateau,Apr,185,Dry season,
+Benue,Aug,1056,Heavy rain,irrelevant
+Abla,Dec,1834,flooded!!!,###
+Kwara,May,744,Heavy rain,
+Delta,Feb,1560,123,irrelevant
+Ebonyi,Jan,561,Dry season,###
+Kaduba,Nov,1755,123,###
+KAN0,Sep,137,,
+Abla,Sep,708,123,irrelevant
+Kaduna,Jun,166,,###
+Bauchi,Aug,1239,Heavy rain,###
+KAN0,Mar,1553,,
+Ogun,Aug,62,Dry season,###
+Niger,Dec,1586,Heavy rain,###
+Ogun,Nov,755,flooded!!!,###
+lagos ,Apr,652,Heavy rain,
+Taraba,,731,123,irrelevant
+Delta,Mar,1512,Heavy rain,irrelevant
+Lagos,Oct,1473,,###
+Jigawa,Apr,1217,Heavy rain,
+kogi,Apr,1765,123,irrelevant
+Oyo,Feb,788,123,irrelevant
+Bayelsa,Aug,768,Dry season,###
+Lagos,Jul,846,flooded!!!,
+Nasarawa,Jul,1971,Heavy rain,irrelevant
+Kano,Nov,835,,irrelevant
+Ed0o,Dec,1854,flooded!!!,
+Rivers,Jun,1408,Dry season,###
+Osun,May,1397,,
+crossriver,Nov,1596,123,irrelevant
+Ondo,Dec,945,flooded!!!,
+Kaduna,Mar,1909,Heavy rain,irrelevant
+kogi,Jul,1228,Heavy rain,
+Ogun,???,832,Heavy rain,###
+Kaduna,Nov,1457,,###
+katsina,Jun,1399,Dry season,
+Lagos,,1616,Dry season,###
+Ebonyi,???,79,flooded!!!,irrelevant
+Kwara,Aug,150,Dry season,###
+Bauchi,Dec,1759,Heavy rain,###
+Rivers,Oct,1343,Heavy rain,
+Cross River,Feb,486,123,###
+S0koto,Feb,1657,flooded!!!,###
+S0koto,May,362,Heavy rain,###
+Enugu,Nov,448,Heavy rain,
+Zamfara,Sep,527,,###
+Cross River,,1158,,irrelevant
+Nasarawa,Mar,1130,Heavy rain,###
+Kwara,Jun,803,,###
+Rivers,Dec,458,Dry season,###
+Ed0o,,1714,123,
+katsina,???,814,Heavy rain,
+Kaduba,Sep,641,123,irrelevant
+lagos ,May,1459,,irrelevant
+Zamfara,Apr,1074,,irrelevant
+Kebbis,Feb,725,Dry season,
+Ekiti,Aug,1759,Dry season,###
+Imo,Dec,1196,Dry season,
+Cross River,Sep,1627,,irrelevant
+Abla,???,1746,123,###
+Cross River,Feb,1351,123,irrelevant
+Taraba,Oct,73,flooded!!!,
+Bayelsa,Sep,1969,,###
+Ekiti,Jan,1812,flooded!!!,
+kogi,Mar,1350,Heavy rain,
+Zamfara,Dec,38,Dry season,
+Kaduna,Dec,1549,,
+Kaduba,Mar,572,123,###
+Zamfara,Jul,1741,flooded!!!,
+Taraba,Feb,1559,,irrelevant
+Ebonyi,Feb,1920,,
+Ebonyi,Feb,1306,Dry season,
+Abuja,Mar,1964,,
+Ekiti,May,651,flooded!!!,###
+Yobe,Apr,246,Dry season,###
+Borno,Sep,523,123,
+Anambra,,851,,irrelevant
+crossriver,Jul,257,,
+Kaduba,May,789,Heavy rain,
+benue,Dec,624,Heavy rain,
+Osun,Jun,1424,Heavy rain,
+gombe,May,149,123,
+Ogun,Jun,601,flooded!!!,irrelevant
+Taraba,Feb,26,flooded!!!,
+Kaduna,Aug,956,flooded!!!,irrelevant
+Enugu,Jan,663,123,
+Ondo,Jun,1320,flooded!!!,irrelevant
+S0koto,???,32,Heavy rain,###
+benue,Mar,1464,,irrelevant
+Ondo,Dec,380,flooded!!!,
+Ogun,Jun,102,Dry season,###
+Anambra,Dec,1723,flooded!!!,irrelevant
+Borno,Oct,613,flooded!!!,###
+kogi,Feb,1751,,
+Benue,Mar,1502,123,###
+Kwara,Aug,143,Dry season,###
+Borno,Mar,717,Heavy rain,###
+Abuja,Mar,232,Heavy rain,###
+Cross River,Oct,1917,Dry season,###
+Enugu,Jun,1895,flooded!!!,
+Benue,Jul,1286,Dry season,irrelevant
+Ogun,Jan,1294,,
+Niger,Aug,1439,,###
+G0mbe,Jun,528,Heavy rain,irrelevant
+Plateau,Apr,58,123,irrelevant
+Ekiti,Apr,587,Dry season,
+Nasarawa,Feb,1472,123,###
+Lagos,Apr,1704,123,
+Ebonyi,Sep,475,flooded!!!,irrelevant
+Osun,,698,,###
+Ebonyi,Nov,200,flooded!!!,irrelevant
+Enugu,Jan,1826,Heavy rain,###
+Imo,???,109,flooded!!!,irrelevant
+Abla,Jun,1848,Heavy rain,
+Kaduna,Mar,1028,flooded!!!,###
+Kano,Jan,1554,flooded!!!,
+Abuja,Jun,683,Heavy rain,###
+Lagos,Apr,1414,Heavy rain,irrelevant
+Ogun,Oct,1559,,
+Kaduna,May,1929,Dry season,###
+S0koto,May,1824,123,###
+Kwara,???,1313,flooded!!!,irrelevant
+Kano,Aug,695,Heavy rain,
+Plateau,Feb,746,,irrelevant
+Niger,Jun,299,Heavy rain,###
+Taraba,Dec,1226,Dry season,###
+??Rivers,Jul,1144,,###
+Abuja,Jun,1362,Dry season,
+Kaduna,Oct,479,123,irrelevant
+Kwara,Mar,544,Dry season,irrelevant
+Ed0o,Apr,465,Heavy rain,
+Osun,Apr,1413,123,###
+Abuja,Dec,411,Dry season,
+G0mbe,???,457,Dry season,###
+katsina,Mar,371,,
+kogi,Mar,651,Heavy rain,
+kogi,Aug,912,Dry season,###
+Nasarawa,Apr,275,Dry season,
+Delta,Mar,500,Heavy rain,irrelevant
+Bayelsa,Oct,791,123,###
+Rivers,Jul,658,,irrelevant
+Anambra,Jul,54,,
+Jigawa,May,1278,,
+Ebonyi,,889,flooded!!!,
+Rivers,Dec,584,,###
+Kano,Jun,1712,123,###
+Osun,Apr,247,flooded!!!,
+Ebonyi,May,890,flooded!!!,irrelevant
+Kaduba,Jan,1543,flooded!!!,irrelevant
+Abuja,,88,123,###
+Ebonyi,Jan,1920,Heavy rain,irrelevant
+Borno,Aug,1448,123,###
+Anambra,Dec,1165,Heavy rain,
+Anambra,Jan,1434,123,irrelevant
+Adamawa,,410,Dry season,###
+Kaduna,???,563,flooded!!!,
+Nasarawa,Aug,1363,Dry season,
+Enugu,Jan,1386,,irrelevant
+Enugu,Aug,1587,Dry season,
+Oyo,Mar,348,Heavy rain,###
+Abuja,Jan,1852,Dry season,###
+Abuja,???,1751,flooded!!!,###
+KAN0,May,1138,flooded!!!,
+Abla,Dec,692,flooded!!!,###
+benue,Jul,1332,flooded!!!,irrelevant
+KAN0,Nov,750,123,###
+Ondo,Sep,1691,Dry season,irrelevant
+benue,May,732,Heavy rain,irrelevant
+Anambra,May,243,Heavy rain,irrelevant
+Jigawa,???,134,Heavy rain,
+katsina,Jul,898,Heavy rain,###
+Taraba,Feb,22,Dry season,###
+G0mbe,Nov,239,Dry season,
+Lagos,Feb,725,Dry season,
+Ondo,Nov,1662,Dry season,
+Bayelsa,Jul,1026,,
+gombe,Nov,1755,Heavy rain,
+Anambra,Oct,1450,,irrelevant
+Niger,Dec,1320,123,
+Kaduba,Oct,1473,Heavy rain,irrelevant
+Ed0o,Mar,1893,flooded!!!,
+Yobe,May,176,flooded!!!,###
+Ed0o,Jun,332,Heavy rain,
+Benue,Mar,1945,,irrelevant
+katsina,May,706,Heavy rain,irrelevant
+Kebbis,Jul,1450,Heavy rain,###
+Cross River,Jun,1227,flooded!!!,
+S0koto,Jan,550,Heavy rain,
+Jigawa,Oct,661,Dry season,###
+Cross River,Oct,1985,Heavy rain,
+Ebonyi,Aug,1663,123,irrelevant
+Anambra,Apr,1507,Dry season,irrelevant
+Adamawa,May,669,flooded!!!,irrelevant
+Adamawa,,534,Heavy rain,
+Ondo,Apr,778,,irrelevant
+Adamawa,Oct,610,Dry season,
+Ogun,May,865,Dry season,###
+Niger,???,267,Dry season,irrelevant
+Nasarawa,Apr,450,,
+katsina,May,663,Heavy rain,
+Ondo,Aug,1360,,###
+benue,???,1974,,###
+lagos ,Feb,398,123,
+Anambra,Aug,809,,irrelevant
+Kaduna,Apr,1184,Heavy rain,
+Kwara,Feb,403,Dry season,###
+??Rivers,Jul,1098,Heavy rain,
+Delta,Feb,1286,flooded!!!,###
+Zamfara,Feb,1440,,irrelevant
+Bayelsa,Dec,1966,123,
+Ekiti,Mar,1828,Heavy rain,###
+Oyo,Feb,837,flooded!!!,###
+Osun,Jul,1982,Heavy rain,
+Yobe,Mar,1491,123,
+Ebonyi,Jun,279,,
+KAN0,Nov,964,,###
+Kaduna,Jun,1634,flooded!!!,###
+Enugu,,128,,###
+Ebonyi,Sep,1307,flooded!!!,
+Plateau,Nov,335,Heavy rain,###
+Bauchi,Nov,1360,,irrelevant
+Ekiti,Dec,803,123,###
+Ondo,Jan,1635,flooded!!!,###
+Cross River,Dec,1783,flooded!!!,
+Nasarawa,Jul,721,Heavy rain,irrelevant
+Bayelsa,Nov,1473,,irrelevant
+Kaduba,,117,123,
+crossriver,Sep,844,123,irrelevant
+Abuja,Jun,882,Dry season,###
+Kebbis,Jan,962,Dry season,###
+gombe,Feb,1401,Heavy rain,irrelevant
+Anambra,May,1757,Dry season,###
+Osun,Jul,1205,,
+kogi,Jul,160,Heavy rain,
+Ebonyi,Mar,1173,flooded!!!,
+Abuja,Oct,957,Heavy rain,###
+Borno,Aug,216,Dry season,irrelevant
+Osun,Mar,1736,Dry season,
+Enugu,Jan,1940,Dry season,irrelevant
+Kebbis,May,1294,Heavy rain,###
+Taraba,Jan,1949,,
+KAN0,,1049,123,irrelevant
+S0koto,Feb,291,flooded!!!,
+Nasarawa,Nov,1720,123,###
+Rivers,Jan,352,flooded!!!,###
+Cross River,Jun,377,123,irrelevant
+Abuja,Feb,1026,Heavy rain,irrelevant
+Bauchi,,110,,irrelevant
+Jigawa,Jul,1495,Dry season,
+Kaduna,Jan,1584,flooded!!!,
+Abuja,Sep,903,Heavy rain,
+Anambra,Dec,1132,123,
+Abla,Oct,1410,123,
+Kano,,1798,123,
+gombe,Feb,846,Heavy rain,###
+Ed0o,Sep,1583,flooded!!!,irrelevant
+??Rivers,Jan,1368,,irrelevant
+S0koto,Sep,1729,Heavy rain,
+Ed0o,Feb,1798,,irrelevant
+Taraba,Jul,534,,irrelevant
+Imo,Oct,270,Dry season,
+Jigawa,Oct,1095,Heavy rain,###
+gombe,Nov,189,123,irrelevant
+Bauchi,Feb,1709,,
+Cross River,,503,123,###
+Anambra,???,559,123,
+Ogun,Apr,787,,irrelevant
+Osun,Jul,633,,
+gombe,Jan,1456,,###
+Enugu,Sep,819,flooded!!!,###
+Ebonyi,Apr,955,flooded!!!,###
+Ogun,Jul,581,Dry season,###
+kogi,Apr,1944,123,###
+Nasarawa,Sep,1140,,
+Ebonyi,Aug,1165,Heavy rain,
+lagos ,Jun,1175,Heavy rain,###
+S0koto,Nov,511,Dry season,###
+Benue,Apr,626,Heavy rain,irrelevant
+Yobe,May,1861,Heavy rain,###
+Kebbis,???,693,Dry season,
+Imo,Dec,392,Heavy rain,
+Plateau,May,1148,flooded!!!,irrelevant
+Ekiti,Sep,1899,Heavy rain,###
+Lagos,???,1217,Dry season,###
+Yobe,May,1519,Dry season,
+Rivers,Jan,1036,Heavy rain,###
+Kaduna,Mar,1208,,###
+Delta,Nov,394,flooded!!!,
+Delta,Nov,163,Heavy rain,irrelevant
+S0koto,,625,123,###
+Kaduba,Dec,1775,,###
+Niger,Dec,463,123,###
+Ogun,Nov,1909,123,###
+??Rivers,Mar,885,Dry season,
+gombe,Apr,770,,irrelevant
+Benue,Apr,1746,Heavy rain,irrelevant
+Bayelsa,Oct,187,,
+Bayelsa,Feb,1357,Heavy rain,irrelevant
+Imo,Dec,577,123,irrelevant
+Kwara,,562,,###
+Abuja,,1752,Dry season,###
+Ogun,Jan,1139,Dry season,irrelevant
+kogi,Nov,52,Dry season,irrelevant
+Bayelsa,Nov,1659,Heavy rain,###
+Lagos,Nov,1978,,irrelevant
+Adamawa,Jun,1903,Heavy rain,###
+Kano,Oct,1532,Heavy rain,irrelevant
+katsina,Mar,1338,123,irrelevant
+Borno,Feb,157,Heavy rain,irrelevant
+Oyo,Apr,926,,irrelevant
+Cross River,Jun,1780,Heavy rain,irrelevant
+Kaduba,Jan,202,123,###
+Ondo,Jul,1124,Heavy rain,irrelevant
+Bayelsa,Oct,715,flooded!!!,irrelevant
+Ogun,Nov,1588,Heavy rain,###
+Anambra,Dec,1138,flooded!!!,
+Delta,May,1946,Heavy rain,
+Plateau,,1356,flooded!!!,irrelevant
+Zamfara,Apr,1774,Heavy rain,irrelevant
+Kaduba,Feb,142,Dry season,irrelevant
+G0mbe,???,1109,flooded!!!,###
+Osun,Aug,123,,###
+Kebbis,Aug,288,flooded!!!,
+Ondo,???,1976,Dry season,irrelevant
+kogi,Mar,686,123,irrelevant
+Enugu,May,1455,Dry season,
+Bayelsa,Jun,1721,Heavy rain,irrelevant
+Benue,???,625,Dry season,
+Abla,???,9,flooded!!!,###
+Jigawa,Apr,255,Heavy rain,irrelevant
+crossriver,Aug,308,Dry season,irrelevant
+Osun,Jul,1295,,###
+Kwara,Jul,264,Heavy rain,irrelevant
+Taraba,Sep,460,flooded!!!,irrelevant
+Ekiti,Aug,1597,Dry season,###
+Oyo,Nov,1916,flooded!!!,###
+Kaduna,Oct,1610,flooded!!!,###
+Zamfara,Dec,1503,flooded!!!,###
+Ebonyi,Jun,557,123,irrelevant
+G0mbe,Mar,802,Dry season,irrelevant
+Kebbis,Dec,884,,###
+Ebonyi,Feb,1688,,irrelevant
+Adamawa,Nov,1236,,###
+??Rivers,Jan,789,,
+Ebonyi,Jan,514,flooded!!!,
+Taraba,May,1975,Dry season,###
+Enugu,Dec,441,Dry season,irrelevant
+Ondo,May,790,Dry season,
+benue,Oct,1578,flooded!!!,irrelevant
+Benue,Jul,676,123,
+Kaduna,Jul,1359,,irrelevant
+Taraba,Apr,1412,Dry season,###
+Lagos,Jun,921,Heavy rain,
+S0koto,Nov,1869,123,###
+Ondo,Dec,1722,Dry season,
+Ebonyi,Apr,1092,123,
+Oyo,Sep,1181,,
+gombe,Mar,419,123,###
+Plateau,Mar,981,flooded!!!,###
+Yobe,???,668,Heavy rain,
+Kano,Nov,1170,123,irrelevant
+Borno,Jan,358,,###
+Ekiti,May,1570,Heavy rain,irrelevant
+Borno,,166,flooded!!!,###
+Kebbis,,709,flooded!!!,
+Kwara,Nov,494,Heavy rain,irrelevant
+Kwara,Jun,645,Dry season,irrelevant
+Jigawa,Apr,338,,irrelevant
+Anambra,,35,Heavy rain,irrelevant
+Jigawa,Jul,1765,,###
+Niger,Aug,1767,,###
+Osun,Apr,173,123,
+Anambra,???,195,,
+kogi,Aug,594,Heavy rain,
+Anambra,Nov,1006,Dry season,irrelevant
+G0mbe,Apr,383,Dry season,###
+Adamawa,Apr,512,,irrelevant
+Enugu,Jan,81,Dry season,###
+Kebbis,Oct,864,Heavy rain,###
+Enugu,Aug,1069,123,###
+Delta,Jul,1422,Dry season,###
+Ebonyi,Dec,53,123,###
+Kaduna,,271,Heavy rain,irrelevant
+Bayelsa,Mar,403,123,###
+Abuja,May,693,Dry season,
+Adamawa,Mar,708,Dry season,
+S0koto,Dec,873,Dry season,irrelevant
+Taraba,May,325,,
+Ekiti,Jun,1031,Dry season,irrelevant
+Cross River,Jan,440,Heavy rain,###
+Benue,Sep,162,Dry season,irrelevant
+Yobe,Oct,1087,Heavy rain,###
+Ogun,???,1344,123,irrelevant
+Enugu,Jan,62,Heavy rain,###
+Zamfara,Jun,1642,Heavy rain,irrelevant
+S0koto,Oct,1229,flooded!!!,irrelevant
+Ondo,Dec,796,Dry season,irrelevant
+Kaduna,Dec,651,123,###
+Abuja,Sep,1896,Heavy rain,###
+Kebbis,Jan,1777,Dry season,
+S0koto,Dec,1847,Heavy rain,
+Adamawa,Oct,1768,,irrelevant
+S0koto,Apr,1199,Dry season,
+Imo,???,218,Heavy rain,###
+Taraba,May,1467,flooded!!!,irrelevant
+Yobe,Feb,395,Heavy rain,
+Kano,Dec,1502,,###
+KAN0,???,112,Heavy rain,irrelevant
+kogi,Mar,557,Dry season,irrelevant
+Enugu,Aug,30,123,irrelevant
+kogi,Oct,1158,,
+S0koto,Dec,1039,flooded!!!,
+Zamfara,,1401,Heavy rain,irrelevant
+Kebbis,Apr,1883,flooded!!!,###
+kogi,???,1051,123,###
+G0mbe,Sep,1562,flooded!!!,irrelevant
+Zamfara,Jul,797,,
+Osun,Jan,581,flooded!!!,
+Ogun,Dec,565,123,
+??Rivers,Feb,119,Heavy rain,###
+benue,,1021,Heavy rain,###
+Ogun,May,1597,Heavy rain,irrelevant
+lagos ,May,1192,flooded!!!,irrelevant
+Lagos,Oct,220,123,irrelevant
+katsina,Jun,848,Heavy rain,
+Ed0o,,687,flooded!!!,irrelevant
+Zamfara,Oct,676,Heavy rain,
+Bauchi,Oct,507,Dry season,
+Abla,May,101,123,irrelevant
+Borno,Jul,943,123,irrelevant
+Kebbis,Nov,1834,flooded!!!,irrelevant
+Niger,Jul,856,flooded!!!,
+Abla,Jun,1618,Heavy rain,###
+G0mbe,Sep,1199,Dry season,irrelevant
+Enugu,Sep,1000,flooded!!!,
+Ogun,???,416,,###
+Nasarawa,Dec,837,123,
+Kaduna,Mar,1984,Dry season,###
+Kebbis,Jan,1324,Heavy rain,
+Nasarawa,???,1573,Heavy rain,###
+Osun,Dec,1847,Dry season,irrelevant
+Bauchi,,1893,Dry season,###
+G0mbe,,208,Dry season,###
+gombe,Jan,665,123,irrelevant
+Rivers,Jul,1532,Heavy rain,irrelevant
+Kaduna,???,519,123,
+Lagos,Oct,661,Dry season,irrelevant
+Kaduna,Feb,1863,Dry season,
+Abla,Oct,1823,Heavy rain,irrelevant
+Anambra,Feb,496,123,irrelevant
+Osun,Dec,9,123,###
+KAN0,Apr,952,Heavy rain,###
+Kaduna,Nov,1039,Dry season,irrelevant
+Ebonyi,Aug,1664,,###
+Plateau,Oct,610,Dry season,
+Lagos,May,1485,flooded!!!,irrelevant
+Anambra,Mar,464,Dry season,irrelevant
+Bauchi,Sep,1597,Dry season,###
+KAN0,???,653,Heavy rain,irrelevant
+Lagos,Feb,14,,irrelevant
+Oyo,Jul,1862,Dry season,###
+Cross River,May,1746,flooded!!!,
+Adamawa,Feb,1769,flooded!!!,irrelevant
+Abla,Aug,732,Heavy rain,###
+Cross River,Nov,289,flooded!!!,
+Ogun,Sep,1831,123,
+Ogun,,309,,
+Oyo,Sep,1867,123,###
+Adamawa,Sep,1428,,###
+Yobe,Nov,773,Heavy rain,
+crossriver,Nov,35,Heavy rain,
+Anambra,,715,Heavy rain,###
+Kwara,Jul,1292,Dry season,
+Enugu,Jan,654,Heavy rain,
+Kaduba,May,841,Dry season,
+KAN0,Jul,1406,123,
+kogi,Apr,531,Dry season,###
+Rivers,May,462,,irrelevant
+Borno,Jun,1877,flooded!!!,
+Enugu,???,573,,###
+Zamfara,Oct,1314,,
+Ogun,Dec,1733,flooded!!!,irrelevant
+Bayelsa,Mar,1029,flooded!!!,###
+Ogun,,667,123,
+KAN0,May,718,Heavy rain,###
+Osun,Nov,1482,flooded!!!,###
+Cross River,Oct,625,Dry season,irrelevant
+benue,???,1833,Dry season,
+Ed0o,Dec,1803,,###
+Oyo,,358,flooded!!!,
+kogi,Feb,463,Heavy rain,
+benue,,21,Heavy rain,
+Oyo,,344,flooded!!!,
+Kaduba,Jun,607,flooded!!!,
+Yobe,Jan,1841,123,irrelevant
+Nasarawa,Nov,667,Dry season,
+Delta,Feb,1420,Dry season,###
+benue,???,955,123,
+Borno,Jan,1313,,irrelevant
+Imo,Jan,1111,123,###
+G0mbe,???,46,,irrelevant
+Ondo,Mar,361,,###
+Nasarawa,Jul,1229,123,###
+Oyo,Aug,989,flooded!!!,
+Benue,Jan,868,flooded!!!,
+Ekiti,Jan,1866,Dry season,
+Adamawa,May,239,Heavy rain,###
+Jigawa,???,285,flooded!!!,
+Osun,Aug,923,Heavy rain,###
+Abuja,Apr,193,123,irrelevant
+Kebbis,,1763,Heavy rain,###
+Anambra,Sep,854,,
+Zamfara,Apr,336,123,
+Ed0o,,366,Heavy rain,
+Jigawa,May,1288,123,irrelevant
+S0koto,,1391,,###
+Borno,Jan,327,Dry season,
+Ebonyi,Aug,1379,flooded!!!,
+gombe,Oct,147,,irrelevant
+Delta,Oct,972,Heavy rain,
+Abuja,Apr,1568,123,irrelevant
+benue,Feb,1510,Dry season,
+Abuja,Sep,1915,flooded!!!,
+Niger,Oct,820,,###
+G0mbe,Dec,687,flooded!!!,irrelevant
+Kebbis,Apr,1155,flooded!!!,###
+Kebbis,Aug,397,Dry season,
+Imo,Mar,1992,flooded!!!,
+Abla,Nov,1696,Heavy rain,###
+Plateau,Jul,1488,Heavy rain,irrelevant
+Imo,Nov,714,Dry season,
+Anambra,,1546,flooded!!!,irrelevant
+Adamawa,Jun,51,Dry season,irrelevant
+Ondo,Sep,1015,Heavy rain,irrelevant
+Kebbis,Dec,348,Heavy rain,irrelevant
+Niger,Sep,93,,###
+Zamfara,Sep,1853,Heavy rain,irrelevant
+Kaduna,Mar,1496,,irrelevant
+benue,Feb,509,123,###
+Osun,Apr,1244,flooded!!!,irrelevant
+Benue,Dec,79,Dry season,###
+crossriver,???,1349,,
+Benue,Apr,900,flooded!!!,
+??Rivers,Aug,1232,flooded!!!,###
+Kebbis,Nov,1634,123,
+Ondo,Mar,1971,,irrelevant
+Delta,Feb,1347,flooded!!!,irrelevant
+benue,May,1115,,###
+Ed0o,Apr,1656,Heavy rain,###
+Bayelsa,Jul,1223,,
+Abuja,Aug,1540,Dry season,irrelevant
+Imo,Nov,584,Dry season,
+Adamawa,Oct,1660,flooded!!!,###
+lagos ,Jul,624,123,
+Imo,Sep,1933,Dry season,irrelevant
+Ogun,Feb,1574,flooded!!!,irrelevant
+G0mbe,Jul,1297,flooded!!!,irrelevant
+Abuja,Aug,1027,flooded!!!,
+Osun,Dec,1699,Heavy rain,
+Zamfara,Aug,1866,123,###
+Borno,Oct,797,,irrelevant
+Ogun,Jun,1889,flooded!!!,
+Lagos,Apr,505,123,irrelevant
+Kaduna,Dec,727,flooded!!!,irrelevant
+Ekiti,Apr,1776,Dry season,irrelevant
+Yobe,Jan,1322,flooded!!!,###
+Adamawa,Jun,761,,irrelevant
+Benue,Sep,1777,flooded!!!,irrelevant
+Kaduba,Nov,1411,123,
+Benue,???,622,Dry season,
+G0mbe,Aug,1513,flooded!!!,###
+Kwara,May,1959,Heavy rain,irrelevant
+Niger,,660,Heavy rain,###
+Cross River,Dec,1938,,irrelevant
+Ondo,Aug,1190,123,
+Kaduba,Oct,553,Heavy rain,###
+Enugu,???,658,flooded!!!,###
+Niger,Nov,482,123,###
+Kebbis,Jul,800,flooded!!!,###
+gombe,Jan,132,,
+Cross River,Dec,862,Dry season,
+Kaduba,Sep,1878,Heavy rain,irrelevant
+Benue,Jul,423,123,###
+Adamawa,Feb,1368,,###
+Enugu,Oct,1888,Dry season,###
+Lagos,Jan,494,flooded!!!,
+??Rivers,May,1629,123,irrelevant
+Bayelsa,Jan,1214,Heavy rain,
+Kwara,Feb,1926,flooded!!!,###
+Enugu,Sep,1963,flooded!!!,
+Delta,Dec,738,Dry season,###
+Rivers,Aug,577,,###
+Anambra,Apr,1404,flooded!!!,irrelevant
+Cross River,Sep,438,,
+lagos ,Nov,1295,123,irrelevant
+benue,Apr,1333,,
+Plateau,May,76,Heavy rain,
+??Rivers,,1836,Heavy rain,irrelevant
+Plateau,Feb,604,123,###
+Abla,Aug,1230,,irrelevant
+G0mbe,Jul,1857,123,###
+Abla,Nov,1152,123,irrelevant
+Adamawa,Oct,352,123,irrelevant
+Nasarawa,???,112,Heavy rain,###
+Lagos,Apr,1189,flooded!!!,irrelevant
+Ogun,Feb,142,flooded!!!,
+Niger,Aug,412,123,###
+Kaduna,Sep,454,flooded!!!,irrelevant
+Cross River,Dec,1026,Dry season,irrelevant
+Anambra,Sep,1305,123,
+Adamawa,???,1909,123,
+Imo,Feb,293,123,irrelevant
+Anambra,May,1212,,
+Taraba,May,1118,123,irrelevant
+??Rivers,Mar,1661,123,irrelevant
+benue,Jan,860,,
+Taraba,???,768,flooded!!!,irrelevant
+Nasarawa,Mar,182,flooded!!!,###
+Enugu,,818,123,irrelevant
+Imo,Apr,135,Heavy rain,
+Cross River,Aug,250,flooded!!!,
+Ekiti,Nov,1492,Dry season,irrelevant
+Kwara,Nov,127,123,
+Zamfara,Sep,1108,flooded!!!,
+Cross River,Mar,149,123,###
+??Rivers,Mar,919,Heavy rain,irrelevant
+KAN0,Nov,102,Dry season,irrelevant
+Zamfara,Sep,1776,,irrelevant
+Bayelsa,Jul,1211,Dry season,irrelevant
+Nasarawa,Sep,928,Heavy rain,
+Abla,Feb,245,flooded!!!,
+Zamfara,Sep,963,Heavy rain,irrelevant
+Lagos,,1183,123,
+Benue,Oct,1740,Heavy rain,###
+Kaduba,,182,Dry season,irrelevant
+Anambra,Aug,1713,flooded!!!,
+Yobe,Jul,1366,Dry season,
+gombe,Feb,37,Dry season,irrelevant
+Kaduna,Oct,1005,Dry season,
+Cross River,Feb,1269,Heavy rain,
+G0mbe,Jan,897,Heavy rain,###
+Benue,???,1863,,irrelevant
+Anambra,Dec,1345,123,irrelevant
+Kwara,Apr,1200,123,###
+Lagos,Aug,113,123,###
+Bayelsa,???,1560,flooded!!!,
+Zamfara,Aug,1512,Heavy rain,###
+Jigawa,May,1572,,###
+Bayelsa,Apr,1727,123,
+Nasarawa,Mar,1206,,
+Adamawa,,59,,###
+Kaduna,Sep,1668,Dry season,
+katsina,Feb,751,Dry season,###
+Enugu,Jul,1537,Dry season,irrelevant
+Anambra,Oct,442,Heavy rain,
+Oyo,Feb,585,123,###
+Abuja,Oct,1987,,irrelevant
+Abla,Dec,1664,,###
+S0koto,Jul,352,,irrelevant
+Kwara,???,1859,,
+Ogun,May,913,,###
+Kwara,Nov,897,123,###
+Zamfara,Dec,1135,flooded!!!,irrelevant
+Enugu,Jan,260,,
+Kaduba,Nov,950,flooded!!!,irrelevant
+Plateau,???,8,123,irrelevant
+Jigawa,Oct,1772,123,
+Enugu,May,446,Dry season,###
+Ebonyi,Jul,1331,Dry season,###
+Niger,Jan,827,,###
+Bauchi,Jul,776,Dry season,###
+Bauchi,May,1108,flooded!!!,
+Kano,Oct,1379,,irrelevant
+G0mbe,May,1896,,###
+Kaduba,Dec,907,flooded!!!,irrelevant
+Ekiti,Oct,1727,Heavy rain,###
+Osun,May,1816,123,
+Oyo,Jan,1088,Heavy rain,
+Enugu,Nov,1731,Dry season,###
+Abla,Apr,1293,123,irrelevant
+Osun,Mar,602,Heavy rain,irrelevant
+Kebbis,Aug,134,123,
+Kaduba,Jan,1481,123,
+Cross River,Oct,1322,flooded!!!,###
+Rivers,???,1951,Heavy rain,
+crossriver,,91,Heavy rain,
+Kwara,Nov,42,Heavy rain,###
+Kano,Sep,1795,123,###
+??Rivers,???,1458,Heavy rain,
+Bayelsa,Nov,1698,flooded!!!,irrelevant
+Ebonyi,Jan,584,Heavy rain,irrelevant
+Ekiti,Oct,15,,irrelevant
+Delta,Jun,355,flooded!!!,###
+Kaduna,,1090,Heavy rain,###
+Zamfara,Nov,142,Dry season,irrelevant
+Kano,Mar,1095,Heavy rain,irrelevant
+Imo,Jul,1609,Dry season,irrelevant
+lagos ,,1627,Dry season,irrelevant
+Benue,Nov,229,flooded!!!,
+G0mbe,Aug,1536,123,irrelevant
+Niger,May,1809,Heavy rain,###
+Kano,Oct,417,flooded!!!,irrelevant
+Enugu,Jun,160,,irrelevant
+Ekiti,Aug,3,Dry season,
+Kano,,53,Dry season,
+Kaduba,May,60,,irrelevant
+Oyo,Dec,955,Dry season,###
+Jigawa,May,983,Dry season,
+Kwara,Aug,1341,123,###
+Ogun,Jun,955,,irrelevant
+Borno,Jun,334,flooded!!!,irrelevant
+Adamawa,Oct,1783,Heavy rain,
+Oyo,Oct,1084,123,
+Delta,Aug,539,Dry season,irrelevant
+Benue,Aug,1427,flooded!!!,
+Osun,Feb,1594,Dry season,
+Ed0o,Apr,1200,Heavy rain,###
+Anambra,Jan,1875,Dry season,irrelevant
+KAN0,Apr,153,Dry season,irrelevant
+Ekiti,May,188,flooded!!!,irrelevant
+Oyo,Apr,269,flooded!!!,irrelevant
+Anambra,Jul,1317,Dry season,###
+Ebonyi,Jan,1210,Dry season,###
+Kebbis,Apr,467,Heavy rain,
+S0koto,Oct,1544,123,
+??Rivers,Aug,505,123,
+KAN0,Mar,749,,###
+Kaduna,Feb,841,Heavy rain,irrelevant
+katsina,Feb,413,Heavy rain,irrelevant
+Ed0o,,1276,flooded!!!,
+Ed0o,Dec,210,,
+Ogun,Apr,1800,Dry season,irrelevant
+Ebonyi,May,1640,Heavy rain,
+gombe,May,1999,Dry season,irrelevant
+Rivers,Aug,626,flooded!!!,###
+Imo,,435,flooded!!!,###
+Anambra,Mar,1319,123,###
+Kano,Apr,1772,123,
+Zamfara,Feb,249,flooded!!!,###
+G0mbe,Jan,1513,,
+katsina,Dec,460,Heavy rain,
+gombe,Sep,1714,Dry season,
+S0koto,Jul,1690,Heavy rain,###
+Cross River,Apr,1560,Dry season,
+Bauchi,Apr,386,123,
+Anambra,Jun,1200,Heavy rain,irrelevant
+Osun,Oct,1949,Dry season,###
+Borno,Apr,67,,
+Anambra,Aug,1402,Heavy rain,
+Adamawa,Feb,1961,flooded!!!,
+Kwara,Feb,980,,irrelevant
+Enugu,May,1716,Dry season,irrelevant
+Plateau,???,503,flooded!!!,
+Anambra,Mar,664,Heavy rain,irrelevant
+Ebonyi,Dec,39,,
+Kaduna,Apr,1198,Dry season,###
+??Rivers,Sep,359,flooded!!!,irrelevant
+Kebbis,???,1815,,
+katsina,Aug,791,Heavy rain,
+Osun,Nov,1466,Dry season,irrelevant
+Jigawa,Jun,1460,Heavy rain,irrelevant
+Bayelsa,Oct,170,Heavy rain,
+Yobe,Dec,225,Heavy rain,
+Delta,,390,Dry season,###
+Kebbis,,913,123,
+Plateau,Aug,1510,flooded!!!,###
+Bayelsa,Apr,412,123,irrelevant
+Oyo,Aug,168,,###
+Cross River,,1421,Heavy rain,###
+Ondo,,398,Dry season,###
+Abla,Sep,785,Dry season,###
+??Rivers,Jun,272,Heavy rain,
+Zamfara,Jul,1262,flooded!!!,irrelevant
+Anambra,Mar,952,,irrelevant
+Niger,Apr,1647,Heavy rain,irrelevant
+Niger,Mar,1771,Heavy rain,###
+Anambra,Aug,431,123,###
+gombe,???,1735,,irrelevant
+Bauchi,Apr,785,Dry season,###
+Kaduba,Apr,1655,flooded!!!,
+Nasarawa,Dec,1327,,irrelevant
+Ekiti,Feb,1190,Dry season,irrelevant
+Kaduba,Jun,1414,123,###
+??Rivers,???,1443,Heavy rain,
+lagos ,Jun,60,flooded!!!,
+Kaduna,,102,Heavy rain,
+Osun,Nov,944,123,
+lagos ,???,208,,irrelevant
+KAN0,Dec,826,Heavy rain,###
+Imo,Aug,417,123,irrelevant
+gombe,Feb,1596,Heavy rain,
+Yobe,???,1285,Dry season,###
+lagos ,Dec,75,,irrelevant
+Kwara,Jul,1258,Dry season,###
+Lagos,Jun,1151,Dry season,
+Kaduna,Mar,1093,flooded!!!,###
+??Rivers,Sep,426,,###
+Abla,Jun,1924,flooded!!!,###
+Cross River,Jan,47,123,
+Ondo,,1111,123,irrelevant
+Nasarawa,Apr,1726,123,irrelevant
+kogi,Jan,1910,,###
+crossriver,Nov,1686,Heavy rain,irrelevant
+benue,Feb,1698,flooded!!!,###
+Kaduna,May,1316,Dry season,###
+G0mbe,Oct,137,Dry season,irrelevant
+Kwara,Oct,1260,flooded!!!,###
+Lagos,,694,,irrelevant
+gombe,Dec,1150,flooded!!!,
+Niger,May,661,Heavy rain,
+Ogun,Jul,35,Dry season,
+Yobe,Aug,338,Dry season,irrelevant
+Ed0o,Nov,1272,Heavy rain,###
+Kaduba,Jul,1323,123,irrelevant
+Ebonyi,Feb,991,,
+Ed0o,,1898,123,###
+Adamawa,Sep,48,123,
+Ogun,Nov,1950,Dry season,irrelevant
+Anambra,Nov,422,123,irrelevant
+Plateau,Apr,558,flooded!!!,###
+Ed0o,Feb,389,flooded!!!,###
+gombe,Nov,1403,123,
+Taraba,May,742,Dry season,
+Yobe,May,1984,flooded!!!,irrelevant
+Ogun,???,147,123,###
+benue,Jul,1926,flooded!!!,
+gombe,???,675,Dry season,###
+Kaduna,Jul,283,flooded!!!,###
+gombe,Mar,645,Heavy rain,###
+kogi,???,1226,Heavy rain,irrelevant
+Kano,May,390,,irrelevant
+Delta,Mar,738,123,
+Nasarawa,,1091,Dry season,irrelevant
+Kaduna,Jan,1683,123,###
+Enugu,Jul,1010,Heavy rain,irrelevant
+Ondo,Mar,677,Heavy rain,###
+Enugu,Dec,784,Dry season,###
+Ogun,Jul,997,,###
+katsina,Sep,586,Heavy rain,
+S0koto,Jan,1779,Dry season,irrelevant
+Kwara,Jan,428,Dry season,###
+Benue,Aug,1341,Heavy rain,
+Plateau,Sep,488,Dry season,irrelevant
+kogi,???,1567,,###
+Kaduna,???,535,Dry season,
+Kano,May,1058,Heavy rain,irrelevant
+Delta,Jun,600,Heavy rain,
+Adamawa,Feb,558,Heavy rain,
+Enugu,May,568,Dry season,irrelevant
+Bayelsa,Sep,1753,,###
+G0mbe,Nov,1344,,
+Osun,???,1601,,
+Lagos,Oct,1240,Heavy rain,
+Kano,???,760,123,
+Ed0o,Mar,759,flooded!!!,###
+G0mbe,Feb,561,flooded!!!,irrelevant
+Kebbis,Aug,299,123,###
+KAN0,Jun,1965,,###
+Borno,Jul,517,Heavy rain,irrelevant
+Imo,Dec,969,123,
+benue,,805,Dry season,###
+Ebonyi,Jan,829,Heavy rain,###
+lagos ,Jun,791,123,
+Oyo,Jul,1448,,irrelevant
+Kaduna,Nov,550,123,###
+Benue,Dec,383,123,irrelevant
+Kano,Mar,422,123,
+Ekiti,Dec,167,flooded!!!,irrelevant
+Nasarawa,Nov,1783,Heavy rain,irrelevant
+Anambra,,914,flooded!!!,irrelevant
+KAN0,Aug,536,flooded!!!,irrelevant
+Abla,???,356,Heavy rain,
+Abuja,???,1581,Dry season,
+Imo,Aug,603,Heavy rain,
+lagos ,Apr,1897,flooded!!!,
+Enugu,Aug,1221,flooded!!!,
+katsina,Mar,1793,Heavy rain,###
+Adamawa,May,1771,Heavy rain,irrelevant
+Anambra,???,996,Dry season,
+Adamawa,Mar,35,,
+Delta,Apr,1236,flooded!!!,###
+Ed0o,May,67,Dry season,irrelevant
+Ondo,,896,,###
+Adamawa,Apr,1874,Heavy rain,irrelevant
+Zamfara,???,1208,Heavy rain,
+Kaduna,Jan,43,flooded!!!,###
+Benue,,1741,Dry season,
+Zamfara,Aug,674,Heavy rain,
+S0koto,Nov,1562,Heavy rain,###
+Ondo,Dec,676,Dry season,###
+Kano,Sep,1386,123,
+KAN0,Feb,347,Heavy rain,###
+S0koto,,647,123,irrelevant
+??Rivers,???,1890,flooded!!!,###
+Benue,,503,,
+gombe,Oct,9,Heavy rain,
+Ogun,Feb,1605,123,
+Adamawa,Jul,321,Heavy rain,irrelevant
+Bauchi,Feb,80,Heavy rain,
+Kebbis,Jan,857,,
+Yobe,Jan,974,flooded!!!,###
+Abuja,Jun,1976,,irrelevant
+Oyo,,454,Dry season,
+Kaduna,Jun,1947,,
+Ogun,Jul,1607,Heavy rain,irrelevant
+Kaduba,Mar,819,123,irrelevant
+G0mbe,???,3,Heavy rain,###
+Taraba,Jan,1765,123,
+kogi,Apr,1235,flooded!!!,
+Kaduna,Mar,150,Dry season,
+Kano,???,582,123,
+Ed0o,Mar,2,,
+Ebonyi,Oct,1906,Dry season,###
+Benue,Jun,118,Dry season,irrelevant
+Niger,Apr,992,Heavy rain,
+crossriver,Dec,427,flooded!!!,irrelevant
+Abuja,May,1848,123,###
+Anambra,Mar,1825,Heavy rain,###
+Kwara,Feb,876,,irrelevant
+Rivers,Jun,1706,Heavy rain,
+Abla,Feb,426,Dry season,###
+G0mbe,Feb,488,,irrelevant
+Kwara,,1939,,###
+Oyo,Jan,138,Dry season,
+Yobe,???,1049,123,###
+Nasarawa,Jun,1968,flooded!!!,
+Imo,Sep,1731,flooded!!!,
+Kano,Apr,1749,,
+S0koto,May,746,Dry season,irrelevant
+Nasarawa,Oct,771,,irrelevant
+Ed0o,,1974,,###
+Ekiti,Aug,1475,flooded!!!,###
+Imo,Jan,1741,Dry season,
+gombe,Mar,many,123,###
+Osun,???,1448,flooded!!!,irrelevant
+Zamfara,Jan,18,Dry season,
+benue,Jun,1229,flooded!!!,###
+Kano,Dec,1696,123,
+Kwara,Dec,5,Heavy rain,###
+Kaduba,May,406,Dry season,irrelevant
+Kano,Mar,1645,Dry season,
+Kaduna,Dec,1602,flooded!!!,
+KAN0,May,392,,###
+Kwara,Feb,106,,irrelevant
+Kebbis,Aug,911,123,###
+Ogun,Jan,1968,Heavy rain,###
+Enugu,???,1716,Heavy rain,irrelevant
+Anambra,,492,,
+Yobe,May,924,flooded!!!,###
+Ekiti,Jun,1626,flooded!!!,###
+kogi,Jul,250,flooded!!!,irrelevant
+Imo,Aug,148,Heavy rain,
+Abla,Oct,1190,Heavy rain,irrelevant
+Rivers,Jun,95,Heavy rain,irrelevant
+Kaduna,Aug,1347,flooded!!!,
+Anambra,Jul,135,Heavy rain,
+Ekiti,???,1906,flooded!!!,
+KAN0,???,867,Dry season,###
+Abuja,Jun,1063,123,
+Taraba,Oct,763,flooded!!!,###
+Taraba,Aug,547,123,irrelevant
+Yobe,Nov,1994,Dry season,###
+Enugu,,1879,flooded!!!,
+lagos ,Dec,827,Heavy rain,###
+kogi,Mar,474,,
+Ed0o,Jan,1284,flooded!!!,irrelevant
+Enugu,Sep,1130,123,###
+Kaduba,May,1309,123,irrelevant
+Bauchi,Nov,1174,flooded!!!,###
+Kaduna,Sep,781,,###
+G0mbe,Feb,1165,Heavy rain,irrelevant
+Benue,Nov,1560,Dry season,irrelevant
+Benue,Apr,690,Dry season,###
+katsina,Dec,1675,Dry season,
+G0mbe,,553,Dry season,###
+G0mbe,Apr,148,123,
+Bauchi,Jul,833,flooded!!!,
+Enugu,May,778,flooded!!!,###
+Yobe,Mar,1540,,irrelevant
+Anambra,Jan,660,Heavy rain,irrelevant
+Imo,Jun,80,Heavy rain,
+Plateau,Dec,846,Heavy rain,
+Jigawa,Jul,1630,Heavy rain,irrelevant
+Anambra,Feb,905,Dry season,###
+Kano,Aug,124,123,
+Abla,Feb,1530,flooded!!!,
+Ekiti,,558,Heavy rain,###
+benue,Nov,177,,
+Kaduna,Feb,576,flooded!!!,irrelevant
+Nasarawa,Apr,1804,123,irrelevant
+Yobe,Jun,1228,flooded!!!,###
+Cross River,Jun,1461,flooded!!!,###
+crossriver,Nov,4,Dry season,irrelevant
+Jigawa,Mar,1231,123,irrelevant
+Ed0o,Dec,1993,flooded!!!,
+Kebbis,Jun,777,123,irrelevant
+Ebonyi,Jan,109,Dry season,irrelevant
+Benue,Sep,137,Heavy rain,
+Kwara,Jun,458,123,irrelevant
+Abla,Jul,462,,irrelevant
+KAN0,Mar,347,flooded!!!,irrelevant
+Enugu,Oct,27,Heavy rain,###
+Ogun,May,1398,flooded!!!,###
+Kebbis,???,202,123,irrelevant
+Ekiti,Dec,1451,flooded!!!,###
+Anambra,May,445,123,irrelevant
+S0koto,Jul,1200,,###
+Plateau,Sep,887,,irrelevant
+Ebonyi,Jun,1562,,###
+Ebonyi,Dec,1029,flooded!!!,###
+Oyo,Feb,1130,123,###
+benue,Nov,1666,123,irrelevant
+benue,Jun,650,123,
+Enugu,Nov,1147,123,
+Bayelsa,Aug,313,Dry season,
+Taraba,???,941,Heavy rain,irrelevant
+Enugu,Feb,1079,Heavy rain,
+Bayelsa,Jul,123,Heavy rain,###
+Delta,Apr,1855,,
+Abla,Apr,1767,123,###
+Imo,Dec,384,Heavy rain,###
+Bauchi,Mar,582,Dry season,irrelevant
+Kano,Nov,149,123,irrelevant
+Kano,Mar,427,Dry season,
+Borno,Mar,1863,flooded!!!,
+Cross River,Oct,,flooded!!!,
+Kaduna,???,1070,123,irrelevant
+Ondo,Aug,54,123,irrelevant
+Oyo,May,949,123,
+Oyo,Feb,532,123,###
+Bayelsa,Jun,900,,irrelevant
+Kaduba,,1021,Dry season,irrelevant
+Kebbis,,818,Heavy rain,irrelevant
+Anambra,Jun,764,,
+Lagos,,1590,123,###
+Niger,Apr,605,,
+Jigawa,Jan,1748,,irrelevant
+crossriver,Sep,1882,,###
+Bayelsa,Jul,22,Dry season,###
+katsina,Nov,909,,irrelevant
+Bayelsa,Sep,1501,Dry season,
+Kaduna,May,1076,,###
+Benue,Aug,1514,123,irrelevant
+??Rivers,Oct,23,Dry season,irrelevant
+Bayelsa,???,1897,flooded!!!,
+Kaduna,???,1599,,###
+Plateau,Apr,1021,123,
+S0koto,Aug,1899,Dry season,###
+Taraba,May,1542,Heavy rain,###
+S0koto,Feb,1704,flooded!!!,###
+benue,May,687,,irrelevant
+Kano,May,825,flooded!!!,
+Oyo,Dec,1763,flooded!!!,
+Nasarawa,,891,,irrelevant
+Niger,Feb,395,123,
+Ogun,Feb,1266,Heavy rain,irrelevant
+Rivers,Apr,1334,flooded!!!,irrelevant
+katsina,Jan,77,flooded!!!,irrelevant
+Adamawa,Dec,1299,123,
+Plateau,May,731,123,irrelevant
+Anambra,,,Heavy rain,###
+Nasarawa,,1830,flooded!!!,
+Taraba,Feb,98,,###
+Abla,Aug,1270,,
+Enugu,Mar,1410,,###
+crossriver,Apr,1986,,irrelevant
+Borno,Jan,1351,123,
+Bauchi,Sep,983,123,
+S0koto,Jan,108,123,irrelevant
+Plateau,May,900,123,
+Ed0o,Apr,1238,Heavy rain,
+benue,Apr,165,Dry season,irrelevant
+Ed0o,Sep,1440,Dry season,
+??Rivers,Mar,324,,
+Cross River,Jan,662,Dry season,###
+Jigawa,Feb,31,flooded!!!,###
+Ekiti,May,1041,,irrelevant
+Zamfara,Nov,736,flooded!!!,###
+kogi,Mar,1958,Heavy rain,irrelevant
+Lagos,Jul,111,Heavy rain,###
+kogi,Apr,112,Heavy rain,###
+Kaduna,Dec,247,Heavy rain,
+crossriver,Jun,732,123,###
+Yobe,???,1322,123,###
+Jigawa,???,230,Heavy rain,
+Nasarawa,Jan,1480,Heavy rain,
+Ed0o,Jan,1095,Dry season,
+benue,Jun,8,Dry season,###
+Osun,Nov,1926,Heavy rain,
+KAN0,Mar,895,,
+kogi,Oct,1122,flooded!!!,
+Ed0o,Oct,1815,,irrelevant
+Abla,Jul,42,,irrelevant
+Borno,Jan,1455,flooded!!!,###
+lagos ,Apr,22,Heavy rain,irrelevant
+Anambra,Dec,845,123,###
+Plateau,Jan,1702,Dry season,
+Kwara,???,1426,flooded!!!,###
+Bauchi,Mar,379,Dry season,###
+kogi,,1706,,###
+Oyo,Oct,546,123,irrelevant
+??Rivers,Mar,1178,Dry season,###
+katsina,Jul,1644,flooded!!!,irrelevant
+kogi,Jun,753,Heavy rain,###
+Taraba,Feb,1607,Heavy rain,
+lagos ,Mar,1347,Dry season,
+Kwara,,1099,123,###
+Yobe,Feb,1022,Heavy rain,irrelevant
+Abuja,May,459,123,irrelevant
+Taraba,Jun,952,123,
+Benue,Mar,1516,Heavy rain,###
+Ed0o,Mar,1736,123,###
+Benue,Jul,1452,Heavy rain,
+KAN0,???,972,,irrelevant
+Enugu,Nov,1908,Heavy rain,
+Enugu,,641,Heavy rain,
+Imo,Jul,1727,Heavy rain,irrelevant
+Lagos,Apr,1208,,
+Anambra,Feb,1899,123,
+Ekiti,May,1954,flooded!!!,
+kogi,???,1880,Dry season,
+gombe,Apr,1700,,###
+Oyo,Sep,1237,Heavy rain,
+Zamfara,Jul,1987,Heavy rain,###
+Kaduba,Aug,402,,
+Benue,Jun,1351,123,irrelevant
+Osun,Dec,1932,flooded!!!,
+Abuja,May,1580,,
+Imo,Jul,1390,Heavy rain,
+Ekiti,Feb,1855,flooded!!!,irrelevant
+Imo,Jun,1510,Heavy rain,###
+Kaduna,Jan,371,Heavy rain,
+Lagos,Oct,897,123,irrelevant
+Kaduna,,946,flooded!!!,
+Zamfara,May,1071,Heavy rain,
+G0mbe,Dec,1570,123,irrelevant
+Borno,Aug,1433,flooded!!!,irrelevant
+Imo,Jan,3,,irrelevant
+Ed0o,Jul,750,Dry season,###
+Yobe,,1384,,irrelevant
+benue,Nov,91,flooded!!!,
+katsina,Sep,1747,123,irrelevant
+Kaduna,Nov,150,Heavy rain,
+Benue,???,580,flooded!!!,###
+??Rivers,Mar,1399,,###
+Kano,Mar,1376,Dry season,###
+Anambra,Sep,1607,123,
+Abla,Mar,1439,123,###
+Lagos,Jun,319,,
+Kano,Dec,627,Dry season,###
+lagos ,,442,Dry season,###
+Adamawa,May,177,123,
+Taraba,Apr,1275,flooded!!!,
+Imo,,643,,irrelevant
+Taraba,Dec,1803,flooded!!!,irrelevant
+Enugu,Sep,1770,123,
+Ondo,Jul,1176,,###
+Cross River,Mar,241,flooded!!!,
+Lagos,Feb,1493,flooded!!!,irrelevant
+Taraba,Apr,1376,Dry season,
+Enugu,Nov,1085,,irrelevant
+Adamawa,Jan,1980,Heavy rain,irrelevant
+benue,Jul,197,flooded!!!,
+Rivers,Jan,1237,,irrelevant
+Ed0o,Nov,1236,Heavy rain,
+Rivers,???,1871,Heavy rain,###
+katsina,Jul,716,Heavy rain,irrelevant
+Enugu,,1567,Heavy rain,
+Adamawa,Nov,16,Heavy rain,
+Adamawa,Jun,1350,Heavy rain,irrelevant
+katsina,Jun,1135,flooded!!!,
+lagos ,Mar,1954,flooded!!!,
+Bauchi,Jan,858,Heavy rain,###
+Zamfara,May,1595,Heavy rain,###
+Bauchi,May,1243,,
+Kebbis,Sep,1018,flooded!!!,
+KAN0,Nov,1102,Heavy rain,irrelevant
+Adamawa,Jan,1536,flooded!!!,
+Borno,Dec,687,flooded!!!,
+kogi,Mar,676,Heavy rain,###
+Oyo,Feb,691,Dry season,###
+Osun,Feb,377,,###
+Osun,,1900,123,
+Imo,Aug,1358,flooded!!!,irrelevant
+Lagos,Nov,911,Heavy rain,###
+katsina,Nov,899,,irrelevant
+Borno,Sep,1914,Dry season,###
+Oyo,Sep,1824,,
+Adamawa,Oct,1498,flooded!!!,irrelevant
+Adamawa,Sep,1452,,
+Enugu,Aug,1053,flooded!!!,
+Enugu,Dec,1475,,
+Enugu,Aug,1861,flooded!!!,irrelevant
+Cross River,May,18,123,###
+Enugu,Dec,1695,,###
+Kaduna,Aug,1957,Dry season,irrelevant
+Kebbis,Jun,449,,###
+S0koto,Jun,311,Dry season,
+Benue,Oct,330,flooded!!!,###
+Cross River,Nov,645,Heavy rain,
+Delta,Oct,1127,123,irrelevant
+benue,,1127,123,###
+Ed0o,Apr,482,flooded!!!,irrelevant
+Jigawa,Jun,917,flooded!!!,irrelevant
+Zamfara,Mar,1643,123,irrelevant
+Osun,,1911,flooded!!!,irrelevant
+crossriver,Oct,992,,###
+Delta,Jan,1213,,
+G0mbe,Feb,420,,
+Abla,Feb,428,,
+Kaduba,May,777,Heavy rain,
+katsina,Aug,1879,,###
+katsina,May,1026,Dry season,
+crossriver,Sep,1040,,irrelevant
+Ogun,Dec,679,123,
+Oyo,Aug,1247,Dry season,
+G0mbe,Sep,459,Heavy rain,###
+Ekiti,Mar,1907,Heavy rain,
+Osun,Jun,1399,,###
+Bayelsa,Dec,1359,Dry season,
+gombe,Mar,749,flooded!!!,###
+Kano,Mar,267,Dry season,irrelevant
+Adamawa,Aug,144,123,###
+Ed0o,Sep,815,Dry season,
+Abla,Sep,761,,###
+Ebonyi,,1362,Dry season,irrelevant
+Kwara,Jul,1116,Dry season,
+Imo,Sep,1370,Heavy rain,
+??Rivers,May,983,Dry season,
+Rivers,Feb,0,123,###
+Bauchi,Sep,1119,Dry season,###
+Oyo,Dec,23,123,###
+Bauchi,Jul,443,Dry season,irrelevant
+Cross River,Jun,227,Dry season,###
+Anambra,May,1237,,
+Borno,Jan,287,Heavy rain,
+G0mbe,Nov,281,Heavy rain,###
+kogi,Sep,725,,
+Bauchi,Jun,1216,flooded!!!,irrelevant
+benue,Apr,1632,,irrelevant
+Kaduba,Apr,461,123,
+Lagos,Sep,891,,###
+Anambra,Mar,14,Heavy rain,
+KAN0,Mar,437,flooded!!!,irrelevant
+Bayelsa,Jul,1715,,
+Ekiti,Nov,509,123,irrelevant
+Ebonyi,Aug,1039,,
+Taraba,May,619,,###
+Delta,Feb,250,Dry season,###
+Borno,Apr,676,Heavy rain,irrelevant
+Kwara,Feb,1256,Heavy rain,irrelevant
+Cross River,Nov,798,123,###
+benue,May,1562,123,
+Cross River,Mar,1253,123,
+benue,Nov,954,flooded!!!,###
+Anambra,Mar,1914,123,###
+gombe,Apr,1316,Dry season,
+Enugu,???,142,Dry season,###
+lagos ,Jun,875,flooded!!!,
+Abla,???,1563,,irrelevant
+Abuja,???,1106,Dry season,irrelevant
+Yobe,Nov,1802,,irrelevant
+Ebonyi,Dec,579,123,###
+Osun,Nov,790,123,irrelevant
+Kebbis,Jun,1924,Dry season,irrelevant
+crossriver,Jul,1339,,
+gombe,Nov,1123,,
+Rivers,May,627,123,
+Kaduba,Jul,563,,
+Enugu,???,1567,flooded!!!,###
+Jigawa,Nov,1133,Dry season,
+kogi,,2,,
+Nasarawa,Oct,1266,Dry season,
+Osun,Sep,1033,flooded!!!,
+G0mbe,Jun,661,Dry season,###
+Bauchi,Nov,1991,Dry season,
+KAN0,May,1267,flooded!!!,###
+Kaduna,Oct,1050,Heavy rain,irrelevant
+Kano,Nov,656,123,irrelevant
+Bauchi,May,1505,,irrelevant
+Anambra,Jan,1692,Dry season,###
+Bayelsa,Oct,713,,
+Kaduna,Mar,1161,,irrelevant
+Niger,???,1478,,irrelevant
+Oyo,Dec,1900,Dry season,
+Cross River,May,1266,Dry season,irrelevant
+katsina,May,1071,,irrelevant
+Lagos,Sep,1948,flooded!!!,###
+Delta,Jan,34,Heavy rain,
+Oyo,Dec,934,Dry season,irrelevant
+Ogun,Dec,1970,Heavy rain,irrelevant
+katsina,Feb,303,flooded!!!,irrelevant
+Adamawa,Jul,1510,,###
+S0koto,Sep,1427,123,
+Ogun,Sep,959,,irrelevant
+Rivers,,629,,irrelevant
+Kwara,Oct,509,flooded!!!,###
+Delta,Jan,1397,,
+Ondo,Sep,293,flooded!!!,###
+Kano,Jun,693,Dry season,
+Benue,Aug,265,,irrelevant
+Bayelsa,,1295,123,###
+G0mbe,Jun,1591,123,
+Anambra,Apr,1973,Heavy rain,###
+Benue,,1849,,
+Oyo,Jul,198,Dry season,
+Kaduba,Nov,923,Heavy rain,###
+??Rivers,,1226,Heavy rain,###
+Bayelsa,Aug,201,,###
+benue,Jun,1536,Heavy rain,###
+Oyo,Jan,1619,,irrelevant
+Anambra,Jul,2,Heavy rain,irrelevant
+Kwara,Apr,268,123,irrelevant
+Ekiti,May,1198,flooded!!!,
+Plateau,,957,Dry season,###
+Kano,Oct,873,,
+Anambra,,237,,irrelevant
+Anambra,Sep,1579,flooded!!!,
+Benue,Apr,247,,irrelevant
+Kaduba,Nov,611,,###
+kogi,May,288,flooded!!!,
+Jigawa,May,749,flooded!!!,irrelevant
+benue,Jun,872,Dry season,
+Kwara,Jun,1307,flooded!!!,
+??Rivers,Oct,670,Dry season,
+Ogun,May,1855,Heavy rain,###
+katsina,Nov,1763,Dry season,###
+kogi,???,1730,123,irrelevant
+Benue,Sep,1056,Heavy rain,
+Kwara,Jul,1137,Dry season,irrelevant
+Bayelsa,Sep,1742,Heavy rain,irrelevant
+KAN0,Apr,1379,flooded!!!,###
+Abuja,Jul,816,Heavy rain,
+Benue,Mar,1809,,irrelevant
+Borno,Mar,905,flooded!!!,###
+Borno,Mar,272,,irrelevant
+Lagos,Nov,119,Dry season,irrelevant
+Kaduna,,207,,###
+katsina,Mar,297,123,
+Kaduna,???,979,123,###
+Niger,Feb,44,Dry season,irrelevant
+Adamawa,Apr,1340,,###
+Ondo,Jan,1240,flooded!!!,###
+Ogun,Oct,347,,irrelevant
+Cross River,???,1525,123,irrelevant
+Zamfara,Jul,1772,flooded!!!,
+Kaduna,Mar,491,123,###
+Kaduna,Dec,98,Heavy rain,irrelevant
+katsina,May,842,,###
+Abla,Aug,668,Heavy rain,irrelevant
+Imo,Aug,1909,,irrelevant
+Kaduba,Aug,570,Dry season,###
+Benue,May,906,Dry season,irrelevant
+Plateau,Jun,1382,,irrelevant
+kogi,???,17,Dry season,###
+Ed0o,Jun,1328,,
+Osun,Nov,1522,123,
+lagos ,Sep,1240,flooded!!!,irrelevant
+Kaduba,Jan,1460,Dry season,irrelevant
+benue,Feb,1612,,###
+katsina,Aug,895,,
+Imo,Sep,217,Heavy rain,###
+Borno,Nov,878,123,
+benue,Nov,90,,
+Adamawa,Oct,1873,,irrelevant
+Borno,Mar,104,,
+Kwara,Oct,935,,irrelevant
+Lagos,Apr,1512,Heavy rain,
+Anambra,Feb,302,flooded!!!,
+Kaduna,,587,123,###
+Ogun,Aug,604,Dry season,###
+gombe,Apr,1555,,###
+Delta,Nov,1075,123,irrelevant
+Lagos,Feb,282,Heavy rain,
+Abla,Nov,578,Dry season,irrelevant
+Borno,Feb,229,Heavy rain,irrelevant
+Delta,,768,,irrelevant
+Abuja,Dec,1640,Dry season,###
+Zamfara,Nov,438,Heavy rain,###
+Kano,Feb,1570,123,irrelevant
+Oyo,Nov,1689,,
+Kano,Oct,25,123,irrelevant
+Bayelsa,Jun,1932,Dry season,###
+Taraba,Jul,13,,###
+Lagos,Jul,1884,,irrelevant
+Zamfara,Jun,1034,Dry season,
+Taraba,Apr,1410,flooded!!!,
+crossriver,Jul,1052,123,
+Adamawa,,1206,123,irrelevant
+KAN0,Oct,283,flooded!!!,irrelevant
+Abla,Mar,1749,Heavy rain,###
+Anambra,Nov,834,123,
+Abuja,Dec,1578,Dry season,irrelevant
+Adamawa,Apr,956,,irrelevant
+Ondo,Jan,961,,
+Delta,Sep,1112,,###
+Bauchi,???,136,Heavy rain,irrelevant
+Adamawa,Nov,718,,irrelevant
+Enugu,,903,Dry season,irrelevant
+Osun,Aug,767,,###
+Kwara,Jan,726,123,irrelevant
+Abuja,Sep,1115,,irrelevant
+Lagos,Jun,1912,,###
+Benue,Jul,885,123,###
+Abla,???,1867,123,###
+Niger,Jun,937,flooded!!!,###
+Oyo,???,301,Dry season,###
+KAN0,???,17,Heavy rain,irrelevant
+Kebbis,May,879,,
+Kebbis,Jun,745,Dry season,
+Taraba,???,1188,flooded!!!,
+Imo,Nov,294,Dry season,irrelevant
+Zamfara,???,693,flooded!!!,
+Kaduba,Dec,1934,,###
+Kwara,Aug,869,Dry season,
+Yobe,Sep,1233,Dry season,
+Ekiti,,439,123,###
+Kebbis,Sep,749,,###
+Jigawa,Jul,695,Heavy rain,###
+Abla,Aug,614,,###
+Niger,Dec,812,Heavy rain,
+Rivers,Apr,677,Dry season,irrelevant
+Taraba,May,1615,Dry season,###
+Kaduna,Mar,1643,flooded!!!,###
+Taraba,Aug,1697,flooded!!!,
+Anambra,May,1807,,
+G0mbe,Dec,1116,123,###
+Imo,Aug,1263,flooded!!!,irrelevant
+Ondo,,959,Heavy rain,
+Nasarawa,Aug,1493,123,###
+Ogun,Mar,1674,123,irrelevant
+Kaduba,Oct,380,,
+Delta,Oct,1189,123,
+Kaduba,Mar,32,123,
+Plateau,Nov,1329,,###
+Taraba,Feb,887,Heavy rain,irrelevant
+Oyo,Sep,1705,123,###
+katsina,Apr,176,,
+Ebonyi,Nov,1334,,###
+Kebbis,,442,Dry season,
+kogi,May,1460,,irrelevant
+Niger,Feb,1964,flooded!!!,###
+katsina,Jun,1058,123,irrelevant
+Oyo,Dec,1807,123,irrelevant
+Nasarawa,Oct,1942,flooded!!!,irrelevant
+Kaduna,???,1291,123,###
+Ogun,Apr,461,Heavy rain,###
+Enugu,Oct,1830,Heavy rain,irrelevant
+crossriver,Sep,168,,###
+Kebbis,Feb,1079,Dry season,###
+Imo,Sep,637,123,###
+crossriver,Feb,1459,123,###
+Delta,May,1460,123,###
+Abla,???,1011,,
+Borno,???,1617,123,irrelevant
+G0mbe,Apr,1651,123,
+Niger,Mar,127,Dry season,irrelevant
+G0mbe,Jan,767,flooded!!!,###
+G0mbe,,378,123,irrelevant
+Bauchi,Oct,465,,
+Imo,Mar,745,flooded!!!,
+Ebonyi,Jun,454,Dry season,###
+Taraba,Jan,90,123,
+Plateau,Mar,176,Heavy rain,
+Bayelsa,Nov,192,123,irrelevant
+Ogun,Aug,622,flooded!!!,
+Benue,May,1521,Heavy rain,irrelevant
+Enugu,Sep,72,Dry season,
+benue,Feb,287,Dry season,
+Cross River,Aug,1917,Heavy rain,
+kogi,Oct,488,123,irrelevant
+Benue,Dec,1192,Heavy rain,
+Benue,Jan,521,123,irrelevant
+Oyo,Mar,133,Heavy rain,###
+Kaduba,,1322,,
+katsina,Apr,1218,123,irrelevant
+Rivers,Sep,1908,,
+Adamawa,Sep,1387,123,irrelevant
+Abla,,193,Dry season,
+benue,???,341,123,irrelevant
+Kebbis,Aug,1495,Heavy rain,###
+Lagos,Oct,551,Heavy rain,irrelevant
+Zamfara,Dec,43,Heavy rain,irrelevant
+Enugu,Apr,420,,###
+G0mbe,Apr,1826,123,###
+crossriver,Nov,190,Dry season,
+Lagos,Apr,642,Heavy rain,
+Taraba,Jun,364,,irrelevant
+Bayelsa,Aug,1982,Dry season,irrelevant
+Kano,Jul,425,123,irrelevant
+Kaduna,Feb,1975,Dry season,
+Enugu,Jun,1869,,irrelevant
+Kebbis,Aug,581,,###
+Adamawa,Jul,240,Heavy rain,
+Enugu,Jan,1578,flooded!!!,###
+Abuja,Apr,1238,Heavy rain,###
+Bauchi,Aug,588,Dry season,###
+Adamawa,Dec,1787,Heavy rain,
+KAN0,Mar,1747,flooded!!!,
+Niger,???,16,,irrelevant
+gombe,Jun,154,Heavy rain,###
+Anambra,Jun,277,Heavy rain,###
+gombe,Sep,2,flooded!!!,
+Ed0o,Aug,754,flooded!!!,
+Bayelsa,Aug,758,Dry season,irrelevant
+Adamawa,Sep,1731,123,
+Osun,Feb,0,,
+Adamawa,,548,Dry season,irrelevant
+Benue,???,860,123,
+Anambra,Jun,1560,Heavy rain,###
+Anambra,???,665,123,irrelevant
+Bayelsa,,1463,,###
+Rivers,Mar,202,flooded!!!,
+kogi,Nov,872,,###
+Lagos,Dec,406,Dry season,
+Bayelsa,Oct,545,,
+Imo,Nov,1639,123,###
+Ebonyi,Dec,1768,123,irrelevant
+Kaduba,Jan,474,Heavy rain,
+Zamfara,Sep,1412,,###
+crossriver,May,718,Dry season,
+S0koto,Nov,395,flooded!!!,
+S0koto,???,836,123,###
+Osun,Dec,845,Dry season,
+Kano,Sep,1478,flooded!!!,irrelevant
+Jigawa,Aug,1281,,
+gombe,Jul,1288,flooded!!!,irrelevant
+Taraba,,425,123,irrelevant
+benue,Dec,589,flooded!!!,irrelevant
+Enugu,,95,,irrelevant
+Kwara,???,1203,Heavy rain,
+Jigawa,Nov,806,Dry season,
+Imo,,1023,Dry season,irrelevant
+Borno,Mar,1454,flooded!!!,irrelevant
+Abla,Jan,1433,Dry season,###
+??Rivers,Dec,1602,Dry season,###
+Enugu,,704,Heavy rain,###
+Cross River,Jan,280,123,###
+Benue,Mar,1614,123,irrelevant
+Ebonyi,Nov,468,,irrelevant
+benue,May,1036,flooded!!!,###
+Kebbis,Nov,610,123,irrelevant
+Kaduba,Jun,943,123,irrelevant
+Kebbis,Jul,1513,Heavy rain,irrelevant
+Anambra,Jun,319,123,
+Cross River,,1943,Heavy rain,###
+Anambra,Dec,809,Dry season,irrelevant
+Jigawa,,598,Dry season,
+Cross River,Jan,115,123,irrelevant
+Kwara,Dec,350,,
+Benue,Jul,1327,,###
+Ogun,May,1952,Heavy rain,
+Nasarawa,,1798,Dry season,
+katsina,???,732,Dry season,
+Niger,Jan,1857,,irrelevant
+Ondo,,198,,###
+Kwara,,110,Heavy rain,irrelevant
+Ebonyi,Sep,224,Heavy rain,
+Kwara,May,1189,123,###
+Niger,???,1947,flooded!!!,###
+kogi,Dec,363,flooded!!!,
+Lagos,Jul,1845,,irrelevant
+Jigawa,Apr,551,Dry season,###
+Enugu,???,1980,Dry season,
+G0mbe,May,960,,irrelevant
+??Rivers,Jan,1642,,###
+Rivers,Mar,583,flooded!!!,irrelevant
+Delta,Apr,1799,Heavy rain,irrelevant
+Benue,Feb,1345,Heavy rain,irrelevant
+Kaduba,Aug,620,,
+Ebonyi,Oct,1289,,
+lagos ,Feb,727,Heavy rain,irrelevant
+Abuja,Sep,732,123,irrelevant
+Anambra,Apr,1768,Heavy rain,
+Kebbis,Mar,1439,,irrelevant
+Ed0o,Jul,86,,irrelevant
+Abuja,???,65,Dry season,irrelevant
+Ed0o,Jan,445,Heavy rain,
+Zamfara,Sep,644,Heavy rain,
+Oyo,Jan,1500,Heavy rain,irrelevant
+lagos ,Jul,1351,flooded!!!,###
+Taraba,Sep,1529,flooded!!!,###
+benue,May,378,Heavy rain,
+Delta,???,1194,123,###
+Nasarawa,Sep,1735,flooded!!!,
+Oyo,Feb,218,Dry season,irrelevant
+Abuja,Aug,1228,123,irrelevant
+Ogun,Feb,816,flooded!!!,###
+Taraba,Jul,1421,,irrelevant
+Bayelsa,Jan,110,123,irrelevant
+Ed0o,Jan,1011,123,irrelevant
+lagos ,Apr,1071,flooded!!!,###
+Borno,Aug,978,,###
+gombe,Jul,1188,,
+Borno,Jul,1672,flooded!!!,irrelevant
+Ondo,Jan,1618,Heavy rain,###
+Osun,Feb,1358,123,
+Oyo,Sep,1428,flooded!!!,irrelevant
+Taraba,Apr,802,123,irrelevant
+Kwara,Sep,1660,,###
+Kaduna,Sep,1679,flooded!!!,
+Kebbis,May,1459,123,###
+Kwara,Jun,56,Dry season,
+Abla,,1599,123,###
+Ebonyi,Oct,982,Heavy rain,irrelevant
+S0koto,Jun,208,,irrelevant
+Borno,Oct,930,123,###
+Delta,Oct,1888,123,###
+Niger,,398,Dry season,###
+Ebonyi,Apr,975,,
+Ebonyi,Sep,1131,Heavy rain,irrelevant
+KAN0,Jan,743,Heavy rain,###
+Ekiti,Apr,777,,###
+lagos ,???,888,Dry season,
+kogi,Mar,1989,Dry season,
+Ebonyi,May,1863,Heavy rain,
+Jigawa,Nov,933,123,
+Kebbis,Aug,966,123,
+Ogun,Oct,1774,123,###
+Ekiti,Apr,834,Heavy rain,irrelevant
+Kaduna,Apr,1467,Heavy rain,###
+lagos ,Feb,1404,123,irrelevant
+Benue,Oct,1597,,###
+Delta,Aug,1993,flooded!!!,
+Kebbis,Sep,1058,,###
+Lagos,Feb,12,123,
+S0koto,Nov,355,Dry season,irrelevant
+kogi,Mar,1522,,irrelevant
+Ekiti,Nov,879,Heavy rain,irrelevant
+Benue,Nov,41,123,
+Enugu,Aug,635,Dry season,irrelevant
+Ebonyi,Jul,1832,,
+katsina,,1514,flooded!!!,
+Taraba,???,1829,flooded!!!,###
+Enugu,Oct,334,Heavy rain,irrelevant
+Niger,Jul,661,Dry season,###
+Ogun,Oct,1158,flooded!!!,###
+Rivers,Apr,1449,Heavy rain,
+Ogun,Feb,710,,
+Enugu,Sep,1563,,###
+Abla,Jul,1610,123,irrelevant
+Enugu,May,309,,irrelevant
+Abla,Mar,1631,123,###
+Kaduna,Dec,1055,Dry season,###
+Zamfara,May,114,Heavy rain,
+Yobe,Jul,1156,Heavy rain,
+kogi,Oct,464,123,
+??Rivers,May,579,Heavy rain,irrelevant
+Kaduna,Dec,632,Dry season,
+Adamawa,Dec,1708,flooded!!!,###
+kogi,Apr,918,Heavy rain,###
+Bayelsa,May,90,,
+Zamfara,Dec,869,Heavy rain,
+Jigawa,Feb,947,flooded!!!,irrelevant
+Yobe,Jun,1824,Dry season,irrelevant
+??Rivers,Jun,1085,Heavy rain,
+Abuja,Jun,1119,123,irrelevant
+Anambra,,1096,123,###
+Yobe,May,1101,123,
+Kwara,Jun,658,,
+Abuja,,1015,,###
+Oyo,Jun,970,flooded!!!,###
+Anambra,Jun,1825,flooded!!!,###
+Taraba,Mar,1099,Dry season,
+Ed0o,May,233,Heavy rain,###
+Plateau,Nov,1033,123,###
+kogi,Sep,1075,flooded!!!,irrelevant
+Kwara,Jun,645,flooded!!!,
+Niger,Oct,949,Dry season,irrelevant
+Jigawa,Dec,1743,Heavy rain,###
+Kaduna,Jul,543,Dry season,irrelevant
+Niger,,999,flooded!!!,
+Plateau,May,1257,123,irrelevant
+Ed0o,???,1632,,
+gombe,Jun,894,123,###
+Kano,Nov,324,Dry season,###
+Yobe,Apr,1038,Dry season,
+Anambra,Jul,1728,Heavy rain,irrelevant
+Imo,Sep,701,Dry season,irrelevant
+Ed0o,Jan,1169,123,###
+Borno,Jun,1269,flooded!!!,###
+Kebbis,Apr,243,Heavy rain,###
+Abuja,Jun,1658,,irrelevant
+kogi,Jan,1647,flooded!!!,###
+Plateau,Dec,53,,###
+gombe,Aug,1148,flooded!!!,
+Kano,,1963,,###
+Delta,???,594,flooded!!!,irrelevant
+Osun,Mar,885,,###
+Ondo,Jun,412,123,irrelevant
+Abuja,Jan,1534,,###
+Lagos,Dec,356,flooded!!!,irrelevant
+Ondo,Jul,55,,
+Benue,Sep,1996,Dry season,###
+Ondo,Aug,383,,irrelevant
+Taraba,Oct,270,flooded!!!,irrelevant
+Ogun,Jul,6,flooded!!!,irrelevant
+Kaduba,Dec,1186,123,irrelevant
+Enugu,Jan,1888,Dry season,###
+Jigawa,Oct,90,flooded!!!,###
+Taraba,Feb,85,flooded!!!,###
+Jigawa,Nov,701,Dry season,irrelevant
+Niger,???,199,Heavy rain,irrelevant
+kogi,Aug,635,,###
+Borno,,1104,flooded!!!,###
+Imo,Aug,1039,,###
+Kaduna,Dec,485,Dry season,irrelevant
+lagos ,Oct,526,flooded!!!,
+Borno,Aug,1743,Heavy rain,irrelevant
+Enugu,Apr,113,flooded!!!,
+benue,???,8,flooded!!!,irrelevant
+Kaduna,Feb,1020,Dry season,###
+Kwara,Sep,1313,123,###
+Nasarawa,Mar,1372,123,###
+Cross River,Aug,61,,irrelevant
+Niger,Nov,1261,Dry season,irrelevant
+Abla,May,259,,irrelevant
+Kano,Feb,715,Dry season,
+Cross River,Dec,1507,flooded!!!,irrelevant
+Taraba,Dec,1871,,irrelevant
+Benue,Jun,1702,,
+S0koto,Jul,1885,flooded!!!,
+Taraba,Apr,790,Heavy rain,
+crossriver,Mar,480,Heavy rain,irrelevant
+Plateau,,966,123,###
+Kano,Jan,1820,Heavy rain,irrelevant
+KAN0,Jul,178,,###
+Taraba,Aug,856,flooded!!!,
+S0koto,Mar,1838,,
+Benue,Oct,1806,Heavy rain,###
+Kano,Mar,1380,Heavy rain,###
+Bauchi,Apr,556,flooded!!!,###
+Nasarawa,Aug,1844,Heavy rain,
+Kaduna,Oct,979,flooded!!!,irrelevant
+Yobe,Sep,1006,123,
+Anambra,,1781,flooded!!!,irrelevant
+Jigawa,Nov,387,Heavy rain,###
+crossriver,,1825,Dry season,###
+Delta,Nov,1521,,
+??Rivers,Oct,895,123,
+katsina,Dec,1006,123,###
+KAN0,Jun,1679,Dry season,###
+benue,???,1901,123,
+Oyo,Apr,1276,Heavy rain,
+Adamawa,Feb,937,flooded!!!,irrelevant
+Kaduna,Aug,1010,,
+Yobe,Feb,594,flooded!!!,irrelevant
+benue,Apr,1388,flooded!!!,###
+Zamfara,Jan,1796,,irrelevant
+Enugu,Mar,1984,,irrelevant
+Delta,Mar,655,Dry season,irrelevant
+lagos ,Sep,1970,123,
+??Rivers,Jul,539,123,irrelevant
+G0mbe,Mar,620,Dry season,irrelevant
+??Rivers,May,833,Dry season,irrelevant
+Delta,Apr,771,Heavy rain,irrelevant
+Ekiti,Jan,1489,,irrelevant
+Borno,Feb,942,,
+kogi,Apr,992,Dry season,###
+Yobe,Jun,1147,Heavy rain,###
+Ed0o,Jun,586,flooded!!!,###
+Ed0o,Apr,365,Dry season,###
+Kano,Jul,1571,123,###
+lagos ,May,1430,Heavy rain,
+Kaduna,Jun,701,flooded!!!,###
+Ebonyi,Jun,232,Dry season,###
+Bayelsa,Dec,1969,Dry season,
+gombe,???,1467,Heavy rain,
+KAN0,,1674,Heavy rain,
+Delta,Nov,621,flooded!!!,
+Ekiti,Jun,738,flooded!!!,
+benue,Dec,938,123,
+Ogun,Jul,1247,123,###
+Kano,Apr,599,123,###
+Lagos,Mar,670,Dry season,
+Taraba,Sep,1007,,###
+Enugu,Jan,1764,123,irrelevant
+Ekiti,Apr,1485,Heavy rain,
+Jigawa,Feb,147,flooded!!!,###
+Borno,Nov,571,flooded!!!,###
+Kaduba,Jul,1129,Dry season,###
+Imo,Aug,1914,flooded!!!,###
+Nasarawa,Jul,1705,,irrelevant
+Plateau,Oct,444,Heavy rain,irrelevant
+S0koto,Aug,1485,Heavy rain,irrelevant
+Yobe,Jan,203,Heavy rain,###
+Bauchi,???,884,Heavy rain,
+Benue,Aug,1424,Heavy rain,###
+Kaduna,Sep,412,flooded!!!,irrelevant
+Kaduna,Nov,44,,irrelevant
+Enugu,Apr,1770,flooded!!!,irrelevant
+benue,Jun,1672,,
+Osun,???,795,Dry season,###
+Ondo,Nov,1872,Dry season,###
+katsina,Sep,1068,,irrelevant
+Borno,Aug,388,Dry season,irrelevant
+KAN0,Jul,673,123,
+gombe,Jul,1815,123,###
+Benue,Feb,50,Dry season,###
+Oyo,Aug,1315,,irrelevant
+Delta,Jan,342,flooded!!!,irrelevant
+Anambra,Sep,838,flooded!!!,irrelevant
+crossriver,Mar,1542,flooded!!!,
+G0mbe,Sep,1209,123,irrelevant
+Bauchi,Dec,1258,Heavy rain,
+crossriver,Mar,1846,Heavy rain,irrelevant
+Anambra,Jul,602,flooded!!!,irrelevant
+Taraba,Nov,1906,Heavy rain,
+Abuja,Mar,1785,Heavy rain,irrelevant
+Benue,Mar,497,flooded!!!,###
+G0mbe,May,759,123,###
+lagos ,Jun,1188,123,###
+Ondo,Jun,878,123,
+Abuja,Jul,254,flooded!!!,###
+Plateau,Aug,357,Dry season,irrelevant
+Kebbis,Dec,1122,Dry season,
+Lagos,,863,Heavy rain,irrelevant
+Imo,Jun,1477,flooded!!!,###
+Kano,,1071,Dry season,irrelevant
+Imo,,804,123,irrelevant
+kogi,May,544,flooded!!!,irrelevant
+Niger,Dec,1445,Heavy rain,###
+Rivers,Dec,1641,Heavy rain,
+KAN0,Apr,488,flooded!!!,###
+Cross River,Dec,1602,,###
+Kaduna,Jan,1808,Heavy rain,###
+Rivers,Dec,1262,Heavy rain,irrelevant
+Rivers,???,1169,flooded!!!,
+Kano,May,777,,irrelevant
+Lagos,Jan,999,,###
+lagos ,Jan,1981,flooded!!!,###
+Bauchi,Oct,15,flooded!!!,###
+Nasarawa,Oct,1714,Heavy rain,
+Lagos,Feb,939,Heavy rain,
+Bayelsa,Sep,1516,flooded!!!,###
+Imo,May,1268,Heavy rain,
+Rivers,Nov,1386,,###
+Plateau,,183,,###
+Osun,Nov,1599,123,
+lagos ,Apr,175,Heavy rain,irrelevant
+Ogun,Sep,1791,Dry season,irrelevant
+Ebonyi,Jan,213,Dry season,
+Osun,,836,Heavy rain,###
+Bayelsa,May,420,123,
+Adamawa,Nov,1866,Heavy rain,###
+Enugu,Jun,807,flooded!!!,###
+Niger,Mar,1077,123,###
+Cross River,Feb,136,123,###
+Benue,,1069,,irrelevant
+Enugu,Jun,1203,Heavy rain,
+Abla,Jul,1696,Dry season,###
+Bauchi,Sep,993,123,
+Kebbis,Mar,1463,123,###
+Enugu,Jan,1269,Dry season,
+Anambra,Feb,1988,Dry season,
+Ed0o,Dec,663,123,###
+Plateau,Jul,1265,123,###
+Imo,???,1002,123,
+Anambra,,534,123,
+Jigawa,May,1736,Dry season,###
+Bauchi,Nov,930,Dry season,
+Imo,Feb,1517,123,###
+Plateau,Oct,1641,flooded!!!,
+Borno,May,1700,123,irrelevant
+Enugu,Jun,133,Dry season,###
+Anambra,Apr,1731,Heavy rain,###
+Ebonyi,,966,,###
+Kaduna,Oct,1896,123,###
+Kano,Jan,1573,Dry season,###
+kogi,May,673,,irrelevant
+Ogun,Feb,1055,,irrelevant
+Kwara,Apr,1195,flooded!!!,irrelevant
+Anambra,May,671,Heavy rain,
+Rivers,Jan,1163,123,###
+Enugu,May,327,123,irrelevant
+Ekiti,Aug,1280,Dry season,###
+Abla,Aug,1365,Heavy rain,###
+gombe,Feb,1913,Dry season,
+Kaduba,May,1145,flooded!!!,
+Anambra,Aug,1294,,###
+Adamawa,,442,,irrelevant
+Abuja,Jan,1375,,
+kogi,Jul,1645,123,
+Kaduna,Feb,1395,flooded!!!,
+Ondo,Oct,26,123,###
+Bauchi,Apr,491,flooded!!!,irrelevant
+Plateau,Nov,1673,flooded!!!,irrelevant
+Ogun,Apr,1337,flooded!!!,
+Ed0o,Apr,825,Heavy rain,###
+Abla,???,1060,Heavy rain,###
+crossriver,May,1580,123,###
+Nasarawa,Mar,858,123,###
+Kaduba,Oct,1741,123,###
+crossriver,Aug,656,Dry season,###
+Kaduna,Apr,1761,,irrelevant
+katsina,May,1865,,###
+Rivers,Jan,1081,Dry season,###
+Anambra,Jan,1667,,irrelevant
+Imo,Feb,1995,Heavy rain,###
+Taraba,Feb,356,Heavy rain,###
+Bauchi,Aug,696,123,irrelevant
+Kano,Apr,1464,123,
+Niger,,154,Heavy rain,###
+gombe,Apr,1625,Heavy rain,
+Anambra,,1525,Dry season,
+Abuja,Feb,919,Heavy rain,
+Delta,Dec,920,Heavy rain,irrelevant
+Delta,Mar,599,,irrelevant
+Enugu,Dec,1774,123,irrelevant
+Enugu,Mar,927,,irrelevant
+kogi,Nov,1070,Dry season,irrelevant
+Ebonyi,Nov,280,Heavy rain,###
+kogi,Aug,16,flooded!!!,###
+Kwara,Sep,1156,Dry season,
+Bauchi,,15,flooded!!!,###
+Cross River,Sep,1157,Dry season,
+Anambra,Mar,193,Heavy rain,irrelevant
+Oyo,Apr,1465,Heavy rain,irrelevant
+Ed0o,Dec,1713,Heavy rain,
+Taraba,Feb,518,flooded!!!,###
+Kwara,Apr,16,123,irrelevant
+Kaduna,May,21,Heavy rain,irrelevant
+Yobe,Jun,1777,,
+benue,Jan,495,Dry season,
+Ekiti,Sep,47,Heavy rain,###
+Enugu,Jan,1275,Dry season,###
+Delta,Jun,161,123,###
+Taraba,Feb,1686,Heavy rain,###
+S0koto,Apr,795,Heavy rain,irrelevant
+Kebbis,Jul,1617,123,###
+Abuja,Oct,1530,123,
+Abuja,,1264,Dry season,
+Enugu,Nov,675,Heavy rain,###
+Imo,Aug,242,Heavy rain,###
+Cross River,Sep,112,,irrelevant
+Ondo,Aug,12,,irrelevant
+Anambra,Feb,328,123,###
+Yobe,???,275,Dry season,irrelevant
+Bauchi,Feb,524,Heavy rain,
+Kaduba,Sep,1765,flooded!!!,irrelevant
+lagos ,May,1337,,###
+Ogun,Oct,406,123,irrelevant
+Delta,Jan,960,flooded!!!,irrelevant
+Lagos,Sep,1221,123,irrelevant
+Nasarawa,???,1082,Heavy rain,irrelevant
+Adamawa,Mar,1840,123,###
+Bauchi,May,1549,Heavy rain,
+Kwara,Feb,475,123,###
+Benue,Sep,218,,###
+Yobe,Jul,781,Dry season,
+lagos ,Aug,1070,123,
+kogi,Feb,956,Heavy rain,###
